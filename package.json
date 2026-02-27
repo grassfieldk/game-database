@@ -1,0 +1,16 @@
+{
+  "name": "game-database",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/node": "^25.3.2",
+    "tsx": "^4.21.0"
+  }
+}
