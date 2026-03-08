@@ -1,0 +1,3785 @@
+{
+  "id": 1191,
+  "name": "エレン",
+  "codeName": "Ellen",
+  "rarity": "S",
+  "weaponType": "強攻",
+  "elementType": "氷属性",
+  "hitType": "斬撃",
+  "camp": "ヴィクトリア家政",
+  "stats": {
+    "armor": 0,
+    "armorGrowth": 0,
+    "attack": 135,
+    "attackGrowth": 82578,
+    "avatarPieceId": 5191,
+    "breakStun": 93,
+    "crit": 500,
+    "critDamage": 5000,
+    "critDmgRes": 0,
+    "critRes": 0,
+    "defence": 49,
+    "defenceGrowth": 66203,
+    "elementAbnormalPower": 94,
+    "elementMystery": 93,
+    "endurance": 0,
+    "hpGrowth": 837238,
+    "hpMax": 617,
+    "penDelta": 0,
+    "penRate": 0,
+    "rbl": 1,
+    "rblCorrectionFactor": 10000,
+    "rblProbability": 0,
+    "shield": 0,
+    "shieldGrowth": 0,
+    "spBarPoint": 120,
+    "spRecover": 120,
+    "stun": 0,
+    "rpMax": 0,
+    "rpRecover": 0
+  },
+  "level": {
+    "1": {
+      "hpMax": 0,
+      "attack": 0,
+      "defence": 0,
+      "levelMax": 10,
+      "levelMin": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hpMax": 423,
+      "attack": 48,
+      "defence": 33,
+      "levelMax": 20,
+      "levelMin": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hpMax": 847,
+      "attack": 96,
+      "defence": 67,
+      "levelMax": 30,
+      "levelMin": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hpMax": 1270,
+      "attack": 145,
+      "defence": 100,
+      "levelMax": 40,
+      "levelMin": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hpMax": 1694,
+      "attack": 193,
+      "defence": 134,
+      "levelMax": 50,
+      "levelMin": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hpMax": 2117,
+      "attack": 241,
+      "defence": 167,
+      "levelMax": 60,
+      "levelMin": 50,
+      "materials": {}
+    }
+  },
+  "extraLevel": {
+    "1": {
+      "maxLevel": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "maxLevel": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "maxLevel": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "maxLevel": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "maxLevel": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "maxLevel": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "levelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "通常攻撃：鋭牙剪定法",
+          "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大3段の攻撃を放ち、物理属性ダメージを与える。\n3段目の最中に、 <IconMap:Icon_Normal> を連打または長押しすると、スキルの継続時間が延長される。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：急凍剪定法",
+          "desc": "「急凍」効果発動後に <IconMap:Icon_Normal> を押して発動：\n前方に最大3段の攻撃を放ち、氷属性ダメージを与える。\n1段ごとに「急凍パワー」を1Pt消費する。\n3段目の最中に、 <IconMap:Icon_Normal> を連打または長押しすると、スキルの継続時間が延長される。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：氷刃の波",
+          "desc": "『通常攻撃：急凍剪定法』3段目、『ダッシュ攻撃：薄氷の急襲』チャージ鋏撃、『回避反撃：暗礁』と『クイック支援』発動後、エレンが『急凍パワー』を所持している場合、 <IconMap:Icon_Normal> を押すと『通常攻撃：氷刃の波』を発動し、氷属性ダメージを与える。\nスキルは『急凍パワー』を2Pt消費する。\nスキル発動後、そのまま『通常攻撃』3段目に繋げることが可能。\nスキル発動中、無敵効果を得る。",
+          "potential": [
+            119100,
+            119101,
+            119102,
+            119103,
+            119104,
+            119105
+          ]
+        },
+        {
+          "name": "通常攻撃：霜鋒",
+          "desc": "『通常攻撃：急凍剪定法』3段目、『強化特殊スキル：シャーク・トルネード』、『回避反撃：暗礁』、『支援突撃』発動後、自動的に『通常攻撃：霜鋒』が発動し、前方の広範囲の敵に複数段の氷属性ダメージを与え、中型/大型エネミーにはそれぞれ追加で複数段の氷属性ダメージを与える。\nスキル発動後、エレンは「クイックチャージ」効果を獲得する。\n『通常攻撃：霜鋒』は元のスキル派生に影響を与えない。\nスキル発動中、無敵効果を得る。",
+          "potential": [
+            119100,
+            119101,
+            119102,
+            119103,
+            119104,
+            119105
+          ]
+        },
+        {
+          "name": "通常攻撃：鋭牙剪定法",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1191001, Prop:1001}",
+              "param": {
+                "1191001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 450,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 48.8,
+                      "growth": 450,
+                      "damagePercentage": 98.3,
+                      "stunRatio": 37.6,
+                      "spRecovery": 6790,
+                      "feverRecovery": 61050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2218
+                    },
+                    "16": {
+                      "main": 48.8,
+                      "growth": 450,
+                      "damagePercentage": 116.3,
+                      "stunRatio": 42.4,
+                      "spRecovery": 6790,
+                      "feverRecovery": 61050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2218
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1191002, Prop:1001}",
+              "param": {
+                "1191002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1010,
+                  "stunRatioGrowth": 400,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 111.1,
+                      "growth": 1010,
+                      "damagePercentage": 222.2,
+                      "stunRatio": 130.8,
+                      "spRecovery": 24150,
+                      "feverRecovery": 216975,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7890
+                    },
+                    "16": {
+                      "main": 111.1,
+                      "growth": 1010,
+                      "damagePercentage": 262.6,
+                      "stunRatio": 146.8,
+                      "spRecovery": 24150,
+                      "feverRecovery": 216975,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7890
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1191003, Prop:1001}",
+              "param": {
+                "1191003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2710,
+                  "stunRatioGrowth": 1100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 297.3,
+                      "growth": 2710,
+                      "damagePercentage": 595.4,
+                      "stunRatio": 361.4,
+                      "spRecovery": 66880,
+                      "feverRecovery": 601150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21854
+                    },
+                    "16": {
+                      "main": 297.3,
+                      "growth": 2710,
+                      "damagePercentage": 703.8,
+                      "stunRatio": 405.4,
+                      "spRecovery": 66880,
+                      "feverRecovery": 601150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21854
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1191001, Prop:1002}",
+              "param": {
+                "1191001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 450,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 24.4,
+                      "growth": 120,
+                      "damagePercentage": 98.3,
+                      "stunRatio": 37.6,
+                      "spRecovery": 6790,
+                      "feverRecovery": 61050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2218
+                    },
+                    "16": {
+                      "main": 24.4,
+                      "growth": 120,
+                      "damagePercentage": 116.3,
+                      "stunRatio": 42.4,
+                      "spRecovery": 6790,
+                      "feverRecovery": 61050,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2218
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1191002, Prop:1002}",
+              "param": {
+                "1191002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1010,
+                  "stunRatioGrowth": 400,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 86.8,
+                      "growth": 400,
+                      "damagePercentage": 222.2,
+                      "stunRatio": 130.8,
+                      "spRecovery": 24150,
+                      "feverRecovery": 216975,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7890
+                    },
+                    "16": {
+                      "main": 86.8,
+                      "growth": 400,
+                      "damagePercentage": 262.6,
+                      "stunRatio": 146.8,
+                      "spRecovery": 24150,
+                      "feverRecovery": 216975,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7890
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1191003, Prop:1002}",
+              "param": {
+                "1191003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2710,
+                  "stunRatioGrowth": 1100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 240.4,
+                      "growth": 1100,
+                      "damagePercentage": 595.4,
+                      "stunRatio": 361.4,
+                      "spRecovery": 66880,
+                      "feverRecovery": 601150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21854
+                    },
+                    "16": {
+                      "main": 240.4,
+                      "growth": 1100,
+                      "damagePercentage": 703.8,
+                      "stunRatio": 405.4,
+                      "spRecovery": 66880,
+                      "feverRecovery": 601150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21854
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：急凍剪定法",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1191004, Prop:1001}",
+              "param": {
+                "1191004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 910,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 99.6,
+                      "growth": 910,
+                      "damagePercentage": 199.7,
+                      "stunRatio": 74.1,
+                      "spRecovery": 13580,
+                      "feverRecovery": 122100,
+                      "attributeInfliction": 4435,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4436
+                    },
+                    "16": {
+                      "main": 99.6,
+                      "growth": 910,
+                      "damagePercentage": 236.1,
+                      "stunRatio": 83.3,
+                      "spRecovery": 13580,
+                      "feverRecovery": 122100,
+                      "attributeInfliction": 4435,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4436
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1191005, Prop:1001}",
+              "param": {
+                "1191005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1680,
+                  "stunRatioGrowth": 410,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 184,
+                      "growth": 1680,
+                      "damagePercentage": 368.8,
+                      "stunRatio": 135.3,
+                      "spRecovery": 25090,
+                      "feverRecovery": 225500,
+                      "attributeInfliction": 8199,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8200
+                    },
+                    "16": {
+                      "main": 184,
+                      "growth": 1680,
+                      "damagePercentage": 436,
+                      "stunRatio": 151.7,
+                      "spRecovery": 25090,
+                      "feverRecovery": 225500,
+                      "attributeInfliction": 8199,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8200
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1191006, Prop:1001}",
+              "param": {
+                "1191006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4520,
+                  "stunRatioGrowth": 1120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 496.2,
+                      "growth": 4520,
+                      "damagePercentage": 993.4,
+                      "stunRatio": 368.7,
+                      "spRecovery": 64280,
+                      "feverRecovery": 613800,
+                      "attributeInfliction": 22317,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22318
+                    },
+                    "16": {
+                      "main": 496.2,
+                      "growth": 4520,
+                      "damagePercentage": 1174.2,
+                      "stunRatio": 413.5,
+                      "spRecovery": 64280,
+                      "feverRecovery": 613800,
+                      "attributeInfliction": 22317,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22318
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1191004, Prop:1002}",
+              "param": {
+                "1191004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 910,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 48.8,
+                      "growth": 230,
+                      "damagePercentage": 199.7,
+                      "stunRatio": 74.1,
+                      "spRecovery": 13580,
+                      "feverRecovery": 122100,
+                      "attributeInfliction": 4435,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4436
+                    },
+                    "16": {
+                      "main": 48.8,
+                      "growth": 230,
+                      "damagePercentage": 236.1,
+                      "stunRatio": 83.3,
+                      "spRecovery": 13580,
+                      "feverRecovery": 122100,
+                      "attributeInfliction": 4435,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4436
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1191005, Prop:1002}",
+              "param": {
+                "1191005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1680,
+                  "stunRatioGrowth": 410,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 90.2,
+                      "growth": 410,
+                      "damagePercentage": 368.8,
+                      "stunRatio": 135.3,
+                      "spRecovery": 25090,
+                      "feverRecovery": 225500,
+                      "attributeInfliction": 8199,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8200
+                    },
+                    "16": {
+                      "main": 90.2,
+                      "growth": 410,
+                      "damagePercentage": 436,
+                      "stunRatio": 151.7,
+                      "spRecovery": 25090,
+                      "feverRecovery": 225500,
+                      "attributeInfliction": 8199,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8200
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1191006, Prop:1002}",
+              "param": {
+                "1191006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4520,
+                  "stunRatioGrowth": 1120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 245.5,
+                      "growth": 1120,
+                      "damagePercentage": 993.4,
+                      "stunRatio": 368.7,
+                      "spRecovery": 64280,
+                      "feverRecovery": 613800,
+                      "attributeInfliction": 22317,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22318
+                    },
+                    "16": {
+                      "main": 245.5,
+                      "growth": 1120,
+                      "damagePercentage": 1174.2,
+                      "stunRatio": 413.5,
+                      "spRecovery": 64280,
+                      "feverRecovery": 613800,
+                      "attributeInfliction": 22317,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22318
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：氷刃の波",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1191029, Prop:1001}",
+              "param": {
+                "1191029": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2100,
+                  "stunRatioGrowth": 310,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 230.2,
+                      "growth": 2100,
+                      "damagePercentage": 461.2,
+                      "stunRatio": 101.1,
+                      "spRecovery": 18620,
+                      "feverRecovery": 167475,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9125
+                    },
+                    "16": {
+                      "main": 230.2,
+                      "growth": 2100,
+                      "damagePercentage": 545.2,
+                      "stunRatio": 113.5,
+                      "spRecovery": 18620,
+                      "feverRecovery": 167475,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9125
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1191030, Prop:1001}",
+              "param": {
+                "1191030": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1340,
+                  "stunRatioGrowth": 390,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 146.8,
+                      "growth": 1340,
+                      "damagePercentage": 294.2,
+                      "stunRatio": 127.1,
+                      "spRecovery": 23410,
+                      "feverRecovery": 210375,
+                      "attributeInfliction": 4996,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5464
+                    },
+                    "16": {
+                      "main": 146.8,
+                      "growth": 1340,
+                      "damagePercentage": 347.8,
+                      "stunRatio": 142.7,
+                      "spRecovery": 23410,
+                      "feverRecovery": 210375,
+                      "attributeInfliction": 4996,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5464
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1191029, Prop:1002}",
+              "param": {
+                "1191029": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2100,
+                  "stunRatioGrowth": 310,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 67,
+                      "growth": 310,
+                      "damagePercentage": 461.2,
+                      "stunRatio": 101.1,
+                      "spRecovery": 18620,
+                      "feverRecovery": 167475,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9125
+                    },
+                    "16": {
+                      "main": 67,
+                      "growth": 310,
+                      "damagePercentage": 545.2,
+                      "stunRatio": 113.5,
+                      "spRecovery": 18620,
+                      "feverRecovery": 167475,
+                      "attributeInfliction": 12166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9125
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1191030, Prop:1002}",
+              "param": {
+                "1191030": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1340,
+                  "stunRatioGrowth": 390,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 84.2,
+                      "growth": 390,
+                      "damagePercentage": 294.2,
+                      "stunRatio": 127.1,
+                      "spRecovery": 23410,
+                      "feverRecovery": 210375,
+                      "attributeInfliction": 4996,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5464
+                    },
+                    "16": {
+                      "main": 84.2,
+                      "growth": 390,
+                      "damagePercentage": 347.8,
+                      "stunRatio": 142.7,
+                      "spRecovery": 23410,
+                      "feverRecovery": 210375,
+                      "attributeInfliction": 4996,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5464
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            }
+          ],
+          "potential": [
+            119100,
+            119101,
+            119102,
+            119103,
+            119104,
+            119105
+          ]
+        },
+        {
+          "name": "通常攻撃：霜鋒",
+          "param": [
+            {
+              "name": "小型の敵に対するダメージ倍率",
+              "desc": "{{Skill:1191027, Prop:1001}*3}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "中型の敵に対するダメージ倍率",
+              "desc": "{{Skill:1191027, Prop:1001}*3+{Skill:1191028, Prop:1001}*3}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                },
+                "1191028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 120,
+                  "stunRatioGrowth": 30,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 13,
+                      "growth": 120,
+                      "damagePercentage": 26.2,
+                      "stunRatio": 8.9,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    },
+                    "16": {
+                      "main": 13,
+                      "growth": 120,
+                      "damagePercentage": 31,
+                      "stunRatio": 10.1,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "大型の敵に対するダメージ倍率",
+              "desc": "{{Skill:1191027, Prop:1001}*3+{Skill:1191028, Prop:1001}*6}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 60.4,
+                      "growth": 550,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                },
+                "1191028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 120,
+                  "stunRatioGrowth": 30,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 13,
+                      "growth": 120,
+                      "damagePercentage": 26.2,
+                      "stunRatio": 8.9,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    },
+                    "16": {
+                      "main": 13,
+                      "growth": 120,
+                      "damagePercentage": 31,
+                      "stunRatio": 10.1,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "小型の敵に対するブレイク倍率",
+              "desc": "{{Skill:1191027, Prop:1002}*3}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "中型の敵に対するブレイク倍率",
+              "desc": "{{Skill:1191027, Prop:1002}*3+{Skill:1191028, Prop:1002}*3}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                },
+                "1191028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 120,
+                  "stunRatioGrowth": 30,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 5.6,
+                      "growth": 30,
+                      "damagePercentage": 26.2,
+                      "stunRatio": 8.9,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    },
+                    "16": {
+                      "main": 5.6,
+                      "growth": 30,
+                      "damagePercentage": 31,
+                      "stunRatio": 10.1,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            },
+            {
+              "name": "大型の敵に対するブレイク倍率",
+              "desc": "{{Skill:1191027, Prop:1002}*3+{Skill:1191028, Prop:1002}*6}",
+              "param": {
+                "1191027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 550,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 120.9,
+                      "stunRatio": 39,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    },
+                    "16": {
+                      "main": 25.8,
+                      "growth": 120,
+                      "damagePercentage": 142.9,
+                      "stunRatio": 43.8,
+                      "spRecovery": 8420,
+                      "feverRecovery": 64350,
+                      "attributeInfliction": 2338,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2339
+                    }
+                  }
+                },
+                "1191028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 120,
+                  "stunRatioGrowth": 30,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 5.6,
+                      "growth": 30,
+                      "damagePercentage": 26.2,
+                      "stunRatio": 8.9,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    },
+                    "16": {
+                      "main": 5.6,
+                      "growth": 30,
+                      "damagePercentage": 31,
+                      "stunRatio": 10.1,
+                      "spRecovery": 1810,
+                      "feverRecovery": 14025,
+                      "attributeInfliction": 501,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 502
+                    }
+                  }
+                }
+              },
+              "potential": [
+                119100,
+                119101,
+                119102,
+                119103,
+                119104,
+                119105
+              ]
+            }
+          ],
+          "potential": [
+            119100,
+            119101,
+            119102,
+            119103,
+            119104,
+            119105
+          ]
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "回避：渦",
+          "desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。\n『極限回避』を発動した場合、エレンは「クイックチャージ」効果を獲得する、最大で5秒継続。効果中は、次の『ダッシュ攻撃：薄氷の急襲』のチャージ時間が短縮される、1回のみ発動できる。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ：狩り遊ぶ",
+          "desc": " <IconMap:Icon_Evade> を長押しまたは2回押して発動：\n『遊狩』状態に入り、素早くダッシュで移動する。\n『遊狩』状態中は{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向転換し、離すと止まる。\nスキルを発動した瞬間に、しばらく無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：薄氷の急襲",
+          "desc": "『遊狩』状態にある時、 <IconMap:Icon_Normal> を押して発動：\n敵に回転斬撃を放ったのち、ハサミを開いてクイック鋏撃を行い、氷属性ダメージを与える。\nクイック鋏撃が命中した時、「急凍パワー」を1Pt獲得する。\n\n『遊狩』状態にある時、 <IconMap:Icon_Normal> を長押しして発動：\n敵に回転斬撃を放ったのち、ハサミを開いてチャージ鋏撃を行い、氷属性ダメージを大量に与える。\nチャージ鋏撃が命中した時、「急凍パワー」を3Pt獲得する。敵が「凍結」状態にある場合、必ず「砕氷」効果を発動する。\nチャージ中は中断耐性レベルがアップし、被ダメージ-40%。\nスキル発動中、無敵効果を得る。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "ダッシュ攻撃：薄氷の急襲",
+          "desc": "「遊狩」状態にある時、 <IconMap:Icon_Normal> を押して発動：\n敵に回転斬撃を放ったのち、ハサミを開いてクイック鋏撃を行い、氷属性ダメージを与える。\nクイック鋏撃が命中した時、「急凍パワー」を1Pt獲得する。\n\n『遊狩』状態にある時、 <IconMap:Icon_Normal> を長押しして発動：\n敵に回転斬撃を放ったのち、ハサミを開いてチャージ鋏撃を行い、氷属性ダメージを大量に与える。\nチャージ鋏撃が命中した時、「急凍パワー」を3Pt獲得する。敵が「凍結」状態にある場合、必ず「砕氷」効果を発動する。\nチャージ中は中断耐性レベルがアップし、被ダメージ-40%。\nチャージ中に敵からダメージを受けた時、そのダメージを無効化し、即座にチャージが完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": [
+            119100,
+            119101,
+            119102,
+            119103,
+            119104,
+            119105
+          ]
+        },
+        {
+          "name": "急凍",
+          "desc": "「急凍パワー」を所持している場合、「急凍」効果を発動する。「急凍」効果発動後、『通常攻撃』と『ダッシュ攻撃』は「急凍パワー」を消費し、氷属性ダメージを大量に与える。エレンが所持できる「急凍パワー」は最大6Ptまで。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：荒波",
+          "desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に突進斬撃を放ち、物理属性ダメージを与える。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：寒潮",
+          "desc": "「急凍」効果発動後に回避した時に <IconMap:Icon_Normal> を押して発動：\n前方に突進斬撃を放ち、氷属性ダメージを与える。\n「急凍パワー」を1Pt消費する。",
+          "potential": []
+        },
+        {
+          "name": "回避反撃：暗礁",
+          "desc": "『極限回避』後に <IconMap:Icon_Normal> を押して発動：\n素早く敵の間をくぐり抜け、ハサミを開いて鋏撃を行い、氷属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：薄氷の急襲",
+          "param": [
+            {
+              "name": "回転斬撃ダメージ倍率",
+              "desc": "{Skill:1191007, Prop:1001}",
+              "param": {
+                "1191007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 570,
+                  "stunRatioGrowth": 290,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 62.3,
+                      "growth": 570,
+                      "damagePercentage": 125,
+                      "stunRatio": 94.2,
+                      "spRecovery": 20380,
+                      "feverRecovery": 155650,
+                      "attributeInfliction": 5659,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5660
+                    },
+                    "16": {
+                      "main": 62.3,
+                      "growth": 570,
+                      "damagePercentage": 147.8,
+                      "stunRatio": 105.8,
+                      "spRecovery": 20380,
+                      "feverRecovery": 155650,
+                      "attributeInfliction": 5659,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5660
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "クイック鋏撃ダメージ倍率",
+              "desc": "{Skill:1191008, Prop:1001}",
+              "param": {
+                "1191008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1160,
+                  "stunRatioGrowth": 450,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 127.6,
+                      "growth": 1160,
+                      "damagePercentage": 255.2,
+                      "stunRatio": 147.7,
+                      "spRecovery": 32110,
+                      "feverRecovery": 245300,
+                      "attributeInfliction": 8919,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8920
+                    },
+                    "16": {
+                      "main": 127.6,
+                      "growth": 1160,
+                      "damagePercentage": 301.6,
+                      "stunRatio": 165.7,
+                      "spRecovery": 32110,
+                      "feverRecovery": 245300,
+                      "attributeInfliction": 8919,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8920
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "チャージ鋏撃ダメージ倍率",
+              "desc": "{Skill:1191009, Prop:1001}",
+              "param": {
+                "1191009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1440,
+                  "stunRatioGrowth": 560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 158.2,
+                      "growth": 1440,
+                      "damagePercentage": 316.6,
+                      "stunRatio": 183.3,
+                      "spRecovery": 39810,
+                      "feverRecovery": 304150,
+                      "attributeInfliction": 11056,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11057
+                    },
+                    "16": {
+                      "main": 158.2,
+                      "growth": 1440,
+                      "damagePercentage": 374.2,
+                      "stunRatio": 205.7,
+                      "spRecovery": 39810,
+                      "feverRecovery": 304150,
+                      "attributeInfliction": 11056,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11057
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "回転斬撃ブレイク倍率",
+              "desc": "{Skill:1191007, Prop:1002}",
+              "param": {
+                "1191007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 570,
+                  "stunRatioGrowth": 290,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 62.3,
+                      "growth": 290,
+                      "damagePercentage": 125,
+                      "stunRatio": 94.2,
+                      "spRecovery": 20380,
+                      "feverRecovery": 155650,
+                      "attributeInfliction": 5659,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5660
+                    },
+                    "16": {
+                      "main": 62.3,
+                      "growth": 290,
+                      "damagePercentage": 147.8,
+                      "stunRatio": 105.8,
+                      "spRecovery": 20380,
+                      "feverRecovery": 155650,
+                      "attributeInfliction": 5659,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5660
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "クイック鋏撃ブレイク倍率",
+              "desc": "{Skill:1191008, Prop:1002}",
+              "param": {
+                "1191008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1160,
+                  "stunRatioGrowth": 450,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 98.2,
+                      "growth": 450,
+                      "damagePercentage": 255.2,
+                      "stunRatio": 147.7,
+                      "spRecovery": 32110,
+                      "feverRecovery": 245300,
+                      "attributeInfliction": 8919,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8920
+                    },
+                    "16": {
+                      "main": 98.2,
+                      "growth": 450,
+                      "damagePercentage": 301.6,
+                      "stunRatio": 165.7,
+                      "spRecovery": 32110,
+                      "feverRecovery": 245300,
+                      "attributeInfliction": 8919,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8920
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "チャージ鋏撃ブレイク倍率",
+              "desc": "{Skill:1191009, Prop:1002}",
+              "param": {
+                "1191009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1440,
+                  "stunRatioGrowth": 560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 121.7,
+                      "growth": 560,
+                      "damagePercentage": 316.6,
+                      "stunRatio": 183.3,
+                      "spRecovery": 39810,
+                      "feverRecovery": 304150,
+                      "attributeInfliction": 11056,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11057
+                    },
+                    "16": {
+                      "main": 121.7,
+                      "growth": 560,
+                      "damagePercentage": 374.2,
+                      "stunRatio": 205.7,
+                      "spRecovery": 39810,
+                      "feverRecovery": 304150,
+                      "attributeInfliction": 11056,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11057
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "クイック鋏撃で獲得する急凍パワー",
+              "desc": "1Pt",
+              "potential": []
+            },
+            {
+              "name": "チャージ鋏撃で獲得する急凍パワー",
+              "desc": "3Pt",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：荒波",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191013, Prop:1001}",
+              "param": {
+                "1191013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 700,
+                  "stunRatioGrowth": 180,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 77,
+                      "growth": 700,
+                      "damagePercentage": 154,
+                      "stunRatio": 58.3,
+                      "spRecovery": 12600,
+                      "feverRecovery": 96250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3499
+                    },
+                    "16": {
+                      "main": 77,
+                      "growth": 700,
+                      "damagePercentage": 182,
+                      "stunRatio": 65.5,
+                      "spRecovery": 12600,
+                      "feverRecovery": 96250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3499
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191013, Prop:1002}",
+              "param": {
+                "1191013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 700,
+                  "stunRatioGrowth": 180,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 38.5,
+                      "growth": 180,
+                      "damagePercentage": 154,
+                      "stunRatio": 58.3,
+                      "spRecovery": 12600,
+                      "feverRecovery": 96250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3499
+                    },
+                    "16": {
+                      "main": 38.5,
+                      "growth": 180,
+                      "damagePercentage": 182,
+                      "stunRatio": 65.5,
+                      "spRecovery": 12600,
+                      "feverRecovery": 96250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3499
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：寒潮",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191014, Prop:1001}",
+              "param": {
+                "1191014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1330,
+                  "stunRatioGrowth": 360,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 145.7,
+                      "growth": 1330,
+                      "damagePercentage": 292,
+                      "stunRatio": 118.4,
+                      "spRecovery": 25790,
+                      "feverRecovery": 197175,
+                      "attributeInfliction": 7163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3582
+                    },
+                    "16": {
+                      "main": 145.7,
+                      "growth": 1330,
+                      "damagePercentage": 345.2,
+                      "stunRatio": 132.8,
+                      "spRecovery": 25790,
+                      "feverRecovery": 197175,
+                      "attributeInfliction": 7163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3582
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191014, Prop:1002}",
+              "param": {
+                "1191014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1330,
+                  "stunRatioGrowth": 360,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 78.8,
+                      "growth": 360,
+                      "damagePercentage": 292,
+                      "stunRatio": 118.4,
+                      "spRecovery": 25790,
+                      "feverRecovery": 197175,
+                      "attributeInfliction": 7163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3582
+                    },
+                    "16": {
+                      "main": 78.8,
+                      "growth": 360,
+                      "damagePercentage": 345.2,
+                      "stunRatio": 132.8,
+                      "spRecovery": 25790,
+                      "feverRecovery": 197175,
+                      "attributeInfliction": 7163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3582
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "回避反撃：暗礁",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191015, Prop:1001}",
+              "param": {
+                "1191015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1390,
+                  "stunRatioGrowth": 1040,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 152.6,
+                      "growth": 1390,
+                      "damagePercentage": 305.5,
+                      "stunRatio": 341.8,
+                      "spRecovery": 38420,
+                      "feverRecovery": 293700,
+                      "attributeInfliction": 10670,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25671
+                    },
+                    "16": {
+                      "main": 152.6,
+                      "growth": 1390,
+                      "damagePercentage": 361.1,
+                      "stunRatio": 383.4,
+                      "spRecovery": 38420,
+                      "feverRecovery": 293700,
+                      "attributeInfliction": 10670,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25671
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191015, Prop:1002}",
+              "param": {
+                "1191015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1390,
+                  "stunRatioGrowth": 1040,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 227.4,
+                      "growth": 1040,
+                      "damagePercentage": 305.5,
+                      "stunRatio": 341.8,
+                      "spRecovery": 38420,
+                      "feverRecovery": 293700,
+                      "attributeInfliction": 10670,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25671
+                    },
+                    "16": {
+                      "main": 227.4,
+                      "growth": 1040,
+                      "damagePercentage": 361.1,
+                      "stunRatio": 383.4,
+                      "spRecovery": 38420,
+                      "feverRecovery": 293700,
+                      "attributeInfliction": 10670,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25671
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊スキル：尾びれビンタ",
+          "desc": " <IconMap:Icon_Special> を押して発動：\n素早く尾びれで薙ぎ払って前方に攻撃を放ち、氷属性ダメージを与える。\nスキル発動中、中断耐性レベルがアップする。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：一掃",
+          "desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n尾びれで薙ぎ払って前方に強力な攻撃を放ち、氷属性ダメージを大量に与える。\n敵に命中すると、「急凍パワー」を1Pt獲得する。\nスキル発動中、無敵効果を得る。\nスキル発動後、そのまま『通常攻撃』の3段目に繋げることが可能。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：シャーク・トルネード",
+          "desc": "『強化特殊スキル：一掃』発動後、エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n前方に強力な斬撃を連続で放ち、氷属性ダメージを大量に与える。\n敵に命中すると、「急凍パワー」を1Pt獲得する。\nスキル発動中、無敵効果を得る。\nスキル発動後、そのまま『通常攻撃』の3段目に繋げることが可能。",
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：尾びれビンタ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191010, Prop:1001}",
+              "param": {
+                "1191010": {
+                  "format": "%",
+                  "damagePercentageGrowth": 460,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 50.5,
+                      "growth": 460,
+                      "damagePercentage": 101.1,
+                      "stunRatio": 75.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 126225,
+                      "attributeInfliction": 4584,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4585
+                    },
+                    "16": {
+                      "main": 50.5,
+                      "growth": 460,
+                      "damagePercentage": 119.5,
+                      "stunRatio": 85,
+                      "spRecovery": 0,
+                      "feverRecovery": 126225,
+                      "attributeInfliction": 4584,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4585
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191010, Prop:1002}",
+              "param": {
+                "1191010": {
+                  "format": "%",
+                  "damagePercentageGrowth": 460,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 50.5,
+                      "growth": 230,
+                      "damagePercentage": 101.1,
+                      "stunRatio": 75.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 126225,
+                      "attributeInfliction": 4584,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4585
+                    },
+                    "16": {
+                      "main": 50.5,
+                      "growth": 230,
+                      "damagePercentage": 119.5,
+                      "stunRatio": 85,
+                      "spRecovery": 0,
+                      "feverRecovery": 126225,
+                      "attributeInfliction": 4584,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4585
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：一掃",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191011, Prop:1001}",
+              "param": {
+                "1191011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3430,
+                  "stunRatioGrowth": 1850,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 377.2,
+                      "growth": 3430,
+                      "damagePercentage": 754.5,
+                      "stunRatio": 608.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1403600,
+                      "attributeInfliction": 40373,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15504
+                    },
+                    "16": {
+                      "main": 377.2,
+                      "growth": 3430,
+                      "damagePercentage": 891.7,
+                      "stunRatio": 682.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1403600,
+                      "attributeInfliction": 40373,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15504
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191011, Prop:1002}",
+              "param": {
+                "1191011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3430,
+                  "stunRatioGrowth": 1850,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 405.1,
+                      "growth": 1850,
+                      "damagePercentage": 754.5,
+                      "stunRatio": 608.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1403600,
+                      "attributeInfliction": 40373,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15504
+                    },
+                    "16": {
+                      "main": 405.1,
+                      "growth": 1850,
+                      "damagePercentage": 891.7,
+                      "stunRatio": 682.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1403600,
+                      "attributeInfliction": 40373,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15504
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "エネルギー消費",
+              "desc": "40Pt",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：シャーク・トルネード",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191012, Prop:1001}",
+              "param": {
+                "1191012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5030,
+                  "stunRatioGrowth": 1690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 553.3,
+                      "growth": 5030,
+                      "damagePercentage": 1106.6,
+                      "stunRatio": 557.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1307075,
+                      "attributeInfliction": 37219,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    },
+                    "16": {
+                      "main": 553.3,
+                      "growth": 5030,
+                      "damagePercentage": 1307.8,
+                      "stunRatio": 625.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 1307075,
+                      "attributeInfliction": 37219,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191012, Prop:1002}",
+              "param": {
+                "1191012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5030,
+                  "stunRatioGrowth": 1690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 371.7,
+                      "growth": 1690,
+                      "damagePercentage": 1106.6,
+                      "stunRatio": 557.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1307075,
+                      "attributeInfliction": 37219,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    },
+                    "16": {
+                      "main": 371.7,
+                      "growth": 1690,
+                      "damagePercentage": 1307.8,
+                      "stunRatio": 625.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 1307075,
+                      "attributeInfliction": 37219,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "エネルギー消費",
+              "desc": "40Pt",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "連携スキル：雪崩",
+          "desc": "『連携スキル』開始時に、対応するエージェントを選択して発動：\n空中から落下攻撃を放ち、氷の嵐を生成し、氷属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "終結スキル：終わりなき冬の狂宴",
+          "desc": "デシベルレートが『Maximum』に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n空中から落下攻撃を放ち、氷の嵐を生成し、ハサミで強烈な一撃を与え、氷属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "連携スキル：雪崩",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191016, Prop:1001}",
+              "param": {
+                "1191016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 7230,
+                  "stunRatioGrowth": 1620,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 794.6,
+                      "growth": 7230,
+                      "damagePercentage": 1589.9,
+                      "stunRatio": 533.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 2718100,
+                      "attributeInfliction": 52283,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32334
+                    },
+                    "16": {
+                      "main": 794.6,
+                      "growth": 7230,
+                      "damagePercentage": 1879.1,
+                      "stunRatio": 598.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 2718100,
+                      "attributeInfliction": 52283,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191016, Prop:1002}",
+              "param": {
+                "1191016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 7230,
+                  "stunRatioGrowth": 1620,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 355.7,
+                      "growth": 1620,
+                      "damagePercentage": 1589.9,
+                      "stunRatio": 533.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 2718100,
+                      "attributeInfliction": 52283,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32334
+                    },
+                    "16": {
+                      "main": 355.7,
+                      "growth": 1620,
+                      "damagePercentage": 1879.1,
+                      "stunRatio": 598.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 2718100,
+                      "attributeInfliction": 52283,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "終結スキル：終わりなき冬の狂宴",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191017, Prop:1001}",
+              "param": {
+                "1191017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 17190,
+                  "stunRatioGrowth": 850,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1890.8,
+                      "growth": 17190,
+                      "damagePercentage": 3781.7,
+                      "stunRatio": 278.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 16833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 66834
+                    },
+                    "16": {
+                      "main": 1890.8,
+                      "growth": 17190,
+                      "damagePercentage": 4469.3,
+                      "stunRatio": 312.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 16833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 66834
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191017, Prop:1002}",
+              "param": {
+                "1191017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 17190,
+                  "stunRatioGrowth": 850,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 185.2,
+                      "growth": 850,
+                      "damagePercentage": 3781.7,
+                      "stunRatio": 278.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 16833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 66834
+                    },
+                    "16": {
+                      "main": 185.2,
+                      "growth": 850,
+                      "damagePercentage": 4469.3,
+                      "stunRatio": 312.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 16833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 66834
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "クイック支援：護衛シャーク",
+          "desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n素早く敵の間をくぐりながらハサミを開き、鋏撃を行い氷属性ダメージを与える。\nスキル発動中、無敵効果を得る。\n\n操作しているメンバーが吹き飛ばされた時に、 {LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Switch> を押して発動：\n『遊狩』状態に入り、素早くダッシュで移動する。\n『遊狩』状態中は{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向転換し、離すと止まる。\nスキルを発動した瞬間に、しばらく無敵効果を得る。\n『クイック支援』発動時、エレンは「クイックチャージ」効果を獲得する、最大で5秒継続。効果中は、次の『ダッシュ攻撃：薄氷の急襲』のチャージ時間が短縮される、1回のみ発動できる。",
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：向かい波",
+          "desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "支援突撃：巡洋シャーク",
+          "desc": "『パリィ支援』発動後、 <IconMap:Icon_Normal> を押して発動：\n前方の敵に突進斬撃を放ち、氷属性ダメージを与える。\nスキルの攻撃中、 <IconMap:Icon_Normal> を連打または長押しすると、スキルの継続時間が延長される。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "クイック支援：護衛シャーク",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191018, Prop:1001}",
+              "param": {
+                "1191018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1110,
+                  "stunRatioGrowth": 560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 121.1,
+                      "growth": 1110,
+                      "damagePercentage": 243.2,
+                      "stunRatio": 182.7,
+                      "spRecovery": 39620,
+                      "feverRecovery": 302775,
+                      "attributeInfliction": 11003,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5502
+                    },
+                    "16": {
+                      "main": 121.1,
+                      "growth": 1110,
+                      "damagePercentage": 287.6,
+                      "stunRatio": 205.1,
+                      "spRecovery": 39620,
+                      "feverRecovery": 302775,
+                      "attributeInfliction": 11003,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5502
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191018, Prop:1002}",
+              "param": {
+                "1191018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1110,
+                  "stunRatioGrowth": 560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 121.1,
+                      "growth": 560,
+                      "damagePercentage": 243.2,
+                      "stunRatio": 182.7,
+                      "spRecovery": 39620,
+                      "feverRecovery": 302775,
+                      "attributeInfliction": 11003,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5502
+                    },
+                    "16": {
+                      "main": 121.1,
+                      "growth": 560,
+                      "damagePercentage": 287.6,
+                      "stunRatio": 205.1,
+                      "spRecovery": 39620,
+                      "feverRecovery": 302775,
+                      "attributeInfliction": 11003,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5502
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：向かい波",
+          "param": [
+            {
+              "name": "パリィ・軽 ブレイク倍率",
+              "desc": "{Skill:1191019, Prop:1002}",
+              "param": {
+                "1191019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1240,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 271.3,
+                      "growth": 1240,
+                      "damagePercentage": 0,
+                      "stunRatio": 407.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    },
+                    "16": {
+                      "main": 271.3,
+                      "growth": 1240,
+                      "damagePercentage": 0,
+                      "stunRatio": 457.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・重 ブレイク倍率",
+              "desc": "{Skill:1191020, Prop:1002}",
+              "param": {
+                "1191020": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 342.8,
+                      "growth": 1560,
+                      "damagePercentage": 0,
+                      "stunRatio": 514.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    },
+                    "16": {
+                      "main": 342.8,
+                      "growth": 1560,
+                      "damagePercentage": 0,
+                      "stunRatio": 576.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・連続 ブレイク倍率",
+              "desc": "{Skill:1191021, Prop:1002}",
+              "param": {
+                "1191021": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 760,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 166.8,
+                      "growth": 760,
+                      "damagePercentage": 0,
+                      "stunRatio": 250.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    },
+                    "16": {
+                      "main": 166.8,
+                      "growth": 760,
+                      "damagePercentage": 0,
+                      "stunRatio": 280.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突撃：巡洋シャーク",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1191022, Prop:1001}",
+              "param": {
+                "1191022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3990,
+                  "stunRatioGrowth": 1750,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 437.9,
+                      "growth": 3990,
+                      "damagePercentage": 876.8,
+                      "stunRatio": 577.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1227600,
+                      "attributeInfliction": 37392,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20497
+                    },
+                    "16": {
+                      "main": 437.9,
+                      "growth": 3990,
+                      "damagePercentage": 1036.4,
+                      "stunRatio": 647.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1227600,
+                      "attributeInfliction": 37392,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20497
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1191022, Prop:1002}",
+              "param": {
+                "1191022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3990,
+                  "stunRatioGrowth": 1750,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 384.8,
+                      "growth": 1750,
+                      "damagePercentage": 876.8,
+                      "stunRatio": 577.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1227600,
+                      "attributeInfliction": 37392,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20497
+                    },
+                    "16": {
+                      "main": 384.8,
+                      "growth": 1750,
+                      "damagePercentage": 1036.4,
+                      "stunRatio": 647.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1227600,
+                      "attributeInfliction": 37392,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20497
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skillList": {
+    "1191001": {
+      "name": "通常攻撃：鋭牙剪定法",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191002": {
+      "name": "通常攻撃：急凍剪定法",
+      "desc": "<IconMap:Icon_Normal>（急凍）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191003": {
+      "name": "通常攻撃：氷刃の波",
+      "desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal>（急凍）; <IconMap:Icon_Normal>（急凍）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": [
+        119100,
+        119101,
+        119102,
+        119103,
+        119104,
+        119105
+      ]
+    },
+    "1191004": {
+      "name": "通常攻撃：霜鋒",
+      "desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal>（急凍）（自動）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": [
+        119100,
+        119101,
+        119102,
+        119103,
+        119104,
+        119105
+      ]
+    },
+    "1191005": {
+      "name": "特殊スキル：尾びれビンタ",
+      "desc": "<IconMap:Icon_Special>",
+      "elementType": 202,
+      "hitType": 102,
+      "potential": []
+    },
+    "1191006": {
+      "name": "強化特殊スキル：一掃",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "elementType": 202,
+      "hitType": 102,
+      "potential": []
+    },
+    "1191007": {
+      "name": "強化特殊スキル：シャーク・トルネード",
+      "desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady>",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191008": {
+      "name": "通常攻撃：霜鋒",
+      "desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady>（自動）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": [
+        119100,
+        119101,
+        119102,
+        119103,
+        119104,
+        119105
+      ]
+    },
+    "1191009": {
+      "name": "ダッシュ：狩り遊ぶ",
+      "desc": "<IconMap:Icon_Evade>（長押しまたは2回押す）",
+      "elementType": 0,
+      "hitType": 0,
+      "potential": []
+    },
+    "1191010": {
+      "name": "ダッシュ攻撃：薄氷の急襲",
+      "desc": "<IconMap:Icon_Normal>（疾走状態）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191011": {
+      "name": "ダッシュ攻撃：薄氷の急襲（チャージ）",
+      "desc": "<IconMap:Icon_Normal>（疾走状態）（長押し）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191012": {
+      "name": "通常攻撃：氷刃の波",
+      "desc": "<IconMap:Icon_Normal>（疾走状態）（長押し） ; <IconMap:Icon_Normal>",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": [
+        119100,
+        119101,
+        119102,
+        119103,
+        119104,
+        119105
+      ]
+    },
+    "1191013": {
+      "name": "ダッシュ攻撃：荒波",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191014": {
+      "name": "ダッシュ攻撃：寒潮",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>（急凍）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191015": {
+      "name": "回避反撃：暗礁",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191018": {
+      "name": "連携スキル：雪崩",
+      "desc": "<IconMap:Icon_QTE>",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191019": {
+      "name": "終結スキル：終わりなき冬の狂宴",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191020": {
+      "name": "クイック支援：護衛シャーク",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    },
+    "1191022": {
+      "name": "パリィ支援：向かい波",
+      "desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "elementType": 0,
+      "hitType": 0,
+      "potential": []
+    },
+    "1191023": {
+      "name": "支援突撃：巡洋シャーク",
+      "desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "elementType": 202,
+      "hitType": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1191501": {
+        "level": 1,
+        "id": 1191501,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+50%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191502": {
+        "level": 2,
+        "id": 1191502,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+58.3%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191503": {
+        "level": 3,
+        "id": 1191503,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+66.6%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191504": {
+        "level": 4,
+        "id": 1191504,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+75%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191505": {
+        "level": 5,
+        "id": 1191505,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+83.3%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191506": {
+        "level": 6,
+        "id": 1191506,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+91.6%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191507": {
+        "level": 7,
+        "id": 1191507,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+100%。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性与ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          0
+        ]
+      },
+      "1191508": {
+        "level": 1,
+        "id": 1191508,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+50%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191509": {
+        "level": 2,
+        "id": 1191509,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+58.3%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191510": {
+        "level": 3,
+        "id": 1191510,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+66.6%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191511": {
+        "level": 4,
+        "id": 1191511,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+75%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191512": {
+        "level": 5,
+        "id": 1191512,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+83.3%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191513": {
+        "level": 6,
+        "id": 1191513,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+91.6%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      },
+      "1191514": {
+        "level": 7,
+        "id": 1191514,
+        "name": [
+          "コアパッシブ：口がおジョーズ",
+          "追加能力：ライジングストーム"
+        ],
+        "desc": [
+          "エレンが『ダッシュ攻撃：薄氷の急襲』を行ってチャージ鋏撃を放つ時、または「急凍パワー」を消費して『通常攻撃：急凍剪定法』を発動した時、スキルの会心ダメージ+100%。\nこの効果は『連携スキル』、『終結スキル』、『通常攻撃：霜鋒』および『通常攻撃：氷刃の波』にも適用される。",
+          "チームに自身と同じ属性または同じ陣営のメンバー、或いは[撃破]のメンバーがいる時に発動：\nエレンが氷属性ダメージを与えた時、以降の氷属性ダメージ+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+        ],
+        "extraProperty": {},
+        "potential": [
+          119100,
+          119101,
+          119102,
+          119103,
+          119104,
+          119105
+        ]
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110501": 2
+      },
+      "3": {
+        "10": 28000,
+        "110501": 4
+      },
+      "4": {
+        "10": 60000,
+        "110001": 2,
+        "110501": 9
+      },
+      "5": {
+        "10": 100000,
+        "110001": 3,
+        "110501": 15
+      },
+      "6": {
+        "10": 200000,
+        "110001": 4,
+        "110501": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "寒冬の先触れ",
+      "desc": "『ダッシュ攻撃：薄氷の急襲』のクイック鋏撃を敵に命中させた時、獲得できる「急凍パワー」が3Ptに増える。『ダッシュ攻撃：薄氷の急襲』のチャージ鋏撃を敵に命中させた時、獲得できる「急凍パワー」が6Ptに増える。「急凍パワー」を1Pt消費するたびに、エレンの会心率+2%、継続時間15秒、最大6重まで重ね掛け可能。継続時間は1重ごとに独立してカウントされる。",
+      "desc2": "冷たい風は寒冬を知らせる予兆であり、エレンが長～い有給を取って冬眠する合図でもある。\n…ところで、本当にサメは冬眠が必要なのだろうか？"
+    },
+    "2": {
+      "level": 2,
+      "name": "極海の捕食者",
+      "desc": "『通常攻撃：急凍剪定法』3段目発動後、そのまま『強化特殊スキル：シャーク・トルネード』に繋げることが可能。『強化特殊スキル』発動時、「急凍パワー」1Ptにつき、その攻撃の与える会心ダメージ+20%、最大+60%。",
+      "desc2": "たとえ鮮紅に染まっても、エレンの巨大なハサミが温もりを帯びることはない。\n骨の髄まで沁みるようなこの寒さは、鋳鉄の凶器、そして捕食される者の恐怖によってもたらされる。"
+    },
+    "3": {
+      "level": 3,
+      "name": "残業ゼロ",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "「効率」とは、早く帰って早く寝るということだ。\n故に彼女は力強く武器を抜き、より素早く斬りつける。"
+    },
+    "4": {
+      "level": 4,
+      "name": "休みなき寒潮",
+      "desc": "任意のメンバーが敵に「凍結」効果を付与する、または敵をブレイク状態にした時、自身が「急凍パワー」6Ptと「クイックチャージ」効果を獲得し、同時にエネルギーを4Pt回復する。エネルギー回復効果は10秒に1回のみ発動可能。",
+      "desc2": "稜々たる攻勢は休みなく続く。\n恐ろしき被造物たちは、エレンの刃のもと、冬の美しさと残酷さを同時に味わうことになるだろう。\n残酷さという点では、年中無休のメイドのお仕事も負けてはいないが…"
+    },
+    "5": {
+      "level": 5,
+      "name": "十分な睡眠",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "よほどの厳しい戦いでない限り、エレンは常に「仕事がなきゃぐっすり寝てたのに」という顔をしている。\nそれに油断して命を落とす敵は少なくない。"
+    },
+    "6": {
+      "level": 6,
+      "name": "盛宴の時",
+      "desc": "『強化特殊スキル』、『連携スキル』を発動、または「クイックチャージ」を獲得した時、エレンの貫通率+20%、継続時間6秒。それと同時に「盛宴」を1重獲得する、最大3重まで重ね掛け可能。「盛宴」を3重所持している状態で、『ダッシュ攻撃：薄氷の急襲』のチャージ鋏撃を敵に命中させた時、すべての「盛宴」を消費することで、その攻撃の与ダメージ+250%。",
+      "desc2": "一つの傷、一滴の血。一度の狩り、一場の宴。紙一重の命、一瞬の悦。"
+    }
+  },
+  "fairyRecommend": {
+    "slot4": 32500,
+    "slot2": 31000,
+    "slotSub": 31400,
+    "part4": {
+      "prop": 20103,
+      "name": "会心率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 31703,
+      "name": "氷属性ダメージボーナス",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png"
+    },
+    "part6": {
+      "prop": 12102,
+      "name": "攻撃力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "partSub": {
+      "prop": 21103,
+      "name": "会心ダメージ",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    }
+  },
+  "potential": [
+    119100,
+    119101,
+    119102,
+    119103,
+    119104,
+    119105
+  ],
+  "potentialDetail": {
+    "119100": {
+      "id": 119100,
+      "name": "",
+      "desc": "",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ I",
+      "level": 1,
+      "abilityList": [
+        11191401
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    },
+    "119101": {
+      "id": 119101,
+      "name": "ポテンシャル覚醒：フロストゾーン",
+      "desc": "エレンの『追加能力：ライジングストーム』は、1重ごとに会心ダメージ+1.6%。10重まで重ね掛けすると、攻撃時にターゲットの氷属性ダメージ耐性を3.3%無視する。",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ II",
+      "level": 2,
+      "abilityList": [
+        11191401,
+        11191501
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    },
+    "119102": {
+      "id": 119102,
+      "name": "ポテンシャル覚醒：フロストゾーン",
+      "desc": "エレンの『追加能力：ライジングストーム』は、1重ごとに会心ダメージ+2.4%。10重まで重ね掛けすると、攻撃時にターゲットの氷属性ダメージ耐性を5%無視する。",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ III",
+      "level": 3,
+      "abilityList": [
+        11191401,
+        11191502
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    },
+    "119103": {
+      "id": 119103,
+      "name": "ポテンシャル覚醒：フロストゾーン",
+      "desc": "エレンの『追加能力：ライジングストーム』は、1重ごとに会心ダメージ+3.2%。10重まで重ね掛けすると、攻撃時にターゲットの氷属性ダメージ耐性を6.7%無視する。",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ IV",
+      "level": 4,
+      "abilityList": [
+        11191401,
+        11191503
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    },
+    "119104": {
+      "id": 119104,
+      "name": "ポテンシャル覚醒：フロストゾーン",
+      "desc": "エレンの『追加能力：ライジングストーム』は、1重ごとに会心ダメージ+4%。10重まで重ね掛けすると、攻撃時にターゲットの氷属性ダメージ耐性を8.3%無視する。",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ V",
+      "level": 5,
+      "abilityList": [
+        11191401,
+        11191504
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    },
+    "119105": {
+      "id": 119105,
+      "name": "ポテンシャル覚醒：フロストゾーン",
+      "desc": "エレンの『追加能力：ライジングストーム』は、1重ごとに会心ダメージ+4.8%。10重まで重ね掛けすると、攻撃時にターゲットの氷属性ダメージ耐性を10%無視する。",
+      "image": "Ellen",
+      "levelShowName": "シャークオーラ VI",
+      "level": 6,
+      "abilityList": [
+        11191401,
+        11191505
+      ],
+      "potentialMaterials": [
+        {
+          "itemId": 20119,
+          "number": 1
+        }
+      ]
+    }
+  },
+  "live2D": "UISpineEllen"
+}

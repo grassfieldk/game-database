@@ -1,0 +1,4059 @@
+{
+  "id": 1431,
+  "name": "葉瞬光",
+  "codeName": "Ye Shunguang",
+  "rarity": "S",
+  "weaponType": "強攻",
+  "elementType": "物理",
+  "specialElementType": "凛刃",
+  "hitType": "斬撃",
+  "camp": "雲嶽山",
+  "stats": {
+    "armor": 0,
+    "armorGrowth": 0,
+    "attack": 135,
+    "attackGrowth": 82578,
+    "avatarPieceId": 5431,
+    "breakStun": 83,
+    "crit": 500,
+    "critDamage": 5000,
+    "critDmgRes": 0,
+    "critRes": 0,
+    "defence": 49,
+    "defenceGrowth": 66203,
+    "elementAbnormalPower": 94,
+    "elementMystery": 93,
+    "endurance": 0,
+    "hpGrowth": 837238,
+    "hpMax": 617,
+    "penDelta": 0,
+    "penRate": 0,
+    "rbl": 1,
+    "rblCorrectionFactor": 10000,
+    "rblProbability": 0,
+    "shield": 0,
+    "shieldGrowth": 0,
+    "spBarPoint": 120,
+    "spRecover": 120,
+    "stun": 0,
+    "rpMax": 0,
+    "rpRecover": 0
+  },
+  "level": {
+    "1": {
+      "hpMax": 0,
+      "attack": 0,
+      "defence": 0,
+      "levelMax": 10,
+      "levelMin": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hpMax": 423,
+      "attack": 48,
+      "defence": 33,
+      "levelMax": 20,
+      "levelMin": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hpMax": 847,
+      "attack": 96,
+      "defence": 67,
+      "levelMax": 30,
+      "levelMin": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hpMax": 1270,
+      "attack": 145,
+      "defence": 100,
+      "levelMax": 40,
+      "levelMin": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hpMax": 1694,
+      "attack": 193,
+      "defence": 134,
+      "levelMax": 50,
+      "levelMin": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hpMax": 2117,
+      "attack": 241,
+      "defence": 167,
+      "levelMax": 60,
+      "levelMin": 50,
+      "materials": {}
+    }
+  },
+  "extraLevel": {
+    "1": {
+      "maxLevel": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "maxLevel": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "maxLevel": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "maxLevel": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "maxLevel": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "maxLevel": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "会心率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "levelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "通常攻撃：速剣",
+          "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大4段の斬撃を繰り出し、物理属性ダメージを与える。\n4段目発動後、そのまま『ダッシュ攻撃：流影』に繋げることが可能。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：流雲の剣意",
+          "desc": " <IconMap:Icon_Normal> を長押しして発動：\n素早く複数の剣気を放ち、物理属性ダメージを与える。長押しで攻撃を延長できる。\nスキル発動中、中断耐性レベルがアップする。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・破浪",
+          "desc": "「澄心境」状態中、かつ地面にいる時、 <IconMap:Icon_Normal> を押して発動：\n前方に最大3段の斬撃を繰り出し、物理属性ダメージを与える。\n3段目発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化する。\n「青溟剣勢」を所持している場合、3段目の攻撃は『通常攻撃：澄心境・昇舞』に変わる。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・昇舞",
+          "desc": "「澄心境」状態中、かつ「青溟剣勢」を所持している時、『通常攻撃：澄心境・破浪』2段目の後に <IconMap:Icon_Normal> を押して発動：\n素早く打ち上げ攻撃を繰り出し、敵に物理属性ダメージを与え、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬・極",
+          "desc": "『通常攻撃：澄心境・光刃斬・滅』発動後、「青溟剣勢」を所持している時に <IconMap:Icon_Normal> を押して発動：\n前方に広範囲の斬撃を繰り出し、物理属性ダメージを大量に与える。敵に命中すると「青溟剣勢」を1Pt消費する。\nスキル発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化して、スキル中断レベルがアップする。\nスキル発動後、「青溟剣勢」を所持している場合、 <IconMap:Icon_SpecialReady> を押すことで「青溟剣勢」を1Pt消費し、『強化特殊スキル：澄心境・飛光』を1段発動できる。発動後は自動で『通常攻撃：澄心境・昇舞』に繋げ、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬",
+          "desc": "「澄心境」状態中、かつ空中にいる時、 <IconMap:Icon_Normal> を押して発動：\n斜め下へ最大2段の斬撃を放ち、物理属性ダメージを与える。\n発動中、「澄心境」状態は解除されない。\n <IconMap:Icon_SpecialReady> または <IconMap:Icon_Evade> を押すと、そのまま『通常攻撃：澄心境・光刃斬・滅』を発動できる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬・滅",
+          "desc": "『通常攻撃：澄心境・光刃斬』2段目発動後、 <IconMap:Icon_Normal> を押して発動：\n斜め下へ落下攻撃を放った後に地面状態に入り、物理属性ダメージを与える。\n発動時に「青溟剣勢」を2Pt以上所持している場合、斜め下へ広範囲の落下攻撃を放ち、物理属性ダメージを大量に与える。敵に命中した時、「青溟剣勢」を2Pt消費し、「圧巻」効果を獲得する。スキル発動後、「青溟剣勢」を所持している場合、 <IconMap:Icon_SpecialReady> を押すことで「青溟剣勢」を1Pt消費し、『強化特殊スキル：澄心境・飛光』を1段発動できる。発動後は『通常攻撃：澄心境・光刃斬・極』に素早く繋げることが可能。\n発動中、「澄心境」状態は解除されない。\nスキル発動時に敵の攻撃を受けるとガード効果が発動し、そのダメージを無効化する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "圧巻",
+          "desc": "『強化特殊スキル：澄心境・飛光』発動中、「青溟剣勢」を消費する時に「圧巻」効果を所持している場合、「青溟剣勢」の代わりに「圧巻」効果を消費する。この効果は重ね掛け不可、今回の「澄心境」状態終了時まで継続する。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：速剣",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1431001, Prop:1001}",
+              "param": {
+                "1431001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 730,
+                  "stunRatioGrowth": 130,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    1397
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 79.4,
+                      "growth": 730,
+                      "damagePercentage": 159.7,
+                      "stunRatio": 40.8,
+                      "spRecovery": 17340,
+                      "feverRecovery": 106150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4817
+                    },
+                    "16": {
+                      "main": 79.4,
+                      "growth": 730,
+                      "damagePercentage": 188.9,
+                      "stunRatio": 46,
+                      "spRecovery": 17340,
+                      "feverRecovery": 106150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4817
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1431002, Prop:1001}",
+              "param": {
+                "1431002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2220,
+                  "stunRatioGrowth": 360,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    3374
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 244.1,
+                      "growth": 2220,
+                      "damagePercentage": 488.3,
+                      "stunRatio": 117.1,
+                      "spRecovery": 50700,
+                      "feverRecovery": 309925,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14084
+                    },
+                    "16": {
+                      "main": 244.1,
+                      "growth": 2220,
+                      "damagePercentage": 577.1,
+                      "stunRatio": 131.5,
+                      "spRecovery": 50700,
+                      "feverRecovery": 309925,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14084
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1431003, Prop:1001}",
+              "param": {
+                "1431003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1140,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    1246
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 124.6,
+                      "growth": 1140,
+                      "damagePercentage": 250,
+                      "stunRatio": 54.1,
+                      "spRecovery": 23150,
+                      "feverRecovery": 141625,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6431
+                    },
+                    "16": {
+                      "main": 124.6,
+                      "growth": 1140,
+                      "damagePercentage": 295.6,
+                      "stunRatio": 60.9,
+                      "spRecovery": 23150,
+                      "feverRecovery": 141625,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6431
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ダメージ倍率",
+              "desc": "{Skill:1431005, Prop:1001}",
+              "param": {
+                "1431005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3350,
+                  "stunRatioGrowth": 490,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    3996
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 368,
+                      "growth": 3350,
+                      "damagePercentage": 736.5,
+                      "stunRatio": 161.2,
+                      "spRecovery": 70190,
+                      "feverRecovery": 429000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19497
+                    },
+                    "16": {
+                      "main": 368,
+                      "growth": 3350,
+                      "damagePercentage": 870.5,
+                      "stunRatio": 180.8,
+                      "spRecovery": 70190,
+                      "feverRecovery": 429000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19497
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1431001, Prop:1002}",
+              "param": {
+                "1431001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 730,
+                  "stunRatioGrowth": 130,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    1397
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 26.5,
+                      "growth": 130,
+                      "damagePercentage": 159.7,
+                      "stunRatio": 40.8,
+                      "spRecovery": 17340,
+                      "feverRecovery": 106150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4817
+                    },
+                    "16": {
+                      "main": 26.5,
+                      "growth": 130,
+                      "damagePercentage": 188.9,
+                      "stunRatio": 46,
+                      "spRecovery": 17340,
+                      "feverRecovery": 106150,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4817
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1431002, Prop:1002}",
+              "param": {
+                "1431002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2220,
+                  "stunRatioGrowth": 360,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    3374
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 77.5,
+                      "growth": 360,
+                      "damagePercentage": 488.3,
+                      "stunRatio": 117.1,
+                      "spRecovery": 50700,
+                      "feverRecovery": 309925,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14084
+                    },
+                    "16": {
+                      "main": 77.5,
+                      "growth": 360,
+                      "damagePercentage": 577.1,
+                      "stunRatio": 131.5,
+                      "spRecovery": 50700,
+                      "feverRecovery": 309925,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14084
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1431003, Prop:1002}",
+              "param": {
+                "1431003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1140,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    1246
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 35.4,
+                      "growth": 170,
+                      "damagePercentage": 250,
+                      "stunRatio": 54.1,
+                      "spRecovery": 23150,
+                      "feverRecovery": 141625,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6431
+                    },
+                    "16": {
+                      "main": 35.4,
+                      "growth": 170,
+                      "damagePercentage": 295.6,
+                      "stunRatio": 60.9,
+                      "spRecovery": 23150,
+                      "feverRecovery": 141625,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6431
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ブレイク倍率",
+              "desc": "{Skill:1431005, Prop:1002}",
+              "param": {
+                "1431005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3350,
+                  "stunRatioGrowth": 490,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    3996
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 107.3,
+                      "growth": 490,
+                      "damagePercentage": 736.5,
+                      "stunRatio": 161.2,
+                      "spRecovery": 70190,
+                      "feverRecovery": 429000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19497
+                    },
+                    "16": {
+                      "main": 107.3,
+                      "growth": 490,
+                      "damagePercentage": 870.5,
+                      "stunRatio": 180.8,
+                      "spRecovery": 70190,
+                      "feverRecovery": 429000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19497
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：流雲の剣意",
+          "param": [
+            {
+              "name": "剣気ごとのダメージ倍率",
+              "desc": "{{Skill:1431004, Prop:1001}/7}",
+              "param": {
+                "1431004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1070,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    917
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 116.7,
+                      "growth": 1070,
+                      "damagePercentage": 234.4,
+                      "stunRatio": 55.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 91850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4166
+                    },
+                    "16": {
+                      "main": 116.7,
+                      "growth": 1070,
+                      "damagePercentage": 277.2,
+                      "stunRatio": 62.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 91850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4166
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "剣気ごとのブレイク倍率",
+              "desc": "{{Skill:1431004, Prop:1002}/7}",
+              "param": {
+                "1431004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1070,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    917
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 36.7,
+                      "growth": 170,
+                      "damagePercentage": 234.4,
+                      "stunRatio": 55.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 91850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4166
+                    },
+                    "16": {
+                      "main": 36.7,
+                      "growth": 170,
+                      "damagePercentage": 277.2,
+                      "stunRatio": 62.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 91850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4166
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・破浪",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1431006, Prop:1001}",
+              "param": {
+                "1431006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1030,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 112.6,
+                      "growth": 1030,
+                      "damagePercentage": 225.9,
+                      "stunRatio": 54.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 143000,
+                      "attributeInfliction": 6500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6500
+                    },
+                    "16": {
+                      "main": 112.6,
+                      "growth": 1030,
+                      "damagePercentage": 267.1,
+                      "stunRatio": 61.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 143000,
+                      "attributeInfliction": 6500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6500
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1431007, Prop:1001}",
+              "param": {
+                "1431007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1420,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 155.9,
+                      "growth": 1420,
+                      "damagePercentage": 312.1,
+                      "stunRatio": 74.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 198000,
+                      "attributeInfliction": 9000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9000
+                    },
+                    "16": {
+                      "main": 155.9,
+                      "growth": 1420,
+                      "damagePercentage": 368.9,
+                      "stunRatio": 84,
+                      "spRecovery": 0,
+                      "feverRecovery": 198000,
+                      "attributeInfliction": 9000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1431008, Prop:1001}",
+              "param": {
+                "1431008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1970,
+                  "stunRatioGrowth": 320,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 216.6,
+                      "growth": 1970,
+                      "damagePercentage": 433.3,
+                      "stunRatio": 104,
+                      "spRecovery": 0,
+                      "feverRecovery": 275275,
+                      "attributeInfliction": 12500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 12501
+                    },
+                    "16": {
+                      "main": 216.6,
+                      "growth": 1970,
+                      "damagePercentage": 512.1,
+                      "stunRatio": 116.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 275275,
+                      "attributeInfliction": 12500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 12501
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1431006, Prop:1002}",
+              "param": {
+                "1431006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1030,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 35.8,
+                      "growth": 170,
+                      "damagePercentage": 225.9,
+                      "stunRatio": 54.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 143000,
+                      "attributeInfliction": 6500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6500
+                    },
+                    "16": {
+                      "main": 35.8,
+                      "growth": 170,
+                      "damagePercentage": 267.1,
+                      "stunRatio": 61.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 143000,
+                      "attributeInfliction": 6500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6500
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1431007, Prop:1002}",
+              "param": {
+                "1431007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1420,
+                  "stunRatioGrowth": 230,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 49.5,
+                      "growth": 230,
+                      "damagePercentage": 312.1,
+                      "stunRatio": 74.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 198000,
+                      "attributeInfliction": 9000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9000
+                    },
+                    "16": {
+                      "main": 49.5,
+                      "growth": 230,
+                      "damagePercentage": 368.9,
+                      "stunRatio": 84,
+                      "spRecovery": 0,
+                      "feverRecovery": 198000,
+                      "attributeInfliction": 9000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 9000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1431008, Prop:1002}",
+              "param": {
+                "1431008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1970,
+                  "stunRatioGrowth": 320,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 68.8,
+                      "growth": 320,
+                      "damagePercentage": 433.3,
+                      "stunRatio": 104,
+                      "spRecovery": 0,
+                      "feverRecovery": 275275,
+                      "attributeInfliction": 12500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 12501
+                    },
+                    "16": {
+                      "main": 68.8,
+                      "growth": 320,
+                      "damagePercentage": 512.1,
+                      "stunRatio": 116.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 275275,
+                      "attributeInfliction": 12500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 12501
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・昇舞",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431017, Prop:1001}",
+              "param": {
+                "1431017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 830,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 91,
+                      "growth": 830,
+                      "damagePercentage": 182.3,
+                      "stunRatio": 54.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 71500,
+                      "attributeInfliction": 3250,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3250
+                    },
+                    "16": {
+                      "main": 91,
+                      "growth": 830,
+                      "damagePercentage": 215.5,
+                      "stunRatio": 61.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 71500,
+                      "attributeInfliction": 3250,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3250
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431017, Prop:1002}",
+              "param": {
+                "1431017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 830,
+                  "stunRatioGrowth": 170,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 35.8,
+                      "growth": 170,
+                      "damagePercentage": 182.3,
+                      "stunRatio": 54.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 71500,
+                      "attributeInfliction": 3250,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3250
+                    },
+                    "16": {
+                      "main": 35.8,
+                      "growth": 170,
+                      "damagePercentage": 215.5,
+                      "stunRatio": 61.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 71500,
+                      "attributeInfliction": 3250,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3250
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬・極",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431009, Prop:1001}",
+              "param": {
+                "1431009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5500,
+                  "stunRatioGrowth": 350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 604.8,
+                      "growth": 5500,
+                      "damagePercentage": 1209.8,
+                      "stunRatio": 115.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 308000,
+                      "attributeInfliction": 14000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    },
+                    "16": {
+                      "main": 604.8,
+                      "growth": 5500,
+                      "damagePercentage": 1429.8,
+                      "stunRatio": 129.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 308000,
+                      "attributeInfliction": 14000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431009, Prop:1002}",
+              "param": {
+                "1431009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5500,
+                  "stunRatioGrowth": 350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 77,
+                      "growth": 350,
+                      "damagePercentage": 1209.8,
+                      "stunRatio": 115.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 308000,
+                      "attributeInfliction": 14000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    },
+                    "16": {
+                      "main": 77,
+                      "growth": 350,
+                      "damagePercentage": 1429.8,
+                      "stunRatio": 129.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 308000,
+                      "attributeInfliction": 14000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1431010, Prop:1001}",
+              "param": {
+                "1431010": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1100,
+                  "stunRatioGrowth": 160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 120.7,
+                      "growth": 1100,
+                      "damagePercentage": 241.7,
+                      "stunRatio": 51.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 135850,
+                      "attributeInfliction": 6166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6167
+                    },
+                    "16": {
+                      "main": 120.7,
+                      "growth": 1100,
+                      "damagePercentage": 285.7,
+                      "stunRatio": 58,
+                      "spRecovery": 0,
+                      "feverRecovery": 135850,
+                      "attributeInfliction": 6166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1431011, Prop:1001}",
+              "param": {
+                "1431011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1430,
+                  "stunRatioGrowth": 200,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 156.5,
+                      "growth": 1430,
+                      "damagePercentage": 313.8,
+                      "stunRatio": 66,
+                      "spRecovery": 0,
+                      "feverRecovery": 176000,
+                      "attributeInfliction": 8000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8000
+                    },
+                    "16": {
+                      "main": 156.5,
+                      "growth": 1430,
+                      "damagePercentage": 371,
+                      "stunRatio": 74,
+                      "spRecovery": 0,
+                      "feverRecovery": 176000,
+                      "attributeInfliction": 8000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1431010, Prop:1002}",
+              "param": {
+                "1431010": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1100,
+                  "stunRatioGrowth": 160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 34,
+                      "growth": 160,
+                      "damagePercentage": 241.7,
+                      "stunRatio": 51.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 135850,
+                      "attributeInfliction": 6166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6167
+                    },
+                    "16": {
+                      "main": 34,
+                      "growth": 160,
+                      "damagePercentage": 285.7,
+                      "stunRatio": 58,
+                      "spRecovery": 0,
+                      "feverRecovery": 135850,
+                      "attributeInfliction": 6166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1431011, Prop:1002}",
+              "param": {
+                "1431011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1430,
+                  "stunRatioGrowth": 200,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 44,
+                      "growth": 200,
+                      "damagePercentage": 313.8,
+                      "stunRatio": 66,
+                      "spRecovery": 0,
+                      "feverRecovery": 176000,
+                      "attributeInfliction": 8000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8000
+                    },
+                    "16": {
+                      "main": 44,
+                      "growth": 200,
+                      "damagePercentage": 371,
+                      "stunRatio": 74,
+                      "spRecovery": 0,
+                      "feverRecovery": 176000,
+                      "attributeInfliction": 8000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：澄心境・光刃斬・滅",
+          "param": [
+            {
+              "name": "「青溟剣勢」所持時のダメージ倍率",
+              "desc": "{Skill:1431013, Prop:1001}",
+              "param": {
+                "1431013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 8110,
+                  "stunRatioGrowth": 270,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 891.2,
+                      "growth": 8110,
+                      "damagePercentage": 1783.3,
+                      "stunRatio": 87.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 231275,
+                      "attributeInfliction": 10503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15000
+                    },
+                    "16": {
+                      "main": 891.2,
+                      "growth": 8110,
+                      "damagePercentage": 2107.7,
+                      "stunRatio": 98.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 231275,
+                      "attributeInfliction": 10503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "「青溟剣勢」所持時のブレイク倍率",
+              "desc": "{Skill:1431013, Prop:1002}",
+              "param": {
+                "1431013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 8110,
+                  "stunRatioGrowth": 270,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 57.8,
+                      "growth": 270,
+                      "damagePercentage": 1783.3,
+                      "stunRatio": 87.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 231275,
+                      "attributeInfliction": 10503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15000
+                    },
+                    "16": {
+                      "main": 57.8,
+                      "growth": 270,
+                      "damagePercentage": 2107.7,
+                      "stunRatio": 98.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 231275,
+                      "attributeInfliction": 10503,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "「青溟剣勢」未所持のダメージ倍率",
+              "desc": "{Skill:1431012, Prop:1001}",
+              "param": {
+                "1431012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1460,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 159.9,
+                      "growth": 1460,
+                      "damagePercentage": 320.5,
+                      "stunRatio": 68.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 179850,
+                      "attributeInfliction": 8169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8170
+                    },
+                    "16": {
+                      "main": 159.9,
+                      "growth": 1460,
+                      "damagePercentage": 378.9,
+                      "stunRatio": 76.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 179850,
+                      "attributeInfliction": 8169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "「青溟剣勢」未所持のブレイク倍率",
+              "desc": "{Skill:1431012, Prop:1002}",
+              "param": {
+                "1431012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1460,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 45,
+                      "growth": 210,
+                      "damagePercentage": 320.5,
+                      "stunRatio": 68.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 179850,
+                      "attributeInfliction": 8169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8170
+                    },
+                    "16": {
+                      "main": 45,
+                      "growth": 210,
+                      "damagePercentage": 378.9,
+                      "stunRatio": 76.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 179850,
+                      "attributeInfliction": 8169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "回避：無痕",
+          "desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。\n「澄心境」状態中、『極限回避』が発動した時、 <IconMap:Icon_Normal> を押すと『通常攻撃：澄心境・昇舞』を発動できる。",
+          "potential": []
+        },
+        {
+          "name": "回避：逍遥雲跡",
+          "desc": "方向を入力しながら <IconMap:Icon_Evade> を長押しして発動：\n高速移動状態に入り、{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向を制御できる。{LAYOUT_KEYBOARD#方向キー}{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと止まる。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：流影",
+          "desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に斬撃を放ち、物理属性ダメージを与える。",
+          "potential": []
+        },
+        {
+          "name": "回避反撃：燕襲",
+          "desc": "『極限回避』後に <IconMap:Icon_Normal> を押して発動：\n跳び上がって前方に一突きを放ち、物理属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：流影",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431020, Prop:1001}",
+              "param": {
+                "1431020": {
+                  "format": "%",
+                  "damagePercentageGrowth": 960,
+                  "stunRatioGrowth": 100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    825
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 105,
+                      "growth": 960,
+                      "damagePercentage": 210.6,
+                      "stunRatio": 31.7,
+                      "spRecovery": 13500,
+                      "feverRecovery": 82500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3750
+                    },
+                    "16": {
+                      "main": 105,
+                      "growth": 960,
+                      "damagePercentage": 249,
+                      "stunRatio": 35.7,
+                      "spRecovery": 13500,
+                      "feverRecovery": 82500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3750
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431020, Prop:1002}",
+              "param": {
+                "1431020": {
+                  "format": "%",
+                  "damagePercentageGrowth": 960,
+                  "stunRatioGrowth": 100,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    825
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 20.7,
+                      "growth": 100,
+                      "damagePercentage": 210.6,
+                      "stunRatio": 31.7,
+                      "spRecovery": 13500,
+                      "feverRecovery": 82500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3750
+                    },
+                    "16": {
+                      "main": 20.7,
+                      "growth": 100,
+                      "damagePercentage": 249,
+                      "stunRatio": 35.7,
+                      "spRecovery": 13500,
+                      "feverRecovery": 82500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3750
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "回避反撃：燕襲",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431022, Prop:1001}",
+              "param": {
+                "1431022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3150,
+                  "stunRatioGrowth": 540,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    2494
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 346.3,
+                      "growth": 3150,
+                      "damagePercentage": 692.8,
+                      "stunRatio": 176.8,
+                      "spRecovery": 40800,
+                      "feverRecovery": 249425,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26334
+                    },
+                    "16": {
+                      "main": 346.3,
+                      "growth": 3150,
+                      "damagePercentage": 818.8,
+                      "stunRatio": 198.4,
+                      "spRecovery": 40800,
+                      "feverRecovery": 249425,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431022, Prop:1002}",
+              "param": {
+                "1431022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3150,
+                  "stunRatioGrowth": 540,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    2494
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 117.4,
+                      "growth": 540,
+                      "damagePercentage": 692.8,
+                      "stunRatio": 176.8,
+                      "spRecovery": 40800,
+                      "feverRecovery": 249425,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26334
+                    },
+                    "16": {
+                      "main": 117.4,
+                      "growth": 540,
+                      "damagePercentage": 818.8,
+                      "stunRatio": 198.4,
+                      "spRecovery": 40800,
+                      "feverRecovery": 249425,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊スキル：滄海を招き",
+          "desc": " <IconMap:Icon_Special> を押して発動：\n回避回数を所持している場合、回避回数を1回消費し、同時に[回避]を発動したとみなされる。\n回避回数を所持していない、または『極限回避』が発動しなかった場合、敵に素早い剣気攻撃を仕掛け、物理属性ダメージを与える。\n『極限回避』が発動した場合、敵に飛剣攻撃を仕掛け、物理属性ダメージを与え、そのまま『通常攻撃：速剣』の2段目に繋げることが可能。\nスキル発動中、わずかの間無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：薙ぎて凪ぐ",
+          "desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n敵に向かって突進斬撃と飛剣攻撃を繰り出し、物理属性ダメージを大量に与える。\n発動時、敵の攻撃を回避できる。\n発動後、「青溟剣勢」を1Pt獲得する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：澄心境・去れど跡を濁さず",
+          "desc": "「澄心境」状態中、かつ地面にいる時、 <IconMap:Icon_SpecialReady> を押して発動：\n素早い後退斬撃を繰り出し、物理属性ダメージを与える。\n回避回数を所持している場合、回避回数を1回消費し、同時に「回避」を発動したとみなされる。\nこの時に『極限回避』が発動した場合、 <IconMap:Icon_Normal> を押すことで素早く『通常攻撃：澄心境・光刃斬・極』を発動し、「極限視界」に入ることができる。\nさらに、この『通常攻撃：澄心境・光刃斬・極』を発動した後、そのまま『通常攻撃：澄心境・昇舞』に繋げることが可能。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：澄心境・飛光",
+          "desc": "「澄心境」状態中、「青溟剣勢」を所持している時に <IconMap:Icon_SpecialReady> を長押しして発動：\n「青溟剣勢」を継続的に消費して高速斬撃を繰り出し、物理属性ダメージを大量に与える。「青溟剣勢」が尽きるとスキルは終了する。\n「青溟剣勢」が不足、または <IconMap:Icon_SpecialReady> を離した時、スキルはその時点で終了する。\n発動中、「澄心境」状態は解除されない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：澄心境・回燼",
+          "desc": "「澄心境」状態中、 <IconMap:Icon_UltimateReady> を短押し、または「青溟剣勢」が尽きた時に <IconMap:Icon_SpecialReady> を長押しして発動：\n広範囲の敵に物理属性ダメージを大量に与える。\n発動中、「澄心境」状態は解除されない。\nスキル発動後、「エーテルベール・決裁」が終了し、「澄心境」状態が解除される。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：滄海を招き",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431014, Prop:1001}",
+              "param": {
+                "1431014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 900,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 98.9,
+                      "growth": 900,
+                      "damagePercentage": 197.9,
+                      "stunRatio": 37.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 97350,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4415
+                    },
+                    "16": {
+                      "main": 98.9,
+                      "growth": 900,
+                      "damagePercentage": 233.9,
+                      "stunRatio": 42.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 97350,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4415
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431014, Prop:1002}",
+              "param": {
+                "1431014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 900,
+                  "stunRatioGrowth": 120,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 24.3,
+                      "growth": 120,
+                      "damagePercentage": 197.9,
+                      "stunRatio": 37.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 97350,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4415
+                    },
+                    "16": {
+                      "main": 24.3,
+                      "growth": 120,
+                      "damagePercentage": 233.9,
+                      "stunRatio": 42.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 97350,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4415
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "極限回避発動時のダメージ倍率",
+              "desc": "{Skill:1431015, Prop:1001}",
+              "param": {
+                "1431015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2880,
+                  "stunRatioGrowth": 610,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    6081
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 315.9,
+                      "growth": 2880,
+                      "damagePercentage": 632.7,
+                      "stunRatio": 199.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 308275,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 29001
+                    },
+                    "16": {
+                      "main": 315.9,
+                      "growth": 2880,
+                      "damagePercentage": 747.9,
+                      "stunRatio": 223.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 308275,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 29001
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "極限回避発動時のブレイク倍率",
+              "desc": "{Skill:1431015, Prop:1002}",
+              "param": {
+                "1431015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2880,
+                  "stunRatioGrowth": 610,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    6081
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 132.1,
+                      "growth": 610,
+                      "damagePercentage": 632.7,
+                      "stunRatio": 199.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 308275,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 29001
+                    },
+                    "16": {
+                      "main": 132.1,
+                      "growth": 610,
+                      "damagePercentage": 747.9,
+                      "stunRatio": 223.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 308275,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 29001
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：薙ぎて凪ぐ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431016, Prop:1001}",
+              "param": {
+                "1431016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 10720,
+                  "stunRatioGrowth": 1550,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1178.4,
+                      "growth": 10720,
+                      "damagePercentage": 2357.6,
+                      "stunRatio": 510.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1851850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28334
+                    },
+                    "16": {
+                      "main": 1178.4,
+                      "growth": 10720,
+                      "damagePercentage": 2786.4,
+                      "stunRatio": 572.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1851850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431016, Prop:1002}",
+              "param": {
+                "1431016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 10720,
+                  "stunRatioGrowth": 1550,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 340.1,
+                      "growth": 1550,
+                      "damagePercentage": 2357.6,
+                      "stunRatio": 510.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1851850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28334
+                    },
+                    "16": {
+                      "main": 340.1,
+                      "growth": 1550,
+                      "damagePercentage": 2786.4,
+                      "stunRatio": 572.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 1851850,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "エネルギー消費",
+              "desc": "60",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：澄心境・去れど跡を濁さず",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431021, Prop:1001}",
+              "param": {
+                "1431021": {
+                  "format": "%",
+                  "damagePercentageGrowth": 650,
+                  "stunRatioGrowth": 80,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 71,
+                      "growth": 650,
+                      "damagePercentage": 142.5,
+                      "stunRatio": 26.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 69850,
+                      "attributeInfliction": 3166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3167
+                    },
+                    "16": {
+                      "main": 71,
+                      "growth": 650,
+                      "damagePercentage": 168.5,
+                      "stunRatio": 29.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 69850,
+                      "attributeInfliction": 3166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431021, Prop:1002}",
+              "param": {
+                "1431021": {
+                  "format": "%",
+                  "damagePercentageGrowth": 650,
+                  "stunRatioGrowth": 80,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 17.5,
+                      "growth": 80,
+                      "damagePercentage": 142.5,
+                      "stunRatio": 26.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 69850,
+                      "attributeInfliction": 3166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3167
+                    },
+                    "16": {
+                      "main": 17.5,
+                      "growth": 80,
+                      "damagePercentage": 168.5,
+                      "stunRatio": 29.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 69850,
+                      "attributeInfliction": 3166,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 3167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：澄心境・飛光",
+          "param": [
+            {
+              "name": "青溟剣勢を1Pt消費した際のダメージ倍率",
+              "desc": "{{Skill:1431018, Prop:1001}/6}",
+              "param": {
+                "1431018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9620,
+                  "stunRatioGrowth": 500,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1058,
+                      "growth": 9620,
+                      "damagePercentage": 2116.2,
+                      "stunRatio": 163.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    },
+                    "16": {
+                      "main": 1058,
+                      "growth": 9620,
+                      "damagePercentage": 2501,
+                      "stunRatio": 183.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "青溟剣勢を1Pt消費した際のブレイク倍率",
+              "desc": "{{Skill:1431018, Prop:1002}/6}",
+              "param": {
+                "1431018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9620,
+                  "stunRatioGrowth": 500,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 108.2,
+                      "growth": 500,
+                      "damagePercentage": 2116.2,
+                      "stunRatio": 163.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    },
+                    "16": {
+                      "main": 108.2,
+                      "growth": 500,
+                      "damagePercentage": 2501,
+                      "stunRatio": 183.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "青溟剣勢を6Pt消費した際のダメージ倍率",
+              "desc": "{Skill:1431018, Prop:1001}",
+              "param": {
+                "1431018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9620,
+                  "stunRatioGrowth": 500,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1058,
+                      "growth": 9620,
+                      "damagePercentage": 2116.2,
+                      "stunRatio": 163.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    },
+                    "16": {
+                      "main": 1058,
+                      "growth": 9620,
+                      "damagePercentage": 2501,
+                      "stunRatio": 183.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "青溟剣勢を6Pt消費した際のブレイク倍率",
+              "desc": "{Skill:1431018, Prop:1002}",
+              "param": {
+                "1431018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9620,
+                  "stunRatioGrowth": 500,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 108.2,
+                      "growth": 500,
+                      "damagePercentage": 2116.2,
+                      "stunRatio": 163.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    },
+                    "16": {
+                      "main": 108.2,
+                      "growth": 500,
+                      "damagePercentage": 2501,
+                      "stunRatio": 183.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 432850,
+                      "attributeInfliction": 19666,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 19667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：澄心境・回燼",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431019, Prop:1001}",
+              "param": {
+                "1431019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 10560,
+                  "stunRatioGrowth": 640,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1161.1,
+                      "growth": 10560,
+                      "damagePercentage": 2322.7,
+                      "stunRatio": 209.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 557425,
+                      "attributeInfliction": 25333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25334
+                    },
+                    "16": {
+                      "main": 1161.1,
+                      "growth": 10560,
+                      "damagePercentage": 2745.1,
+                      "stunRatio": 235.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 557425,
+                      "attributeInfliction": 25333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431019, Prop:1002}",
+              "param": {
+                "1431019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 10560,
+                  "stunRatioGrowth": 640,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 139.4,
+                      "growth": 640,
+                      "damagePercentage": 2322.7,
+                      "stunRatio": 209.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 557425,
+                      "attributeInfliction": 25333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25334
+                    },
+                    "16": {
+                      "main": 139.4,
+                      "growth": 640,
+                      "damagePercentage": 2745.1,
+                      "stunRatio": 235.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 557425,
+                      "attributeInfliction": 25333,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "連携スキル：邪祟斬り",
+          "desc": "『連携スキル』開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に強力な斬撃を放ち、物理属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "終結スキル：雲雷よ慄け",
+          "desc": "デシベルレートが『Maximum』に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n剣の陣を召喚し、「澄心境」状態に入り、「エーテルベール・決裁」を展開し、「青溟剣勢」を6Pt獲得する。敵に物理属性ダメージを大量に与える。\nスキル発動時、デシベル値を消費した場合、今回の「澄心境」状態中に <IconMap:Icon_UltimateReady> を押すことで、デシベル値を消費せず『終結スキル：慧剣よ天を開け』を発動できる。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "連携スキル：澄心境・驚雷撃",
+          "desc": "「澄心境」状態中、『連携スキル』開始時に、対応するエージェントを選択して発動：\n前方広範囲の敵に強力な斬撃を放ち、物理属性ダメージを大量に与える。\n発動中、「澄心境」状態は解除されない。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "終結スキル：慧剣よ天を開け",
+          "desc": "デシベル値を消費して『終結スキル：雲雷よ慄け』を発動した後、「澄心境」状態中、 <IconMap:Icon_UltimateReady> を短押し、または「青溟剣勢」をすべて消費した後に <IconMap:Icon_SpecialReady> を長押しして発動：\n巨大な剣を召喚し、敵に物理属性ダメージを大量に与える。\n発動中、「澄心境」状態は解除されない。\nスキル発動後、「澄心境」状態は解除され、「エーテルベール・決裁」が終了する。\nこのスキルはデシベル値を消費しない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "連携スキル：邪祟斬り",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431024, Prop:1001}",
+              "param": {
+                "1431024": {
+                  "format": "%",
+                  "damagePercentageGrowth": 7930,
+                  "stunRatioGrowth": 830,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    2541
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 871.6,
+                      "growth": 7930,
+                      "damagePercentage": 1743.9,
+                      "stunRatio": 272.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2189000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32997
+                    },
+                    "16": {
+                      "main": 871.6,
+                      "growth": 7930,
+                      "damagePercentage": 2061.1,
+                      "stunRatio": 306,
+                      "spRecovery": 0,
+                      "feverRecovery": 2189000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32997
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431024, Prop:1002}",
+              "param": {
+                "1431024": {
+                  "format": "%",
+                  "damagePercentageGrowth": 7930,
+                  "stunRatioGrowth": 830,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    2541
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 181.5,
+                      "growth": 830,
+                      "damagePercentage": 1743.9,
+                      "stunRatio": 272.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2189000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32997
+                    },
+                    "16": {
+                      "main": 181.5,
+                      "growth": 830,
+                      "damagePercentage": 2061.1,
+                      "stunRatio": 306,
+                      "spRecovery": 0,
+                      "feverRecovery": 2189000,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 32997
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "終結スキル：雲雷よ慄け",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431025, Prop:1001}",
+              "param": {
+                "1431025": {
+                  "format": "%",
+                  "damagePercentageGrowth": 17500,
+                  "stunRatioGrowth": 250,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 1925,
+                      "growth": 17500,
+                      "damagePercentage": 3850,
+                      "stunRatio": 82.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 60000
+                    },
+                    "16": {
+                      "main": 1925,
+                      "growth": 17500,
+                      "damagePercentage": 4550,
+                      "stunRatio": 92.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 60000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431025, Prop:1002}",
+              "param": {
+                "1431025": {
+                  "format": "%",
+                  "damagePercentageGrowth": 17500,
+                  "stunRatioGrowth": 250,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 55,
+                      "growth": 250,
+                      "damagePercentage": 3850,
+                      "stunRatio": 82.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 60000
+                    },
+                    "16": {
+                      "main": 55,
+                      "growth": 250,
+                      "damagePercentage": 4550,
+                      "stunRatio": 92.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 60000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "連携スキル：澄心境・驚雷撃",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431026, Prop:1001}",
+              "param": {
+                "1431026": {
+                  "format": "%",
+                  "damagePercentageGrowth": 8260,
+                  "stunRatioGrowth": 630,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 908.6,
+                      "growth": 8260,
+                      "damagePercentage": 1817.2,
+                      "stunRatio": 206.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2013000,
+                      "attributeInfliction": 44950,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    },
+                    "16": {
+                      "main": 908.6,
+                      "growth": 8260,
+                      "damagePercentage": 2147.6,
+                      "stunRatio": 232,
+                      "spRecovery": 0,
+                      "feverRecovery": 2013000,
+                      "attributeInfliction": 44950,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431026, Prop:1002}",
+              "param": {
+                "1431026": {
+                  "format": "%",
+                  "damagePercentageGrowth": 8260,
+                  "stunRatioGrowth": 630,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 137.5,
+                      "growth": 630,
+                      "damagePercentage": 1817.2,
+                      "stunRatio": 206.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2013000,
+                      "attributeInfliction": 44950,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    },
+                    "16": {
+                      "main": 137.5,
+                      "growth": 630,
+                      "damagePercentage": 2147.6,
+                      "stunRatio": 232,
+                      "spRecovery": 0,
+                      "feverRecovery": 2013000,
+                      "attributeInfliction": 44950,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "終結スキル：慧剣よ天を開け",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431027, Prop:1001}",
+              "param": {
+                "1431027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 28040,
+                  "stunRatioGrowth": 690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 3084.3,
+                      "growth": 28040,
+                      "damagePercentage": 6168.7,
+                      "stunRatio": 227.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 27500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27500
+                    },
+                    "16": {
+                      "main": 3084.3,
+                      "growth": 28040,
+                      "damagePercentage": 7290.3,
+                      "stunRatio": 254.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 27500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27500
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431027, Prop:1002}",
+              "param": {
+                "1431027": {
+                  "format": "%",
+                  "damagePercentageGrowth": 28040,
+                  "stunRatioGrowth": 690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 151.3,
+                      "growth": 690,
+                      "damagePercentage": 6168.7,
+                      "stunRatio": 227.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 27500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27500
+                    },
+                    "16": {
+                      "main": 151.3,
+                      "growth": 690,
+                      "damagePercentage": 7290.3,
+                      "stunRatio": 254.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 27500,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 27500
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "入場スキル：鏡影",
+          "desc": "「青溟剣勢」を6Pt所持している、かつ「澄心境」状態でない時に、 <IconMap:Icon_Normal> を長押し、または接敵状態で <IconMap:Icon_Switch> を短押しして控えから出場させると発動：\n「澄心境」状態に入り、「エーテルベール・決裁」を展開する。\n前方広範囲の敵に物理属性ダメージを与える。\nスキル発動時、『クイック支援』を発動したとみなされる。\nスキル発動後、空中状態に入る。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "クイック支援：援守",
+          "desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n跳び上がって前方に一突きを放ち、物理属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "支援突撃：止戈",
+          "desc": "『パリィ支援』発動後、 <IconMap:Icon_Normal> を押して発動：\n物理属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：帰去",
+          "desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "クイック支援：澄心境・策応",
+          "desc": "「澄心境」状態中、操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方に斬撃を1回放ち、物理属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "支援突撃：澄心境・守一",
+          "desc": "「澄心境」状態中、『パリィ支援』発動後、 <IconMap:Icon_Normal> を押して発動：\n物理属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "入場スキル：鏡影",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431028, Prop:1001}",
+              "param": {
+                "1431028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3640,
+                  "stunRatioGrowth": 550,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 400.4,
+                      "growth": 3640,
+                      "damagePercentage": 800.8,
+                      "stunRatio": 181.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 484000,
+                      "attributeInfliction": 22000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22000
+                    },
+                    "16": {
+                      "main": 400.4,
+                      "growth": 3640,
+                      "damagePercentage": 946.4,
+                      "stunRatio": 203.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 484000,
+                      "attributeInfliction": 22000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431028, Prop:1002}",
+              "param": {
+                "1431028": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3640,
+                  "stunRatioGrowth": 550,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 121,
+                      "growth": 550,
+                      "damagePercentage": 800.8,
+                      "stunRatio": 181.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 484000,
+                      "attributeInfliction": 22000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22000
+                    },
+                    "16": {
+                      "main": 121,
+                      "growth": 550,
+                      "damagePercentage": 946.4,
+                      "stunRatio": 203.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 484000,
+                      "attributeInfliction": 22000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "クイック支援：援守",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431029, Prop:1001}",
+              "param": {
+                "1431029": {
+                  "format": "%",
+                  "damagePercentageGrowth": 740,
+                  "stunRatioGrowth": 150,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 80.5,
+                      "growth": 740,
+                      "damagePercentage": 161.9,
+                      "stunRatio": 48.2,
+                      "spRecovery": 20700,
+                      "feverRecovery": 126500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5750
+                    },
+                    "16": {
+                      "main": 80.5,
+                      "growth": 740,
+                      "damagePercentage": 191.5,
+                      "stunRatio": 54.2,
+                      "spRecovery": 20700,
+                      "feverRecovery": 126500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5750
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431029, Prop:1002}",
+              "param": {
+                "1431029": {
+                  "format": "%",
+                  "damagePercentageGrowth": 740,
+                  "stunRatioGrowth": 150,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 31.7,
+                      "growth": 150,
+                      "damagePercentage": 161.9,
+                      "stunRatio": 48.2,
+                      "spRecovery": 20700,
+                      "feverRecovery": 126500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5750
+                    },
+                    "16": {
+                      "main": 31.7,
+                      "growth": 150,
+                      "damagePercentage": 191.5,
+                      "stunRatio": 54.2,
+                      "spRecovery": 20700,
+                      "feverRecovery": 126500,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5750
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突撃：止戈",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431033, Prop:1001}",
+              "param": {
+                "1431033": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3770,
+                  "stunRatioGrowth": 640,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 413.7,
+                      "growth": 3770,
+                      "damagePercentage": 828.4,
+                      "stunRatio": 210.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 740300,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    },
+                    "16": {
+                      "main": 413.7,
+                      "growth": 3770,
+                      "damagePercentage": 979.2,
+                      "stunRatio": 236,
+                      "spRecovery": 0,
+                      "feverRecovery": 740300,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431033, Prop:1002}",
+              "param": {
+                "1431033": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3770,
+                  "stunRatioGrowth": 640,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 140,
+                      "growth": 640,
+                      "damagePercentage": 828.4,
+                      "stunRatio": 210.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 740300,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    },
+                    "16": {
+                      "main": 140,
+                      "growth": 640,
+                      "damagePercentage": 979.2,
+                      "stunRatio": 236,
+                      "spRecovery": 0,
+                      "feverRecovery": 740300,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13167
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：帰去",
+          "param": [
+            {
+              "name": "パリィ・軽 ブレイク倍率",
+              "desc": "{Skill:1431030, Prop:1002}",
+              "param": {
+                "1431030": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 890,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 195.3,
+                      "growth": 890,
+                      "damagePercentage": 0,
+                      "stunRatio": 293.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 45004
+                    },
+                    "16": {
+                      "main": 195.3,
+                      "growth": 890,
+                      "damagePercentage": 0,
+                      "stunRatio": 328.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 45004
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・重 ブレイク倍率",
+              "desc": "{Skill:1431031, Prop:1002}",
+              "param": {
+                "1431031": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 950,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 207.2,
+                      "growth": 950,
+                      "damagePercentage": 0,
+                      "stunRatio": 311.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 46664
+                    },
+                    "16": {
+                      "main": 207.2,
+                      "growth": 950,
+                      "damagePercentage": 0,
+                      "stunRatio": 349.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 46664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・連続 ブレイク倍率",
+              "desc": "{Skill:1431032, Prop:1002}",
+              "param": {
+                "1431032": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 550,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 119.2,
+                      "growth": 550,
+                      "damagePercentage": 0,
+                      "stunRatio": 179.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16664
+                    },
+                    "16": {
+                      "main": 119.2,
+                      "growth": 550,
+                      "damagePercentage": 0,
+                      "stunRatio": 201.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 16664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "クイック支援：澄心境・策応",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431035, Prop:1001}",
+              "param": {
+                "1431035": {
+                  "format": "%",
+                  "damagePercentageGrowth": 620,
+                  "stunRatioGrowth": 160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 67.3,
+                      "growth": 620,
+                      "damagePercentage": 135.5,
+                      "stunRatio": 50.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 132275,
+                      "attributeInfliction": 6000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6001
+                    },
+                    "16": {
+                      "main": 67.3,
+                      "growth": 620,
+                      "damagePercentage": 160.3,
+                      "stunRatio": 57.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 132275,
+                      "attributeInfliction": 6000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6001
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431035, Prop:1002}",
+              "param": {
+                "1431035": {
+                  "format": "%",
+                  "damagePercentageGrowth": 620,
+                  "stunRatioGrowth": 160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 33.1,
+                      "growth": 160,
+                      "damagePercentage": 135.5,
+                      "stunRatio": 50.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 132275,
+                      "attributeInfliction": 6000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6001
+                    },
+                    "16": {
+                      "main": 33.1,
+                      "growth": 160,
+                      "damagePercentage": 160.3,
+                      "stunRatio": 57.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 132275,
+                      "attributeInfliction": 6000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6001
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突撃：澄心境・守一",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1431034, Prop:1001}",
+              "param": {
+                "1431034": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3910,
+                  "stunRatioGrowth": 670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 430,
+                      "growth": 3910,
+                      "damagePercentage": 860.1,
+                      "stunRatio": 219.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 767800,
+                      "attributeInfliction": 28622,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    },
+                    "16": {
+                      "main": 430,
+                      "growth": 3910,
+                      "damagePercentage": 1016.5,
+                      "stunRatio": 246.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 767800,
+                      "attributeInfliction": 28622,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1431034, Prop:1002}",
+              "param": {
+                "1431034": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3910,
+                  "stunRatioGrowth": 670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 146,
+                      "growth": 670,
+                      "damagePercentage": 860.1,
+                      "stunRatio": 219.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 767800,
+                      "attributeInfliction": 28622,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    },
+                    "16": {
+                      "main": 146,
+                      "growth": 670,
+                      "damagePercentage": 1016.5,
+                      "stunRatio": 246.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 767800,
+                      "attributeInfliction": 28622,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skillList": {
+    "1431001": {
+      "name": "通常攻撃：速剣",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431002": {
+      "name": "通常攻撃：流雲の剣意",
+      "desc": "<IconMap:Icon_Normal>（長押し）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431003": {
+      "name": "通常攻撃：澄心境・破浪",
+      "desc": "<IconMap:Icon_Normal>（澄心境）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431004": {
+      "name": "通常攻撃：澄心境・昇舞",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（澄心境）（「青溟剣勢」を1Pt以上所持している時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431005": {
+      "name": "通常攻撃：澄心境・光刃斬",
+      "desc": "<IconMap:Icon_Normal>（澄心境）（空中）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431006": {
+      "name": "通常攻撃：澄心境・光刃斬・滅",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（澄心境）（空中）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431007": {
+      "name": "通常攻撃：澄心境・光刃斬・極",
+      "desc": "<IconMap:Icon_Normal>（「通常攻撃：澄心境・光刃斬・滅」発動後）（「青溟剣勢」を1Pt以上所持している時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431008": {
+      "name": "特殊スキル：滄海を招き",
+      "desc": "<IconMap:Icon_Special>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431009": {
+      "name": "強化特殊スキル：薙ぎて凪ぐ",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431010": {
+      "name": "特殊スキル：澄心境・去れど跡を濁さず",
+      "desc": "<IconMap:Icon_SpecialReady>（澄心境）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431011": {
+      "name": "強化特殊スキル：澄心境・飛光",
+      "desc": "<IconMap:Icon_SpecialReady>（長押し）（「青溟剣勢」を1Pt以上所持している時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431012": {
+      "name": "強化特殊スキル：澄心境・回燼",
+      "desc": "<IconMap:Icon_SpecialReady>（「青溟剣勢」消費時）（長押し）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431013": {
+      "name": "回避反撃：燕襲",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431014": {
+      "name": "ダッシュ攻撃：流影",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431015": {
+      "name": "連携スキル：邪祟斬り",
+      "desc": "<IconMap:Icon_QTE>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431016": {
+      "name": "連携スキル：澄心境・驚雷撃",
+      "desc": "<IconMap:Icon_QTE>（澄心境）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431017": {
+      "name": "終結スキル：雲雷よ慄け",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431018": {
+      "name": "終結スキル：慧剣よ天を開け",
+      "desc": "<IconMap:Icon_UltimateReady>（澄心境）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431019": {
+      "name": "入場スキル：鏡影",
+      "desc": "<IconMap:Icon_Normal>（長押し）（「青溟剣勢」満タン時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431020": {
+      "name": "クイック支援：援守",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431021": {
+      "name": "クイック支援：澄心境・策応",
+      "desc": "<IconMap:Icon_Switch>（澄心境）（クイック支援の発動条件を満たした時）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431022": {
+      "name": "パリィ支援：帰去",
+      "desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "elementType": 0,
+      "hitType": 0,
+      "potential": []
+    },
+    "1431023": {
+      "name": "支援突撃：止戈",
+      "desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1431024": {
+      "name": "支援突撃：澄心境・守一",
+      "desc": "<IconMap:Icon_Normal>（澄心境）（パリィ支援を発動した後に）",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1431501": {
+        "level": 1,
+        "id": 1431501,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+15%、与ダメージ+10%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431502": {
+        "level": 2,
+        "id": 1431502,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+17.5%、与ダメージ+12.5%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431503": {
+        "level": 3,
+        "id": 1431503,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+20%、与ダメージ+15%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431504": {
+        "level": 4,
+        "id": 1431504,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+22.5%、与ダメージ+17.5%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431505": {
+        "level": 5,
+        "id": 1431505,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+25%、与ダメージ+20%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431506": {
+        "level": 6,
+        "id": 1431506,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+27.5%、与ダメージ+22.5%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1431507": {
+        "level": 7,
+        "id": 1431507,
+        "name": [
+          "コアパッシブ：無明照破",
+          "追加能力：残影の光"
+        ],
+        "desc": [
+          "「澄心境」状態でない、かつ「青溟剣勢」を6Pt所持していない時、一部の攻撃を発動すると「青溟剣勢」が徐々に溜まる。任意の方法で「青溟剣勢」を獲得した時、上限を超えた「青溟剣勢」1Ptにつき、「器量」を1重獲得する、最大3重まで重ね掛け可能。「澄心境」状態終了時、すべての「器量」を消費し、その重数に応じた「青溟剣勢」を獲得する。\nフィールド入場時、「合一」効果を獲得し、会心率+30%、与ダメージ+25%。\n『終結スキル：雲雷よ慄け』または『入場スキル：鏡影』発動後、葉瞬光は「澄心境」状態に入り、「エーテルベール・決裁」を展開する。「エーテルベール・決裁」と「澄心境」の継続時間は同じく16秒、控えにいる時、継続時間は減少しなくなる。「澄心境」状態中、葉瞬光はより強力なスキルを使用し、与える物理属性ダメージはすべて凛刃属性ダメージになる。\n「エーテルベール・決裁」継続中、敵が「エーテルベール・決裁」に入った時、その時点のブレイク弱体倍率をもとに「ベール弱体効果」を付与される。期間中、葉瞬光のスキルが敵にダメージを与えた時、敵のブレイク弱体倍率の代わりにベール弱体倍率が適用される。ベール弱体倍率の上限は110%。「エーテルベール・決裁」が終了すると、ベール弱体効果は解除される。",
+          "チームに[支援]または[防護]のメンバーがいる時に発動：\n他のメンバーが任意の「エーテルベール」を展開した時、「青溟剣勢」を3Pt獲得する。すでに「澄心境」状態にある場合、「青溟剣勢」は3重の「器量」に変換される。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110513": 2
+      },
+      "3": {
+        "10": 28000,
+        "110513": 4
+      },
+      "4": {
+        "10": 60000,
+        "110008": 2,
+        "110513": 9
+      },
+      "5": {
+        "10": 100000,
+        "110008": 3,
+        "110513": 15
+      },
+      "6": {
+        "10": 200000,
+        "110008": 4,
+        "110513": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "うたかたの夢",
+      "desc": "フィールド入場時、「青溟剣勢」を6Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。\n『コアパッシブ：無明照破』の「合一」効果により、与ダメージがさらに+10%、ターゲットの防御力を20%無視する。",
+      "desc2": "真夜中の静寂のなか、彼女は幾度となく\nあの日へと引き戻される——\n剣が唸り、主を選び、契約が結ばれた。\nそれは祝福か、それとも呪いか。\n\nその答えを知る者はいない。\nだがあの日を境に、\n彼女の運命は確かにこの剣へと縛られた。"
+    },
+    "2": {
+      "level": 2,
+      "name": "光と影",
+      "desc": "「器量」は最大6重まで、「圧巻」は最大9重まで重ね掛けできるようになる。「澄心境」状態中、「青溟剣勢」を1Pt消費するたびに、「圧巻」効果を1重獲得する。『強化特殊スキル：澄心境・飛光』と『終結スキル：慧剣よ天を開け』の与ダメージは、ターゲットの防御力を40%無視する。",
+      "desc2": "歳月は流れ、季節は巡る。\n彼女にとって世界のすべては、雲嶽山という世界の片隅で\n四季の移ろう山々だけ。\nゆえに果てしない孤独と影のようにつきまとう恐怖の中で、\n「もう一人の自分」は静かに生まれたのだった。\n\n「アタシはこの子の一部。\n今までずっとそうだったし、これからだってそう」\n\n「この子が光なら、アタシは影。\nこの子が高いとこに飾られた偶像なら、\nアタシは地べたを這いずってる付き人…」\n\n「けどアタシ、もう決めたの——\nあの青溟剣を手にした時から、\n『英雄』なんかになるもんですか、って」\n\n「アタシは違う——ただ生きてたいだけだから」"
+    },
+    "3": {
+      "level": 3,
+      "name": "剣客は往く",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "絶世の名剣は、その鋭さを内に秘めたまま\n深き山の懐に眠っている。\nしかしひとたび鞘から抜き放たれれば、\n冷たい剣光がどこまでも広がり、\n吹きすさぶ風雪をも凌ぐ一筋の光となる。\n\n「え？剣士とは何か、って…？」\n「うん…ひたむきに進む勇気と、\n何もかもを斬り開く覚悟を持ってる人…かな！」"
+    },
+    "4": {
+      "level": 4,
+      "name": "暗き塵と共にあれ",
+      "desc": "フィールド入場時、デシベル値を1000Pt獲得する。探査モードにおいて、この効果は180秒に1回のみ発動可能。「エーテルベール・決裁」によるベール弱体倍率の上限が200%になる。",
+      "desc2": "壮大な理想の裏には、救済のために\nその身を燃やさなければならないという嘘があった。\n運命は彼女に慈悲を与えなかったが、\n彼女はそれに向き合い、来たるべき結末へと\n歩みを進めている。\n\n「分かってる…」\n「ワタシは『喪失』と生きてくんだって」\n「でも、ワタシは全部受け入れるよ」\n「ワタシが、そういうワタシになりたいから」"
+    },
+    "5": {
+      "level": 5,
+      "name": "希望に手を引かれ",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "「…でも結局、ワタシは運がいいと思うのよね」\n「ミアズマのような災厄にも呑まれず、\nたとえ青溟剣だってワタシを\n底なしの真っ暗闇に引きずり込むことはできない」\n\n「お兄ちゃんや師匠、適当観のみんな…そしてアナタ」\n「みんなが、ワタシを守ってくれるから」\n\n行く手がいばらの道であろうとも、\n微かな光が、今も進むべき道を照らしている。"
+    },
+    "6": {
+      "level": 6,
+      "name": "ともし火の願い",
+      "desc": "フィールド入場時、「ともし火の願い」を2重獲得する。「澄心境」状態に入るたびに「ともし火の願い」を1重獲得し、最大4重まで重ね掛け可能。「ともし火の願い」が3重ある時、『強化特殊スキル：澄心境・回燼』は『終結スキル：慧剣よ天を開け』に変わる。この『終結スキル：慧剣よ天を開け』を発動する時、「ともし火の願い」を3重消費する。『強化特殊スキル：澄心境・回燼』と『終結スキル：慧剣よ天を開け』の最後の一撃は追加で攻撃力1500%分の物理属性ダメージを与える。",
+      "desc2": "かつて、彼女は独り闇の中を歩んでいた。\nしかし彼女は剣をとり、災厄に駆けつけると\n青溟を鞘から抜き放ち、空を切り裂く一瞬の虹光で\n音なき闇を照らした。\n\n「これからは、そんな無数の灯火のひとつになりたい…」\n「どれだけ夜が長くてもきっと朝は来るって」\n「はるかな過去とはるかな未来で、ワタシと同じ選択をする人が\nきっと…数え切れないほどいる」"
+    }
+  },
+  "fairyRecommend": {
+    "slot4": 33500,
+    "slot2": 32700,
+    "slotSub": 31000,
+    "part4": {
+      "prop": 21103,
+      "name": "会心ダメージ",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part5": {
+      "prop": 31503,
+      "name": "物理属性ダメージボーナス",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
+    },
+    "part6": {
+      "prop": 12102,
+      "name": "攻撃力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "partSub": {
+      "prop": 20103,
+      "name": "会心率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    }
+  },
+  "potential": [],
+  "potentialDetail": {},
+  "live2D": "UISpine_Yeshunguang"
+}

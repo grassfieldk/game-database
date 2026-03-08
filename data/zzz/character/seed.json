@@ -1,0 +1,2573 @@
+{
+  "id": 1461,
+  "name": "「シード」",
+  "codeName": "Seed",
+  "rarity": "S",
+  "weaponType": "強攻",
+  "elementType": "電気属性",
+  "hitType": "斬撃",
+  "camp": "新エリー都防衛軍",
+  "stats": {
+    "armor": 0,
+    "armorGrowth": 0,
+    "attack": 134,
+    "attackGrowth": 81654,
+    "avatarPieceId": 5461,
+    "breakStun": 93,
+    "crit": 500,
+    "critDamage": 5000,
+    "critDmgRes": 0,
+    "critRes": 0,
+    "defence": 49,
+    "defenceGrowth": 66882,
+    "elementAbnormalPower": 94,
+    "elementMystery": 93,
+    "endurance": 0,
+    "hpGrowth": 837238,
+    "hpMax": 617,
+    "penDelta": 0,
+    "penRate": 0,
+    "rbl": 1,
+    "rblCorrectionFactor": 10000,
+    "rblProbability": 0,
+    "shield": 0,
+    "shieldGrowth": 0,
+    "spBarPoint": 120,
+    "spRecover": 120,
+    "stun": 0,
+    "rpMax": 0,
+    "rpRecover": 0
+  },
+  "level": {
+    "1": {
+      "hpMax": 0,
+      "attack": 0,
+      "defence": 0,
+      "levelMax": 10,
+      "levelMin": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hpMax": 423,
+      "attack": 48,
+      "defence": 34,
+      "levelMax": 20,
+      "levelMin": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hpMax": 847,
+      "attack": 95,
+      "defence": 68,
+      "levelMax": 30,
+      "levelMin": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hpMax": 1270,
+      "attack": 143,
+      "defence": 101,
+      "levelMax": 40,
+      "levelMin": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hpMax": 1694,
+      "attack": 191,
+      "defence": 135,
+      "levelMax": 50,
+      "levelMin": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hpMax": 2117,
+      "attack": 239,
+      "defence": 169,
+      "levelMax": 60,
+      "levelMin": 50,
+      "materials": {}
+    }
+  },
+  "extraLevel": {
+    "1": {
+      "maxLevel": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "2": {
+      "maxLevel": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "3": {
+      "maxLevel": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 1920
+        }
+      }
+    },
+    "4": {
+      "maxLevel": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 1920
+        }
+      }
+    },
+    "5": {
+      "maxLevel": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 2880
+        }
+      }
+    },
+    "6": {
+      "maxLevel": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "会心ダメージ",
+          "format": "{0:0.#%}",
+          "value": 2880
+        }
+      }
+    }
+  },
+  "levelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "通常攻撃：霜しべのロンド",
+          "desc": " <IconMap:Icon_Normal> を押して発動：\n前方へ最大4段の攻撃を繰り出す。1段目と2段目は物理属性ダメージ、3段目と4段目は電気属性ダメージを与える。\n3段目の後退から4段目発動前に攻撃を受けると、自動で回避する。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：落花・殲滅",
+          "desc": "『通常攻撃』の4段目、『回避反撃』、『クイック支援』、『支援突撃』の後、 <IconMap:Icon_Normal> を長押しまたは短押しして発動：\nロボットを召喚し、チャージパンチ攻撃を行い、電気属性ダメージを大量に与える。\n「アイアンエナジー」が120Ptに達した時、 <IconMap:Icon_Normal> を長押しすると、『通常攻撃：落花・殲滅』を1回だけ素早く発動できる。「アイアンエナジー」が120Pt未満、または上記の方法で『通常攻撃：落花・殲滅』を1回発動した後、この効果は解除される。\n敵に命中した時、「アイアンエナジー」は溜まらない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：落花・崩墜",
+          "desc": "「シード」は専用のゲージ「アイアンエナジー」を持つ。自身の攻撃が敵に命中すると、「アイアンエナジー」が溜まる。\n「アイアンエナジー」は最大150Ptまで所持でき、フィールド入場時に60Ptを獲得する。120Ptに達した時、『通常攻撃：落花・殲滅』または『終結スキル：機巧ガーデン・開花！』発動後、 <IconMap:Icon_Normal> を短押しまたは長押しすると、「アイアンエナジー」を60Pt消費して『通常攻撃：落花・崩墜Ⅰ』を発動できる。その後自動で「アイアンエナジー」を60Pt消費して、そのまま『通常攻撃：落花・崩墜Ⅱ』に繋げる。\n「シード」はロボットを操って掃射した後、跳び上がって強力な落下攻撃を行い、電気属性ダメージを大量に与える。\n敵に命中した時、「アイアンエナジー」は溜まらない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：霜しべのロンド",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1461001, Prop:1001}",
+              "param": {
+                "1461001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 430,
+                  "stunRatioGrowth": 140,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    29334,
+                    6670,
+                    73425
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 46.5,
+                      "growth": 430,
+                      "damagePercentage": 93.8,
+                      "stunRatio": 44.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2667
+                    },
+                    "16": {
+                      "main": 46.5,
+                      "growth": 430,
+                      "damagePercentage": 111,
+                      "stunRatio": 50.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1461002, Prop:1001}",
+              "param": {
+                "1461002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1130,
+                  "stunRatioGrowth": 380,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    82867,
+                    18840,
+                    207350
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 124.1,
+                      "growth": 1130,
+                      "damagePercentage": 248.4,
+                      "stunRatio": 124.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7534
+                    },
+                    "16": {
+                      "main": 124.1,
+                      "growth": 1130,
+                      "damagePercentage": 293.6,
+                      "stunRatio": 139.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7534
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1461003, Prop:1001}",
+              "param": {
+                "1461003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 660,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    44585
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 71.8,
+                      "growth": 660,
+                      "damagePercentage": 144.4,
+                      "stunRatio": 67.7,
+                      "spRecovery": 10140,
+                      "feverRecovery": 111650,
+                      "attributeInfliction": 4053,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4054
+                    },
+                    "16": {
+                      "main": 71.8,
+                      "growth": 660,
+                      "damagePercentage": 170.8,
+                      "stunRatio": 76.1,
+                      "spRecovery": 10140,
+                      "feverRecovery": 111650,
+                      "attributeInfliction": 4053,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4054
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ダメージ倍率",
+              "desc": "{Skill:1461004, Prop:1001}",
+              "param": {
+                "1461004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3260,
+                  "stunRatioGrowth": 1030,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    226419
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 358.6,
+                      "growth": 3260,
+                      "damagePercentage": 717.2,
+                      "stunRatio": 339.8,
+                      "spRecovery": 51460,
+                      "feverRecovery": 566225,
+                      "attributeInfliction": 20583,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20584
+                    },
+                    "16": {
+                      "main": 358.6,
+                      "growth": 3260,
+                      "damagePercentage": 847.6,
+                      "stunRatio": 381,
+                      "spRecovery": 51460,
+                      "feverRecovery": 566225,
+                      "attributeInfliction": 20583,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20584
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1461001, Prop:1002}",
+              "param": {
+                "1461001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 430,
+                  "stunRatioGrowth": 140,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    29334,
+                    6670,
+                    73425
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 29.4,
+                      "growth": 140,
+                      "damagePercentage": 93.8,
+                      "stunRatio": 44.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2667
+                    },
+                    "16": {
+                      "main": 29.4,
+                      "growth": 140,
+                      "damagePercentage": 111,
+                      "stunRatio": 50.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1461002, Prop:1002}",
+              "param": {
+                "1461002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1130,
+                  "stunRatioGrowth": 380,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    82867,
+                    18840,
+                    207350
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 82.9,
+                      "growth": 380,
+                      "damagePercentage": 248.4,
+                      "stunRatio": 124.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7534
+                    },
+                    "16": {
+                      "main": 82.9,
+                      "growth": 380,
+                      "damagePercentage": 293.6,
+                      "stunRatio": 139.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7534
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1461003, Prop:1002}",
+              "param": {
+                "1461003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 660,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    44585
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 44.6,
+                      "growth": 210,
+                      "damagePercentage": 144.4,
+                      "stunRatio": 67.7,
+                      "spRecovery": 10140,
+                      "feverRecovery": 111650,
+                      "attributeInfliction": 4053,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4054
+                    },
+                    "16": {
+                      "main": 44.6,
+                      "growth": 210,
+                      "damagePercentage": 170.8,
+                      "stunRatio": 76.1,
+                      "spRecovery": 10140,
+                      "feverRecovery": 111650,
+                      "attributeInfliction": 4053,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4054
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ブレイク倍率",
+              "desc": "{Skill:1461004, Prop:1002}",
+              "param": {
+                "1461004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3260,
+                  "stunRatioGrowth": 1030,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    226419
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 226.5,
+                      "growth": 1030,
+                      "damagePercentage": 717.2,
+                      "stunRatio": 339.8,
+                      "spRecovery": 51460,
+                      "feverRecovery": 566225,
+                      "attributeInfliction": 20583,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20584
+                    },
+                    "16": {
+                      "main": 226.5,
+                      "growth": 1030,
+                      "damagePercentage": 847.6,
+                      "stunRatio": 381,
+                      "spRecovery": 51460,
+                      "feverRecovery": 566225,
+                      "attributeInfliction": 20583,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 20584
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：落花・殲滅",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461006, Prop:1001}",
+              "param": {
+                "1461006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1520,
+                  "stunRatioGrowth": 660,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 166.6,
+                      "growth": 1520,
+                      "damagePercentage": 333.8,
+                      "stunRatio": 217.4,
+                      "spRecovery": 32910,
+                      "feverRecovery": 362175,
+                      "attributeInfliction": 13163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13164
+                    },
+                    "16": {
+                      "main": 166.6,
+                      "growth": 1520,
+                      "damagePercentage": 394.6,
+                      "stunRatio": 243.8,
+                      "spRecovery": 32910,
+                      "feverRecovery": 362175,
+                      "attributeInfliction": 13163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13164
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461006, Prop:1002}",
+              "param": {
+                "1461006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1520,
+                  "stunRatioGrowth": 660,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 144.8,
+                      "growth": 660,
+                      "damagePercentage": 333.8,
+                      "stunRatio": 217.4,
+                      "spRecovery": 32910,
+                      "feverRecovery": 362175,
+                      "attributeInfliction": 13163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13164
+                    },
+                    "16": {
+                      "main": 144.8,
+                      "growth": 660,
+                      "damagePercentage": 394.6,
+                      "stunRatio": 243.8,
+                      "spRecovery": 32910,
+                      "feverRecovery": 362175,
+                      "attributeInfliction": 13163,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13164
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：落花・崩墜Ⅰ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461007, Prop:1001}",
+              "param": {
+                "1461007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4810,
+                  "stunRatioGrowth": 310,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 528.3,
+                      "growth": 4810,
+                      "damagePercentage": 1057.4,
+                      "stunRatio": 102,
+                      "spRecovery": 15430,
+                      "feverRecovery": 169675,
+                      "attributeInfliction": 6169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6170
+                    },
+                    "16": {
+                      "main": 528.3,
+                      "growth": 4810,
+                      "damagePercentage": 1249.8,
+                      "stunRatio": 114.4,
+                      "spRecovery": 15430,
+                      "feverRecovery": 169675,
+                      "attributeInfliction": 6169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461007, Prop:1002}",
+              "param": {
+                "1461007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4810,
+                  "stunRatioGrowth": 310,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 67.9,
+                      "growth": 310,
+                      "damagePercentage": 1057.4,
+                      "stunRatio": 102,
+                      "spRecovery": 15430,
+                      "feverRecovery": 169675,
+                      "attributeInfliction": 6169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6170
+                    },
+                    "16": {
+                      "main": 67.9,
+                      "growth": 310,
+                      "damagePercentage": 1249.8,
+                      "stunRatio": 114.4,
+                      "spRecovery": 15430,
+                      "feverRecovery": 169675,
+                      "attributeInfliction": 6169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：落花・崩墜Ⅱ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461008, Prop:1001}",
+              "param": {
+                "1461008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9000,
+                  "stunRatioGrowth": 770,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 989.4,
+                      "growth": 9000,
+                      "damagePercentage": 1979.4,
+                      "stunRatio": 253.5,
+                      "spRecovery": 38350,
+                      "feverRecovery": 421850,
+                      "attributeInfliction": 15336,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15337
+                    },
+                    "16": {
+                      "main": 989.4,
+                      "growth": 9000,
+                      "damagePercentage": 2339.4,
+                      "stunRatio": 284.3,
+                      "spRecovery": 38350,
+                      "feverRecovery": 421850,
+                      "attributeInfliction": 15336,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15337
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461008, Prop:1002}",
+              "param": {
+                "1461008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9000,
+                  "stunRatioGrowth": 770,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 168.8,
+                      "growth": 770,
+                      "damagePercentage": 1979.4,
+                      "stunRatio": 253.5,
+                      "spRecovery": 38350,
+                      "feverRecovery": 421850,
+                      "attributeInfliction": 15336,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15337
+                    },
+                    "16": {
+                      "main": 168.8,
+                      "growth": 770,
+                      "damagePercentage": 2339.4,
+                      "stunRatio": 284.3,
+                      "spRecovery": 38350,
+                      "feverRecovery": 421850,
+                      "attributeInfliction": 15336,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15337
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "回避：花弁を辿る",
+          "desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：落電のロンド",
+          "desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に電磁チャクラムを投げ、物理属性ダメージを与える。",
+          "potential": []
+        },
+        {
+          "name": "回避反撃：乱れ咲く花々",
+          "desc": "『極限回避』後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に連続レーザー攻撃を放ち、電気属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：落電のロンド",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461012, Prop:1001}",
+              "param": {
+                "1461012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 590,
+                  "stunRatioGrowth": 150,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    32084,
+                    7300,
+                    80300
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 64.2,
+                      "growth": 590,
+                      "damagePercentage": 129.1,
+                      "stunRatio": 48.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2917
+                    },
+                    "16": {
+                      "main": 64.2,
+                      "growth": 590,
+                      "damagePercentage": 152.7,
+                      "stunRatio": 54.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2917
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461012, Prop:1002}",
+              "param": {
+                "1461012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 590,
+                  "stunRatioGrowth": 150,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    32084,
+                    7300,
+                    80300
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 32.1,
+                      "growth": 150,
+                      "damagePercentage": 129.1,
+                      "stunRatio": 48.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2917
+                    },
+                    "16": {
+                      "main": 32.1,
+                      "growth": 150,
+                      "damagePercentage": 152.7,
+                      "stunRatio": 54.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 2917
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "回避反撃：乱れ咲く花々",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461013, Prop:1001}",
+              "param": {
+                "1461013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2910,
+                  "stunRatioGrowth": 1160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    244870,
+                    32930,
+                    362175
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 320.1,
+                      "growth": 2910,
+                      "damagePercentage": 640.2,
+                      "stunRatio": 382.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 13169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28170
+                    },
+                    "16": {
+                      "main": 320.1,
+                      "growth": 2910,
+                      "damagePercentage": 756.6,
+                      "stunRatio": 428.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 13169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461013, Prop:1002}",
+              "param": {
+                "1461013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2910,
+                  "stunRatioGrowth": 1160,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    244870,
+                    32930,
+                    362175
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 254.9,
+                      "growth": 1160,
+                      "damagePercentage": 640.2,
+                      "stunRatio": 382.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 13169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28170
+                    },
+                    "16": {
+                      "main": 254.9,
+                      "growth": 1160,
+                      "damagePercentage": 756.6,
+                      "stunRatio": 428.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 13169,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 28170
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊スキル：蒼霜の零落",
+          "desc": " <IconMap:Icon_Special> を押して発動：\n電磁チャクラムを投げ出し、曲線を描いて電気属性ダメージを与える。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：鉄萼の雨",
+          "desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n飛行モードに移行し、自由に移動できる。弾幕を連射し、敵に電気属性ダメージを大量に与える。\n <IconMap:Icon_SpecialReady> を長押しすることで、エネルギーを持続的に消費して弾幕の発射時間を延長できる。\n飛行モード中、 <IconMap:Icon_SpecialReady> を離すと『強化特殊スキル：鉄萼の雨・離』を発動できる。\n1回の飛行でエネルギーを60Pt消費すると、『通常攻撃：落花・殲滅』が自動的に発動する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：鉄萼の雨・離",
+          "desc": "『強化特殊スキル：鉄萼の雨』発動中、 <IconMap:Icon_SpecialReady> を離すと発動：\n素早い砲撃を放ち、電気属性ダメージを与える。\n敵に命中した時、「アイアンエナジー」は溜まらない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：蒼霜の零落",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461005, Prop:1001}",
+              "param": {
+                "1461005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 440,
+                  "stunRatioGrowth": 220,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    47685,
+                    0,
+                    119350
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 47.7,
+                      "growth": 440,
+                      "damagePercentage": 96.1,
+                      "stunRatio": 71.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 4334,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4335
+                    },
+                    "16": {
+                      "main": 47.7,
+                      "growth": 440,
+                      "damagePercentage": 113.7,
+                      "stunRatio": 80.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 4334,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4335
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461005, Prop:1002}",
+              "param": {
+                "1461005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 440,
+                  "stunRatioGrowth": 220,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    47685,
+                    0,
+                    119350
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 47.7,
+                      "growth": 220,
+                      "damagePercentage": 96.1,
+                      "stunRatio": 71.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 4334,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4335
+                    },
+                    "16": {
+                      "main": 47.7,
+                      "growth": 220,
+                      "damagePercentage": 113.7,
+                      "stunRatio": 80.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 4334,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4335
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：鉄萼の雨",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461009, Prop:1001}",
+              "param": {
+                "1461009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6220,
+                  "stunRatioGrowth": 2670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    296964
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 683.4,
+                      "growth": 6220,
+                      "damagePercentage": 1367.6,
+                      "stunRatio": 880.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 1950025,
+                      "attributeInfliction": 57735,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26997
+                    },
+                    "16": {
+                      "main": 683.4,
+                      "growth": 6220,
+                      "damagePercentage": 1616.4,
+                      "stunRatio": 987.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1950025,
+                      "attributeInfliction": 57735,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26997
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461009, Prop:1002}",
+              "param": {
+                "1461009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6220,
+                  "stunRatioGrowth": 2670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    296964
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 586.8,
+                      "growth": 2670,
+                      "damagePercentage": 1367.6,
+                      "stunRatio": 880.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 1950025,
+                      "attributeInfliction": 57735,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26997
+                    },
+                    "16": {
+                      "main": 586.8,
+                      "growth": 2670,
+                      "damagePercentage": 1616.4,
+                      "stunRatio": 987.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 1950025,
+                      "attributeInfliction": 57735,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26997
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "初期消費",
+              "desc": "10Pt",
+              "potential": []
+            },
+            {
+              "name": "弾幕消費",
+              "desc": "5Pt",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：鉄萼の雨・離",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461022, Prop:1001}",
+              "param": {
+                "1461022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 170,
+                  "stunRatioGrowth": 50,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 18.4,
+                      "growth": 170,
+                      "damagePercentage": 37.1,
+                      "stunRatio": 14.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 23100,
+                      "attributeInfliction": 833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 834
+                    },
+                    "16": {
+                      "main": 18.4,
+                      "growth": 170,
+                      "damagePercentage": 43.9,
+                      "stunRatio": 16.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 23100,
+                      "attributeInfliction": 833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 834
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461022, Prop:1002}",
+              "param": {
+                "1461022": {
+                  "format": "%",
+                  "damagePercentageGrowth": 170,
+                  "stunRatioGrowth": 50,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 9.2,
+                      "growth": 50,
+                      "damagePercentage": 37.1,
+                      "stunRatio": 14.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 23100,
+                      "attributeInfliction": 833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 834
+                    },
+                    "16": {
+                      "main": 9.2,
+                      "growth": 50,
+                      "damagePercentage": 43.9,
+                      "stunRatio": 16.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 23100,
+                      "attributeInfliction": 833,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 834
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "連携スキル：ヘイル・ストリーム",
+          "desc": "『連携スキル』開始時に、対応するエージェントを選択して発動：\nロボットを召喚して自身を守りながら、前方に砲撃とミサイルを放ち、電気属性ダメージを大量に与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "終結スキル：機巧ガーデン・開花！",
+          "desc": "デシベルレートが『Maximum』に達した時に <IconMap:Icon_UltimateReady> を押して発動：\nロボットに搭乗し、大量のミサイルと流れ星のように輝く致命的な砲弾を浴びせかけた後、跳び上がって強力な落下攻撃を繰り出し、電気属性ダメージを大量に与える。\nスキル発動後、「アイアンエナジー」を60Pt溜める。\n敵に命中した時、「アイアンエナジー」は溜まらない。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "連携スキル：ヘイル・ストリーム",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461014, Prop:1001}",
+              "param": {
+                "1461014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6680,
+                  "stunRatioGrowth": 1350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    295204
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 734.2,
+                      "growth": 6680,
+                      "damagePercentage": 1469,
+                      "stunRatio": 443.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2566850,
+                      "attributeInfliction": 46786,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26837
+                    },
+                    "16": {
+                      "main": 734.2,
+                      "growth": 6680,
+                      "damagePercentage": 1736.2,
+                      "stunRatio": 497.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2566850,
+                      "attributeInfliction": 46786,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26837
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461014, Prop:1002}",
+              "param": {
+                "1461014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6680,
+                  "stunRatioGrowth": 1350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    295204
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 295.3,
+                      "growth": 1350,
+                      "damagePercentage": 1469,
+                      "stunRatio": 443.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2566850,
+                      "attributeInfliction": 46786,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26837
+                    },
+                    "16": {
+                      "main": 295.3,
+                      "growth": 1350,
+                      "damagePercentage": 1736.2,
+                      "stunRatio": 497.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 2566850,
+                      "attributeInfliction": 46786,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 26837
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "終結スキル：機巧ガーデン・開花！",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461015, Prop:1001}",
+              "param": {
+                "1461015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 29550,
+                  "stunRatioGrowth": 2710,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 3249.7,
+                      "growth": 29550,
+                      "damagePercentage": 6500.2,
+                      "stunRatio": 894,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 54170,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 104171
+                    },
+                    "16": {
+                      "main": 3249.7,
+                      "growth": 29550,
+                      "damagePercentage": 7682.2,
+                      "stunRatio": 1002.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 54170,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 104171
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461015, Prop:1002}",
+              "param": {
+                "1461015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 29550,
+                  "stunRatioGrowth": 2710,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 595.9,
+                      "growth": 2710,
+                      "damagePercentage": 6500.2,
+                      "stunRatio": 894,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 54170,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 104171
+                    },
+                    "16": {
+                      "main": 595.9,
+                      "growth": 2710,
+                      "damagePercentage": 7682.2,
+                      "stunRatio": 1002.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 54170,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 104171
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "クイック支援：花嵐斉射",
+          "desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に連続レーザー攻撃を放ち、電気属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：咲き始めの障壁",
+          "desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "支援突撃：紅く爆ぜる花芯",
+          "desc": "『パリィ支援』発動後、 <IconMap:Icon_Normal> を押して発動：\n前方の敵に連続浮遊ビット攻撃を放ち、電気属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "クイック支援：花嵐斉射",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461016, Prop:1001}",
+              "param": {
+                "1461016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1400,
+                  "stunRatioGrowth": 350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    77000,
+                    17500,
+                    192500
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 154,
+                      "growth": 1400,
+                      "damagePercentage": 308,
+                      "stunRatio": 115.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 7000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7000
+                    },
+                    "16": {
+                      "main": 154,
+                      "growth": 1400,
+                      "damagePercentage": 364,
+                      "stunRatio": 129.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 7000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461016, Prop:1002}",
+              "param": {
+                "1461016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1400,
+                  "stunRatioGrowth": 350,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    77000,
+                    17500,
+                    192500
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 77,
+                      "growth": 350,
+                      "damagePercentage": 308,
+                      "stunRatio": 115.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 7000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7000
+                    },
+                    "16": {
+                      "main": 77,
+                      "growth": 350,
+                      "damagePercentage": 364,
+                      "stunRatio": 129.5,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 7000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 7000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：咲き始めの障壁",
+          "param": [
+            {
+              "name": "パリィ・軽 ブレイク倍率",
+              "desc": "{Skill:1461017, Prop:1002}",
+              "param": {
+                "1461017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1240,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 271.3,
+                      "growth": 1240,
+                      "damagePercentage": 0,
+                      "stunRatio": 407.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    },
+                    "16": {
+                      "main": 271.3,
+                      "growth": 1240,
+                      "damagePercentage": 0,
+                      "stunRatio": 457.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・重 ブレイク倍率",
+              "desc": "{Skill:1461018, Prop:1002}",
+              "param": {
+                "1461018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1560,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 342.8,
+                      "growth": 1560,
+                      "damagePercentage": 0,
+                      "stunRatio": 514.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    },
+                    "16": {
+                      "main": 342.8,
+                      "growth": 1560,
+                      "damagePercentage": 0,
+                      "stunRatio": 576.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・連続 ブレイク倍率",
+              "desc": "{Skill:1461019, Prop:1002}",
+              "param": {
+                "1461019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 760,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    0
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 166.8,
+                      "growth": 760,
+                      "damagePercentage": 0,
+                      "stunRatio": 250.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    },
+                    "16": {
+                      "main": 166.8,
+                      "growth": 760,
+                      "damagePercentage": 0,
+                      "stunRatio": 280.8,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突撃：紅く爆ぜる花芯",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1461020, Prop:1001}",
+              "param": {
+                "1461020": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4150,
+                  "stunRatioGrowth": 1830,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    238371,
+                    0,
+                    1276000
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 456,
+                      "growth": 4150,
+                      "damagePercentage": 912.5,
+                      "stunRatio": 602.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 38976,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21671
+                    },
+                    "16": {
+                      "main": 456,
+                      "growth": 4150,
+                      "damagePercentage": 1078.5,
+                      "stunRatio": 676.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 38976,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21671
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1461020, Prop:1002}",
+              "param": {
+                "1461020": {
+                  "format": "%",
+                  "damagePercentageGrowth": 4150,
+                  "stunRatioGrowth": 1830,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [
+                    238371,
+                    0,
+                    1276000
+                  ],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 401.6,
+                      "growth": 1830,
+                      "damagePercentage": 912.5,
+                      "stunRatio": 602.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 38976,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21671
+                    },
+                    "16": {
+                      "main": 401.6,
+                      "growth": 1830,
+                      "damagePercentage": 1078.5,
+                      "stunRatio": 676.1,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 38976,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 21671
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skillList": {
+    "1416001": {
+      "name": "通常攻撃：霜しべのロンド（1、2段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1416002": {
+      "name": "通常攻撃：霜しべのロンド（3、4段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1416003": {
+      "name": "通常攻撃：落花・殲滅",
+      "desc": "<IconMap:Icon_Normal>（『通常攻撃：霜しべのロンド』の4段目、『回避反撃：乱れ咲く花々』、『クイック支援：花嵐斉射』または『支援突撃：紅く爆ぜる花芯』発動時）",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416004": {
+      "name": "通常攻撃：落花・崩墜",
+      "desc": "<IconMap:Icon_Normal>（「アイアンエナジー」が一定量に達し、『通常攻撃：落花・殲滅』を発動した後）",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416005": {
+      "name": "特殊スキル：蒼霜の零落",
+      "desc": "<IconMap:Icon_Special>",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416006": {
+      "name": "強化特殊スキル：鉄萼の雨",
+      "desc": "<IconMap:Icon_SpecialReady>（溜め押し可）",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416007": {
+      "name": "強化特殊スキル：鉄萼の雨・離",
+      "desc": "<IconMap:Icon_SpecialReady>（エネルギー消費が60未満の時に離す）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1416008": {
+      "name": "回避：花弁を辿る",
+      "desc": "<IconMap:Icon_Evade>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1416009": {
+      "name": "ダッシュ攻撃：落電のロンド",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416010": {
+      "name": "回避反撃：乱れ咲く花々",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416011": {
+      "name": "連携スキル：ヘイル・ストリーム",
+      "desc": "<IconMap:Icon_QTE>",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416012": {
+      "name": "終結スキル：機巧ガーデン・開花！",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416013": {
+      "name": "クイック支援：花嵐斉射",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1416014": {
+      "name": "パリィ支援：咲き始めの障壁",
+      "desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    },
+    "1416015": {
+      "name": "支援突撃：紅く爆ぜる花芯",
+      "desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "elementType": 203,
+      "hitType": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1461501": {
+        "level": 1,
+        "id": 1461501,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+100Pt、会心ダメージ+15%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+100Pt、会心ダメージ+15%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+12.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461502": {
+        "level": 2,
+        "id": 1461502,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+225Pt、会心ダメージ+17.5%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+225Pt、会心ダメージ+17.5%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+14.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461503": {
+        "level": 3,
+        "id": 1461503,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+350Pt、会心ダメージ+20%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+350Pt、会心ダメージ+20%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+16.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461504": {
+        "level": 4,
+        "id": 1461504,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+475Pt、会心ダメージ+22.5%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+475Pt、会心ダメージ+22.5%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+18.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461505": {
+        "level": 5,
+        "id": 1461505,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+600Pt、会心ダメージ+25%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+600Pt、会心ダメージ+25%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+20.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461506": {
+        "level": 6,
+        "id": 1461506,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+725Pt、会心ダメージ+27.5%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+725Pt、会心ダメージ+27.5%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+22.5%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1461507": {
+        "level": 7,
+        "id": 1461507,
+        "name": [
+          "コアパッシブ：フローラ・プロトコル",
+          "追加能力：思いがけない援軍"
+        ],
+        "desc": [
+          "「シード」を除く開幕攻撃力が最も高い[強攻]メンバーは「正規兵」とみなされる。\n「正規兵」が『強化特殊スキル』を発動すると、「シード」は「強襲」状態を獲得する。\n「強襲」：「シード」の攻撃力+1000Pt、会心ダメージ+30%。\n「シード」が『強化特殊スキル』を発動すると、「正規兵」は「対攻」状態を獲得する。\n「対攻」：「正規兵」の攻撃力+1000Pt、会心ダメージ+30%。\n「対攻」と「強襲」が同時に存在する時、「シード」と「正規兵」は同時に「包囲」状態を獲得し、与ダメージ+25%。\n\n「強襲」、「対攻」、「包囲」によるバフ効果は該当メンバーが操作中メンバーの時に発動する。\n該当メンバーを控えに切り替えた時、バフ効果は3秒後、またはそのメンバーが退場した後に解除される。\n該当メンバーを操作中メンバーに切り替えると、バフ効果は再び発動する。\n\nフィールド入場時、「正規兵」がいる場合、「シード」は即座に「強襲」と「包囲」状態を獲得し、「正規兵」は即座に「対攻」と「包囲」状態を獲得する。\n「対攻」と「強襲」状態の継続時間は40秒、重複して獲得すると継続時間が更新される。\n「正規兵」が操作中メンバーとしてエネルギーを消費した時、または「シード」がエネルギーを消費した時、消費したエネルギー1Ptにつき、「シード」は「アイアンエナジー」を0.5Pt回復する。",
+          "チームに他の[強攻]メンバーがいる時に発動：\n「シード」が操作中のメンバーとしてダメージを与えた時、「正規兵」はエネルギーを2Pt回復する、1秒に1回のみ発動可能。\n「シード」の『通常攻撃：落花・殲滅』、『通常攻撃：落花・崩墜』および『終結スキル：機巧ガーデン・開花！』の与ダメージ+30%、敵の電気属性ダメージ耐性を25%無視する。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110509": 2
+      },
+      "3": {
+        "10": 28000,
+        "110509": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110509": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110509": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110509": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "「凍眠期」",
+      "desc": "「シード」の「アイアンエナジー」が100Ptに達した時、『通常攻撃：落花・崩墜』を発動できるようになり、「アイアンエナジー」の合計消費量が100Ptになる。『通常攻撃：落花・殲滅』の素早い発動に必要な「アイアンエナジー」が100Ptになる。フィールド入場時、「アイアンエナジー」を追加で40Pt溜める。『終結スキル』発動時、「アイアンエナジー」を追加で20Pt溜める。[通常攻撃：落花・崩墜]の与える会心ダメージ+30%。",
+      "desc2": "外界から隔絶された、厳かで神秘的な建物。\n純白の彼女はそこにいた。おずおずと\nフェンスの向こうへ首を伸ばす。\n外の世界ってどんな感じ？\n好奇心は無菌室を出て、崩れ落ちる高層ビルを越え、\n空に咲く巨大なピンクの花を避けて、\nひたすらに流れていく。流れては、流れて……\n「くさった卵が割れちゃったみたい」\n「でも、もう少しここにいたいかも…」"
+    },
+    "2": {
+      "level": 2,
+      "name": "「吸光法」",
+      "desc": "エージェントの「包囲」効果発動中、そのエージェントが与えるダメージは敵の防御力を20%無視する。『強化特殊スキル：鉄萼の雨』発動時、累計でエネルギーを60Pt消費した後も、引き続きエネルギーを消費してスキル発動時間を延長できる。ボタンを離すか、または累計でエネルギーを120Pt消費するとスキルは終了する。『強化特殊スキル：鉄萼の雨』でエネルギーを5Pt消費するごとに、今回繋げる『通常攻撃：落花・殲滅』の与ダメージ+5%。",
+      "desc2": "鉄骨が無秩序に連なる、果てしない廃墟。\nなんとも言い表せない感情が喉につっかえ、\n声を出すことができない。\n視界が霞む。奇妙な液体が頬を伝い、落ちていく。\nおもむろに目を擦って、瞬きをした…\nぎこちなく近づいてくる眩しいあれは、\n一体なんだろう？\n「怖がらなくていい、助けに来たんだ…」\n「名前はなんと言う？オレは…『シード』だ」"
+    },
+    "3": {
+      "level": 3,
+      "name": "「萌芽論」",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "軍のキャンプにある、ごく普通の休憩室。\n少女の心を開こうと、彼女たちは口々に声をかけた。\nもじもじとした赤毛の少女、声が大きい変な銃、\nバイザーをつけたゴールデンレトリバー…\n大きなロボットは彼女に告げた。皆、友達なのだと。\n「友達って、なに？」\n「振り返れば、そこにいる。それが友達だ」"
+    },
+    "4": {
+      "level": 4,
+      "name": "「芳香律」",
+      "desc": "「シード」の「包囲」効果発動中、自身のデシベル値獲得効率+10%、『終結スキル』の与ダメージ+20%。",
+      "desc2": "広大かつ、人で溢れかえる広場。\n誰よりも高い壇上で、誰かが\nよくわからないことを話している。\nそして突然、彼女の名が呼ばれた。\n大勢の人々がわっと集まり、戸惑う花は\n髪についた火薬の匂いもそのままに、\n舞台へと押し上げられた。\n黒い箱の中に星よりも明るい輝き。\n大きな彼と小さな彼女の胸に、\n金属でできた同じものがちょこんと付けられた。\nこの瞬間から彼女は「シード」となり、\nずっと彼女に寄り添ってきた彼は\n「ビッグ」・シードとなる…\nそんなことを意味する表彰式だった。\n「僕、ちゃんとできてた？」\n「もちろん。お前はオレたちの誇り…\nこのコードネームはその証なんだ、『シード』」"
+    },
+    "5": {
+      "level": 5,
+      "name": "「開花刻」",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "誰も知らない、小さな隠れ家。\n雑多な物が無秩序に空間を埋め尽くしている。\n箱やソファ、額縁に、色とりどりの花々——\n赤や黄色、ピンク色の花たちが、\n凛と背筋を伸ばしたり、ふんわりと咲いたり、\nうなだれたりしている。\n目を閉じ、口を押さえれば、\n絶対に我慢できる——彼女はそう約束したから。\n「もっと長い目で見守ってあげるんだ、いいな？」\n「この子たちはきっと元気に育ってくれる…お前のように」"
+    },
+    "6": {
+      "level": 6,
+      "name": "「有心説」",
+      "desc": "「シード」の会心ダメージ+50%。\n『通常攻撃：落花・殲滅』発動時、追加で3本のレーザーを放ち、1本ごとに攻撃力165%分のダメージを与える、3秒に1回のみ発動可能。",
+      "desc2": "花々が咲き乱れる、眩いばかりの花畑。\n彼女はこの場所の最初の姿を思い出す。\n雑草の一本も生えていなかった、虚無の荒れ地。\nこんなことをしたのは誰？荒れ果てた陰鬱な\n零号ホロウを、こんな風に変えたのは誰？\nまっしろな土に、力強く生きる心を植え付けたのは誰？\n「君は、こんなにも大きな輪っかを歩いてきたんだ…」\n「また会おうね、『ビッグ・シード』」"
+    }
+  },
+  "fairyRecommend": {
+    "slot4": 33300,
+    "slot2": 31000,
+    "slotSub": 31400,
+    "part4": {
+      "prop": 20103,
+      "name": "会心率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 21103,
+      "name": "会心ダメージ",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part6": {
+      "prop": 31803,
+      "name": "電気属性ダメージボーナス",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png"
+    },
+    "partSub": {
+      "prop": 12102,
+      "name": "攻撃力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "potential": [],
+  "potentialDetail": {},
+  "live2D": "UISpine_Seed"
+}

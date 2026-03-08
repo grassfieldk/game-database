@@ -1,0 +1,2329 @@
+{
+  "id": 1271,
+  "name": "セス",
+  "codeName": "Seth",
+  "rarity": "A",
+  "weaponType": "防護",
+  "elementType": "電気属性",
+  "hitType": "斬撃",
+  "camp": "特務捜査班",
+  "stats": {
+    "armor": 0,
+    "armorGrowth": 0,
+    "attack": 93,
+    "attackGrowth": 52593,
+    "avatarPieceId": 5271,
+    "breakStun": 94,
+    "crit": 500,
+    "critDamage": 5000,
+    "critDmgRes": 0,
+    "critRes": 0,
+    "defence": 60,
+    "defenceGrowth": 81379,
+    "elementAbnormalPower": 86,
+    "elementMystery": 90,
+    "endurance": 0,
+    "hpGrowth": 949375,
+    "hpMax": 699,
+    "penDelta": 0,
+    "penRate": 0,
+    "rbl": 1,
+    "rblCorrectionFactor": 10000,
+    "rblProbability": 0,
+    "shield": 0,
+    "shieldGrowth": 0,
+    "spBarPoint": 120,
+    "spRecover": 120,
+    "stun": 0,
+    "rpMax": 0,
+    "rpRecover": 0
+  },
+  "level": {
+    "1": {
+      "hpMax": 0,
+      "attack": 0,
+      "defence": 0,
+      "levelMax": 10,
+      "levelMin": 0,
+      "materials": {
+        "10": 24000,
+        "100215": 4
+      }
+    },
+    "2": {
+      "hpMax": 480,
+      "attack": 33,
+      "defence": 41,
+      "levelMax": 20,
+      "levelMin": 10,
+      "materials": {
+        "10": 56000,
+        "100225": 12
+      }
+    },
+    "3": {
+      "hpMax": 960,
+      "attack": 66,
+      "defence": 82,
+      "levelMax": 30,
+      "levelMin": 20,
+      "materials": {
+        "10": 120000,
+        "100225": 20
+      }
+    },
+    "4": {
+      "hpMax": 1440,
+      "attack": 99,
+      "defence": 123,
+      "levelMax": 40,
+      "levelMin": 30,
+      "materials": {
+        "10": 200000,
+        "100235": 10
+      }
+    },
+    "5": {
+      "hpMax": 1920,
+      "attack": 132,
+      "defence": 165,
+      "levelMax": 50,
+      "levelMin": 40,
+      "materials": {
+        "10": 400000,
+        "100235": 20
+      }
+    },
+    "6": {
+      "hpMax": 2401,
+      "attack": 165,
+      "defence": 206,
+      "levelMax": 60,
+      "levelMin": 50,
+      "materials": {}
+    }
+  },
+  "extraLevel": {
+    "1": {
+      "maxLevel": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "maxLevel": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "maxLevel": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "maxLevel": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "maxLevel": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "maxLevel": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基礎攻撃力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基礎エネルギー自動回復",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "levelEXP": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "通常攻撃：電撃ストライク",
+          "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大4段の攻撃を放ち、物理属性ダメージと電気属性ダメージを与える。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：電撃ストライク・感電",
+          "desc": "「意気」が75%以上の時に <IconMap:Icon_Normal> を長押しして発動：\n「意気」を75%消費して前方に持続攻撃を行った後、とどめの一撃を放ち、電気属性ダメージを与える。\nとどめの一撃が敵に命中した時、前のメンバーの『クイック支援』が発動可能になる。\nスキル発動中、中断耐性レベルがアップする。",
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：電撃ストライク",
+          "param": [
+            {
+              "name": "1段ダメージ倍率",
+              "desc": "{Skill:1271001, Prop:1001}",
+              "param": {
+                "1271001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 330,
+                  "stunRatioGrowth": 90,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 36.2,
+                      "growth": 330,
+                      "damagePercentage": 72.5,
+                      "stunRatio": 28,
+                      "spRecovery": 6520,
+                      "feverRecovery": 49775,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1809
+                    },
+                    "16": {
+                      "main": 36.2,
+                      "growth": 330,
+                      "damagePercentage": 85.7,
+                      "stunRatio": 31.6,
+                      "spRecovery": 6520,
+                      "feverRecovery": 49775,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1809
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ダメージ倍率",
+              "desc": "{Skill:1271002, Prop:1001}",
+              "param": {
+                "1271002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 520,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 56.5,
+                      "growth": 520,
+                      "damagePercentage": 113.7,
+                      "stunRatio": 68.2,
+                      "spRecovery": 16240,
+                      "feverRecovery": 124025,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4510
+                    },
+                    "16": {
+                      "main": 56.5,
+                      "growth": 520,
+                      "damagePercentage": 134.5,
+                      "stunRatio": 76.6,
+                      "spRecovery": 16240,
+                      "feverRecovery": 124025,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4510
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ダメージ倍率",
+              "desc": "{Skill:1271003, Prop:1001}",
+              "param": {
+                "1271003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1760,
+                  "stunRatioGrowth": 690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 193.3,
+                      "growth": 1760,
+                      "damagePercentage": 386.9,
+                      "stunRatio": 227.2,
+                      "spRecovery": 54450,
+                      "feverRecovery": 416075,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15124
+                    },
+                    "16": {
+                      "main": 193.3,
+                      "growth": 1760,
+                      "damagePercentage": 457.3,
+                      "stunRatio": 254.8,
+                      "spRecovery": 54450,
+                      "feverRecovery": 416075,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15124
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ダメージ倍率",
+              "desc": "{Skill:1271004, Prop:1001}",
+              "param": {
+                "1271004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 890,
+                  "stunRatioGrowth": 370,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 97.4,
+                      "growth": 890,
+                      "damagePercentage": 195.3,
+                      "stunRatio": 121.2,
+                      "spRecovery": 28950,
+                      "feverRecovery": 221375,
+                      "attributeInfliction": 8041,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8042
+                    },
+                    "16": {
+                      "main": 97.4,
+                      "growth": 890,
+                      "damagePercentage": 230.9,
+                      "stunRatio": 136,
+                      "spRecovery": 28950,
+                      "feverRecovery": 221375,
+                      "attributeInfliction": 8041,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8042
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "1段ブレイク倍率",
+              "desc": "{Skill:1271001, Prop:1002}",
+              "param": {
+                "1271001": {
+                  "format": "%",
+                  "damagePercentageGrowth": 330,
+                  "stunRatioGrowth": 90,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 18.1,
+                      "growth": 90,
+                      "damagePercentage": 72.5,
+                      "stunRatio": 28,
+                      "spRecovery": 6520,
+                      "feverRecovery": 49775,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1809
+                    },
+                    "16": {
+                      "main": 18.1,
+                      "growth": 90,
+                      "damagePercentage": 85.7,
+                      "stunRatio": 31.6,
+                      "spRecovery": 6520,
+                      "feverRecovery": 49775,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 1809
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "2段ブレイク倍率",
+              "desc": "{Skill:1271002, Prop:1002}",
+              "param": {
+                "1271002": {
+                  "format": "%",
+                  "damagePercentageGrowth": 520,
+                  "stunRatioGrowth": 210,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 45.1,
+                      "growth": 210,
+                      "damagePercentage": 113.7,
+                      "stunRatio": 68.2,
+                      "spRecovery": 16240,
+                      "feverRecovery": 124025,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4510
+                    },
+                    "16": {
+                      "main": 45.1,
+                      "growth": 210,
+                      "damagePercentage": 134.5,
+                      "stunRatio": 76.6,
+                      "spRecovery": 16240,
+                      "feverRecovery": 124025,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 4510
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "3段ブレイク倍率",
+              "desc": "{Skill:1271003, Prop:1002}",
+              "param": {
+                "1271003": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1760,
+                  "stunRatioGrowth": 690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 151.3,
+                      "growth": 690,
+                      "damagePercentage": 386.9,
+                      "stunRatio": 227.2,
+                      "spRecovery": 54450,
+                      "feverRecovery": 416075,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15124
+                    },
+                    "16": {
+                      "main": 151.3,
+                      "growth": 690,
+                      "damagePercentage": 457.3,
+                      "stunRatio": 254.8,
+                      "spRecovery": 54450,
+                      "feverRecovery": 416075,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 15124
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "4段ブレイク倍率",
+              "desc": "{Skill:1271004, Prop:1002}",
+              "param": {
+                "1271004": {
+                  "format": "%",
+                  "damagePercentageGrowth": 890,
+                  "stunRatioGrowth": 370,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 80.5,
+                      "growth": 370,
+                      "damagePercentage": 195.3,
+                      "stunRatio": 121.2,
+                      "spRecovery": 28950,
+                      "feverRecovery": 221375,
+                      "attributeInfliction": 8041,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8042
+                    },
+                    "16": {
+                      "main": 80.5,
+                      "growth": 370,
+                      "damagePercentage": 230.9,
+                      "stunRatio": 136,
+                      "spRecovery": 28950,
+                      "feverRecovery": 221375,
+                      "attributeInfliction": 8041,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 8042
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "通常攻撃：電撃ストライク・感電",
+          "param": [
+            {
+              "name": "連続攻撃ダメージ倍率",
+              "desc": "{Skill:1271005, Prop:1001}",
+              "param": {
+                "1271005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3480,
+                  "stunRatioGrowth": 740,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 382.8,
+                      "growth": 3480,
+                      "damagePercentage": 765.6,
+                      "stunRatio": 243.1,
+                      "spRecovery": 58210,
+                      "feverRecovery": 444675,
+                      "attributeInfliction": 16168,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14361
+                    },
+                    "16": {
+                      "main": 382.8,
+                      "growth": 3480,
+                      "damagePercentage": 904.8,
+                      "stunRatio": 272.7,
+                      "spRecovery": 58210,
+                      "feverRecovery": 444675,
+                      "attributeInfliction": 16168,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14361
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "とどめの一撃ダメージ倍率",
+              "desc": "{Skill:1271006, Prop:1001}",
+              "param": {
+                "1271006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3860,
+                  "stunRatioGrowth": 670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 424.2,
+                      "growth": 3860,
+                      "damagePercentage": 848.8,
+                      "stunRatio": 219.2,
+                      "spRecovery": 47600,
+                      "feverRecovery": 363825,
+                      "attributeInfliction": 13220,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13221
+                    },
+                    "16": {
+                      "main": 424.2,
+                      "growth": 3860,
+                      "damagePercentage": 1003.2,
+                      "stunRatio": 246,
+                      "spRecovery": 47600,
+                      "feverRecovery": 363825,
+                      "attributeInfliction": 13220,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13221
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "連続攻撃ブレイク倍率",
+              "desc": "{Skill:1271005, Prop:1002}",
+              "param": {
+                "1271005": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3480,
+                  "stunRatioGrowth": 740,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 161.7,
+                      "growth": 740,
+                      "damagePercentage": 765.6,
+                      "stunRatio": 243.1,
+                      "spRecovery": 58210,
+                      "feverRecovery": 444675,
+                      "attributeInfliction": 16168,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14361
+                    },
+                    "16": {
+                      "main": 161.7,
+                      "growth": 740,
+                      "damagePercentage": 904.8,
+                      "stunRatio": 272.7,
+                      "spRecovery": 58210,
+                      "feverRecovery": 444675,
+                      "attributeInfliction": 16168,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 14361
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "とどめの一撃ブレイク倍率",
+              "desc": "{Skill:1271006, Prop:1002}",
+              "param": {
+                "1271006": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3860,
+                  "stunRatioGrowth": 670,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 145.5,
+                      "growth": 670,
+                      "damagePercentage": 848.8,
+                      "stunRatio": 219.2,
+                      "spRecovery": 47600,
+                      "feverRecovery": 363825,
+                      "attributeInfliction": 13220,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13221
+                    },
+                    "16": {
+                      "main": 145.5,
+                      "growth": 670,
+                      "damagePercentage": 1003.2,
+                      "stunRatio": 246,
+                      "spRecovery": 47600,
+                      "feverRecovery": 363825,
+                      "attributeInfliction": 13220,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 13221
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "回避：障害物回避",
+          "desc": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：電光の如き強襲",
+          "desc": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方にシールドラッシュの攻撃を放ち、物理属性ダメージを与える。\nスキル発動中、被ダメージ-40%。",
+          "potential": []
+        },
+        {
+          "name": "回避反撃：進撃のための後退",
+          "desc": "『極限回避』後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に素早く振り下ろし斬撃を放ち、電気属性ダメージを与える。\nスキル発動後に <IconMap:Icon_SpecialReady> を長押しして『強化特殊スキル：電光シールドラッシュ・高電圧』に繋げると、チャージが早めに完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "ダッシュ攻撃：電光の如き強襲",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271011, Prop:1001}",
+              "param": {
+                "1271011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1000,
+                  "stunRatioGrowth": 250,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 110,
+                      "growth": 1000,
+                      "damagePercentage": 220,
+                      "stunRatio": 82.5,
+                      "spRecovery": 19800,
+                      "feverRecovery": 151250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5499
+                    },
+                    "16": {
+                      "main": 110,
+                      "growth": 1000,
+                      "damagePercentage": 260,
+                      "stunRatio": 92.5,
+                      "spRecovery": 19800,
+                      "feverRecovery": 151250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5499
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271011, Prop:1002}",
+              "param": {
+                "1271011": {
+                  "format": "%",
+                  "damagePercentageGrowth": 1000,
+                  "stunRatioGrowth": 250,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 55,
+                      "growth": 250,
+                      "damagePercentage": 220,
+                      "stunRatio": 82.5,
+                      "spRecovery": 19800,
+                      "feverRecovery": 151250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5499
+                    },
+                    "16": {
+                      "main": 55,
+                      "growth": 250,
+                      "damagePercentage": 260,
+                      "stunRatio": 92.5,
+                      "spRecovery": 19800,
+                      "feverRecovery": 151250,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5499
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "回避反撃：進撃のための後退",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271012, Prop:1001}",
+              "param": {
+                "1271012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2100,
+                  "stunRatioGrowth": 910,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 230,
+                      "growth": 2100,
+                      "damagePercentage": 461,
+                      "stunRatio": 300.1,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    },
+                    "16": {
+                      "main": 230,
+                      "growth": 2100,
+                      "damagePercentage": 545,
+                      "stunRatio": 336.5,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271012, Prop:1002}",
+              "param": {
+                "1271012": {
+                  "format": "%",
+                  "damagePercentageGrowth": 2100,
+                  "stunRatioGrowth": 910,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 200,
+                      "growth": 910,
+                      "damagePercentage": 461,
+                      "stunRatio": 300.1,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    },
+                    "16": {
+                      "main": 200,
+                      "growth": 910,
+                      "damagePercentage": 545,
+                      "stunRatio": 336.5,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 25000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊スキル：電光シールドラッシュ",
+          "desc": " <IconMap:Icon_Special> を押して発動：\n前方にシールド攻撃を二回行い、電気属性ダメージを与える。\nスキル発動中、中断耐性レベルがアップする。",
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：電光シールドラッシュ・高電圧",
+          "desc": "エネルギーが十分な時、 <IconMap:Icon_SpecialReady> を押して発動：\n前方に連続斬撃を放ち、電気属性ダメージを大量に与える。\n <IconMap:Icon_SpecialReady> を長押しするとチャージ状態に入り、チャージが完了すると前方に突進し、激しい連続斬撃を放ち、電気属性ダメージを大量に与える。\nスキル発動時、自身の「意気」が75%溜まる。\nスキルのチャージ発動中、中断耐性レベルがアップし、被ダメージ-40%。\n連続斬撃中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "特殊スキル：電光シールドラッシュ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271007, Prop:1001}",
+              "param": {
+                "1271007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 630,
+                  "stunRatioGrowth": 320,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 69.2,
+                      "growth": 630,
+                      "damagePercentage": 138.5,
+                      "stunRatio": 104.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 190300,
+                      "attributeInfliction": 6918,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6919
+                    },
+                    "16": {
+                      "main": 69.2,
+                      "growth": 630,
+                      "damagePercentage": 163.7,
+                      "stunRatio": 117.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 190300,
+                      "attributeInfliction": 6918,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6919
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271007, Prop:1002}",
+              "param": {
+                "1271007": {
+                  "format": "%",
+                  "damagePercentageGrowth": 630,
+                  "stunRatioGrowth": 320,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 69.2,
+                      "growth": 320,
+                      "damagePercentage": 138.5,
+                      "stunRatio": 104.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 190300,
+                      "attributeInfliction": 6918,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6919
+                    },
+                    "16": {
+                      "main": 69.2,
+                      "growth": 320,
+                      "damagePercentage": 163.7,
+                      "stunRatio": 117.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 190300,
+                      "attributeInfliction": 6918,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 6919
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "強化特殊スキル：電光シールドラッシュ・高電圧",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271008, Prop:1001}",
+              "param": {
+                "1271008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5880,
+                  "stunRatioGrowth": 2460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 646,
+                      "growth": 5880,
+                      "damagePercentage": 1292.8,
+                      "stunRatio": 811,
+                      "spRecovery": 0,
+                      "feverRecovery": 2067175,
+                      "attributeInfliction": 59316,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22334
+                    },
+                    "16": {
+                      "main": 646,
+                      "growth": 5880,
+                      "damagePercentage": 1528,
+                      "stunRatio": 909.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 2067175,
+                      "attributeInfliction": 59316,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271008, Prop:1002}",
+              "param": {
+                "1271008": {
+                  "format": "%",
+                  "damagePercentageGrowth": 5880,
+                  "stunRatioGrowth": 2460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 540.4,
+                      "growth": 2460,
+                      "damagePercentage": 1292.8,
+                      "stunRatio": 811,
+                      "spRecovery": 0,
+                      "feverRecovery": 2067175,
+                      "attributeInfliction": 59316,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22334
+                    },
+                    "16": {
+                      "main": 540.4,
+                      "growth": 2460,
+                      "damagePercentage": 1528,
+                      "stunRatio": 909.4,
+                      "spRecovery": 0,
+                      "feverRecovery": 2067175,
+                      "attributeInfliction": 59316,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22334
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ダメージ倍率（チャージ）",
+              "desc": "{Skill:1271009, Prop:1001}",
+              "param": {
+                "1271009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9090,
+                  "stunRatioGrowth": 3860,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 999.8,
+                      "growth": 9090,
+                      "damagePercentage": 1999.7,
+                      "stunRatio": 1273.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 3164150,
+                      "attributeInfliction": 92438,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 39667
+                    },
+                    "16": {
+                      "main": 999.8,
+                      "growth": 9090,
+                      "damagePercentage": 2363.3,
+                      "stunRatio": 1428,
+                      "spRecovery": 0,
+                      "feverRecovery": 3164150,
+                      "attributeInfliction": 92438,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 39667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率（チャージ）",
+              "desc": "{Skill:1271009, Prop:1002}",
+              "param": {
+                "1271009": {
+                  "format": "%",
+                  "damagePercentageGrowth": 9090,
+                  "stunRatioGrowth": 3860,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 849,
+                      "growth": 3860,
+                      "damagePercentage": 1999.7,
+                      "stunRatio": 1273.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 3164150,
+                      "attributeInfliction": 92438,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 39667
+                    },
+                    "16": {
+                      "main": 849,
+                      "growth": 3860,
+                      "damagePercentage": 2363.3,
+                      "stunRatio": 1428,
+                      "spRecovery": 0,
+                      "feverRecovery": 3164150,
+                      "attributeInfliction": 92438,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 39667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "エネルギー消費",
+              "desc": "80Pt",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "連携スキル：最後の裁き",
+          "desc": "『連携スキル』開始時に、対応するエージェントを選択して発動：\n前方に連続斬撃を放ち、電気属性ダメージを大量に与える。\nスキル発動時、自身の「意気」が75%溜まる。\nスキル発動後に <IconMap:Icon_SpecialReady> を長押しして『強化特殊スキル：電光シールドラッシュ・高電圧』に繋げると、チャージが早めに完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "終結スキル：正義は必ず勝つ",
+          "desc": "デシベルレートが『Maximum』に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n前方に打ち上げ攻撃を連続で行った後、とどめの一撃を放ち、電気属性ダメージを大量に与える。\nスキル発動時、自身の「意気」が75%溜まり、追加で支援ポイントを3Pt回復する。\nスキル発動後に <IconMap:Icon_SpecialReady> を長押しして『強化特殊スキル：電光シールドラッシュ・高電圧』に繋げると、チャージが早めに完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "連携スキル：最後の裁き",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271013, Prop:1001}",
+              "param": {
+                "1271013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6410,
+                  "stunRatioGrowth": 1390,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 704.1,
+                      "growth": 6410,
+                      "damagePercentage": 1409.2,
+                      "stunRatio": 458,
+                      "spRecovery": 0,
+                      "feverRecovery": 2667775,
+                      "attributeInfliction": 50453,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 30504
+                    },
+                    "16": {
+                      "main": 704.1,
+                      "growth": 6410,
+                      "damagePercentage": 1665.6,
+                      "stunRatio": 513.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 2667775,
+                      "attributeInfliction": 50453,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 30504
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271013, Prop:1002}",
+              "param": {
+                "1271013": {
+                  "format": "%",
+                  "damagePercentageGrowth": 6410,
+                  "stunRatioGrowth": 1390,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 305.1,
+                      "growth": 1390,
+                      "damagePercentage": 1409.2,
+                      "stunRatio": 458,
+                      "spRecovery": 0,
+                      "feverRecovery": 2667775,
+                      "attributeInfliction": 50453,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 30504
+                    },
+                    "16": {
+                      "main": 305.1,
+                      "growth": 1390,
+                      "damagePercentage": 1665.6,
+                      "stunRatio": 513.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 2667775,
+                      "attributeInfliction": 50453,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 30504
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "終結スキル：正義は必ず勝つ",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271014, Prop:1001}",
+              "param": {
+                "1271014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 18410,
+                  "stunRatioGrowth": 1840,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 2024.3,
+                      "growth": 18410,
+                      "damagePercentage": 4049.4,
+                      "stunRatio": 605.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 40329,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 90330
+                    },
+                    "16": {
+                      "main": 2024.3,
+                      "growth": 18410,
+                      "damagePercentage": 4785.8,
+                      "stunRatio": 679.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 40329,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 90330
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271014, Prop:1002}",
+              "param": {
+                "1271014": {
+                  "format": "%",
+                  "damagePercentageGrowth": 18410,
+                  "stunRatioGrowth": 1840,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 403.3,
+                      "growth": 1840,
+                      "damagePercentage": 4049.4,
+                      "stunRatio": 605.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 40329,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 90330
+                    },
+                    "16": {
+                      "main": 403.3,
+                      "growth": 1840,
+                      "damagePercentage": 4785.8,
+                      "stunRatio": 679.3,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 40329,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 90330
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "クイック支援：武力支援",
+          "desc": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n前方の敵に素早く振り下ろし斬撃を放ち、電気属性ダメージを与える。\nスキル発動後に <IconMap:Icon_SpecialReady> を長押しして『強化特殊スキル：電光シールドラッシュ・高電圧』に繋げると、チャージが早めに完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：迅雷シールド",
+          "desc": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動時、自身の「意気」が25%溜まる。\nパリィ性能はかなり高い。激しい攻撃を受けている際は、「支援ポイント」の消費量が減少する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "支援突撃：裁くは治安の名のもとに",
+          "desc": "『パリィ支援』発動後、 <IconMap:Icon_Normal> を押して発動：\n前方に刺突攻撃を行った後、なぎ払い斬撃を2回放ち、電気属性ダメージを与える。\nスキルが敵に命中した時、前のメンバーの『クイック支援』が発動可能になる。\nスキル発動後に <IconMap:Icon_SpecialReady> を長押しして『強化特殊スキル：電光シールドラッシュ・高電圧』に繋げると、チャージが早めに完了する。\nスキル発動中、無敵効果を得る。",
+          "potential": []
+        },
+        {
+          "name": "クイック支援：武力支援",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271015, Prop:1001}",
+              "param": {
+                "1271015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 910,
+                  "stunRatioGrowth": 460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 100,
+                      "growth": 910,
+                      "damagePercentage": 200.1,
+                      "stunRatio": 150.6,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5000
+                    },
+                    "16": {
+                      "main": 100,
+                      "growth": 910,
+                      "damagePercentage": 236.5,
+                      "stunRatio": 169,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271015, Prop:1002}",
+              "param": {
+                "1271015": {
+                  "format": "%",
+                  "damagePercentageGrowth": 910,
+                  "stunRatioGrowth": 460,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 100,
+                      "growth": 460,
+                      "damagePercentage": 200.1,
+                      "stunRatio": 150.6,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5000
+                    },
+                    "16": {
+                      "main": 100,
+                      "growth": 460,
+                      "damagePercentage": 236.5,
+                      "stunRatio": 169,
+                      "spRecovery": 36000,
+                      "feverRecovery": 275000,
+                      "attributeInfliction": 10000,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 5000
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "パリィ支援：迅雷シールド",
+          "param": [
+            {
+              "name": "パリィ・軽 ブレイク倍率",
+              "desc": "{Skill:1271016, Prop:1002}",
+              "param": {
+                "1271016": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1130,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 246.7,
+                      "growth": 1130,
+                      "damagePercentage": 0,
+                      "stunRatio": 371,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    },
+                    "16": {
+                      "main": 246.7,
+                      "growth": 1130,
+                      "damagePercentage": 0,
+                      "stunRatio": 416.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 36664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・重 ブレイク倍率",
+              "desc": "{Skill:1271017, Prop:1002}",
+              "param": {
+                "1271017": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 1420,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 311.7,
+                      "growth": 1420,
+                      "damagePercentage": 0,
+                      "stunRatio": 467.9,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    },
+                    "16": {
+                      "main": 311.7,
+                      "growth": 1420,
+                      "damagePercentage": 0,
+                      "stunRatio": 524.7,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 41664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "パリィ・連続 ブレイク倍率",
+              "desc": "{Skill:1271018, Prop:1002}",
+              "param": {
+                "1271018": {
+                  "format": "%",
+                  "damagePercentageGrowth": 0,
+                  "stunRatioGrowth": 690,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 151.7,
+                      "growth": 690,
+                      "damagePercentage": 0,
+                      "stunRatio": 227.6,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    },
+                    "16": {
+                      "main": 151.7,
+                      "growth": 690,
+                      "damagePercentage": 0,
+                      "stunRatio": 255.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 0,
+                      "attributeInfliction": 0,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 11664
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突撃：裁くは治安の名のもとに",
+          "param": [
+            {
+              "name": "ダメージ倍率",
+              "desc": "{Skill:1271019, Prop:1001}",
+              "param": {
+                "1271019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3900,
+                  "stunRatioGrowth": 1720,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 428.5,
+                      "growth": 3900,
+                      "damagePercentage": 857.5,
+                      "stunRatio": 567.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 1316975,
+                      "attributeInfliction": 40322,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22667
+                    },
+                    "16": {
+                      "main": 428.5,
+                      "growth": 3900,
+                      "damagePercentage": 1013.5,
+                      "stunRatio": 636,
+                      "spRecovery": 0,
+                      "feverRecovery": 1316975,
+                      "attributeInfliction": 40322,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "ブレイク倍率",
+              "desc": "{Skill:1271019, Prop:1002}",
+              "param": {
+                "1271019": {
+                  "format": "%",
+                  "damagePercentageGrowth": 3900,
+                  "stunRatioGrowth": 1720,
+                  "spRecoveryGrowth": 0,
+                  "feverRecoveryGrowth": 0,
+                  "attackData": [],
+                  "rpRecoveryGrowth": 0,
+                  "levelValues": {
+                    "12": {
+                      "main": 378,
+                      "growth": 1720,
+                      "damagePercentage": 857.5,
+                      "stunRatio": 567.2,
+                      "spRecovery": 0,
+                      "feverRecovery": 1316975,
+                      "attributeInfliction": 40322,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22667
+                    },
+                    "16": {
+                      "main": 378,
+                      "growth": 1720,
+                      "damagePercentage": 1013.5,
+                      "stunRatio": 636,
+                      "spRecovery": 0,
+                      "feverRecovery": 1316975,
+                      "attributeInfliction": 40322,
+                      "spConsume": 0,
+                      "rpRecovery": 0,
+                      "etherPurify": 22667
+                    }
+                  }
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skillList": {
+    "1271001": {
+      "name": "通常攻撃：電撃ストライク",
+      "desc": "<IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271002": {
+      "name": "通常攻撃：電撃ストライク・感電",
+      "desc": "<IconMap:Icon_Normal>（「意気」が75%以上の時に）（長押し）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271003": {
+      "name": "特殊スキル：電光シールドラッシュ",
+      "desc": "<IconMap:Icon_Special>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271004": {
+      "name": "強化特殊スキル：電光シールドラッシュ・高電圧",
+      "desc": "<IconMap:Icon_SpecialReady>（溜め押し可）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271005": {
+      "name": "ダッシュ攻撃：電光の如き強襲",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "elementType": 200,
+      "hitType": 102,
+      "potential": []
+    },
+    "1271006": {
+      "name": "回避反撃：進撃のための後退",
+      "desc": "<IconMap:Icon_Evade>（極限回避成功） ; <IconMap:Icon_Normal>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271007": {
+      "name": "連携スキル：最後の裁き",
+      "desc": "<IconMap:Icon_QTE>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271008": {
+      "name": "終結スキル：正義は必ず勝つ",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271009": {
+      "name": "クイック支援：武力支援",
+      "desc": "<IconMap:Icon_Switch>（クイック支援の発動条件を満たした時）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    },
+    "1271010": {
+      "name": "パリィ支援：迅雷シールド",
+      "desc": "<IconMap:Icon_Switch>（パリィ支援の発動条件を満たした時）",
+      "elementType": 0,
+      "hitType": 0,
+      "potential": []
+    },
+    "1271011": {
+      "name": "支援突撃：裁くは治安の名のもとに",
+      "desc": "<IconMap:Icon_Normal>（パリィ支援を発動した後に）",
+      "elementType": 203,
+      "hitType": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1271501": {
+        "level": 1,
+        "id": 1271501,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力40%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力40%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+50Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271502": {
+        "level": 2,
+        "id": 1271502,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力50%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力50%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+62Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271503": {
+        "level": 3,
+        "id": 1271503,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力60%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力60%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+75Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271504": {
+        "level": 4,
+        "id": 1271504,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力68%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力68%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+85Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271505": {
+        "level": 5,
+        "id": 1271505,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力72%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力72%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+90Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271506": {
+        "level": 6,
+        "id": 1271506,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力76%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力76%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+95Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      },
+      "1271507": {
+        "level": 7,
+        "id": 1271507,
+        "name": [
+          "コアパッシブ：守護者",
+          "追加能力：意気揚々"
+        ],
+        "desc": [
+          "『強化特殊スキル：電光シールドラッシュ・高電圧』を発動した時、セスは自身の開幕攻撃力80%分のシールド「断固たる盾」を生成する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。『通常攻撃：電撃ストライク・感電』または『支援突撃：裁くは治安の名のもとに』による『クイック支援』または『連携スキル』で出場メンバーが交代した場合、対応するメンバーにセスの開幕攻撃力80%分のシールド「断固たる盾」を提供する。最大3000Ptまで、継続時間25秒、10秒に1回のみ発動可能。「断固たる盾」継続中、所持者の異常マスタリー+100Pt。",
+          "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n『通常攻撃：電撃ストライク・感電』のとどめの一撃、または『連携スキル：最後の裁き』が敵に命中した時、ターゲットの全属性状態異常蓄積耐性-20%、継続時間20秒。"
+        ],
+        "extraProperty": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110506": 2
+      },
+      "3": {
+        "10": 28000,
+        "110506": 4
+      },
+      "4": {
+        "10": 60000,
+        "110002": 2,
+        "110506": 9
+      },
+      "5": {
+        "10": 100000,
+        "110002": 3,
+        "110506": 15
+      },
+      "6": {
+        "10": 200000,
+        "110002": 4,
+        "110506": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "ヒロイズム",
+      "desc": "「断固たる盾」が提供するシールド値およびその上限+30%。「断固たる盾」の効果が切れた時、『コアパッシブ：守護者』による異常マスタリーのアップ効果が追加で10秒継続する。",
+      "desc2": "団体行動の際、いつも先頭を突っ走るのがセスだ。\n「犯人逮捕はオレに任してください！近接逮捕術の成績は99点でした。\n1点減点されてるのは…うっかり、教官の手首をグキっとやってしまったからです！」"
+    },
+    "2": {
+      "level": 2,
+      "name": "若気の至り",
+      "desc": "フィールド入場時、即座に自身の「意気」が75%溜まる。『通常攻撃：電撃ストライク・感電』が敵に命中した時、スキルによる電気属性の状態異常蓄積値+35%。",
+      "desc2": "セスは、あらゆる犯罪者にナメられやすい傾向にある。\n疑うことを知らなさそうな瞳か、はたまた無害そうなモフモフの耳やしっぽか、\nどちらがそうさせるのかは定かではないが…\n彼を甘く見た者は、決まって手痛い代償を払う羽目になる。"
+    },
+    "3": {
+      "level": 3,
+      "name": "鈍感力",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "「あんたみたいなすごい治安官なら、\n何でも自分で解決しちゃうんでしょ？誰にも頼らず、ね！」\nこんなことを言われてもセスは顔色一つ変えないが、\nやがて夜中にがばっと起き上がる——\n「昼間のアレ…ひょっとして嫌味だったのか！？」"
+    },
+    "4": {
+      "level": 4,
+      "name": "初心",
+      "desc": "『パリィ支援：迅雷シールド』の与えるブレイク値+25%。",
+      "desc2": "「愚かな善悪観は捨てろ。全員を一人残らず守れる術などない。\nいつかお前も、決断を下すことになる」\n「治安官として当たり前の責務を果たす——それがオレの決断だ。\n変わったのはオマエの方だろ、兄貴」"
+    },
+    "5": {
+      "level": 5,
+      "name": "憧れの遠さ",
+      "desc": "『通常攻撃』、『回避』、『支援スキル』、『特殊スキル』、『連携スキル』のスキルレベル+2",
+      "desc2": "セスはかつて自らの兄を心から尊敬し、そして憧れていた。\nだが知られているとおり、「憧れ」は人を「理解」から遠ざける。\n「いつか必ず立派な治安官になって…あいつを見返してやる！」"
+    },
+    "6": {
+      "level": 6,
+      "name": "理想主義",
+      "desc": "『通常攻撃：電撃ストライク・感電』のとどめの一撃が敵に命中した時、追加で自身の攻撃力500%分のダメージを与え、今回の攻撃が必ず会心になるほか、会心ダメージ+60%。",
+      "desc2": "青年の目に映るすべては明快で、善悪の境も例外ではない。\nこの世はないまぜの混沌だと、そう彼に吹き込む者もいるだろう。\nしかし是と非、正と誤がはっきりした世界を追い求めるのを\n誰が止められるだろうか？"
+    }
+  },
+  "fairyRecommend": {
+    "slot4": 31900,
+    "slot2": 31600,
+    "slotSub": 31300,
+    "part4": {
+      "prop": 30502,
+      "name": "エネルギー自動回復",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part5": {
+      "prop": 12102,
+      "name": "攻撃力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part6": {
+      "prop": 31803,
+      "name": "電気属性ダメージボーナス",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png"
+    },
+    "partSub": {
+      "prop": 11102,
+      "name": "HP",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    }
+  },
+  "potential": [],
+  "potentialDetail": {}
+}
