@@ -1,6 +1,12 @@
 import { access } from "node:fs/promises";
 import { join } from "node:path";
-import { ensureDirectory, logStart, logResults, logError, saveJson } from "./common.ts";
+import {
+  ensureDirectory,
+  logError,
+  logResults,
+  logStart,
+  saveJson,
+} from "./common.ts";
 
 const CHARACTER_INDEX_URL = "https://api.hakush.in/zzz/data/character.json";
 const CHARACTER_DETAIL_URL = "https://api.hakush.in/zzz/data/ja/character";
@@ -19,14 +25,17 @@ type CharacterEntry = {
 async function fetchJson<T = unknown>(url: string): Promise<T> {
   const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`unexpected response from ${url}: ${response.status} ${response.statusText}`);
+    throw new Error(
+      `unexpected response from ${url}: ${response.status} ${response.statusText}`,
+    );
   }
   const payload = await response.json();
   return payload as T;
 }
 
 async function collectEntries(): Promise<CharacterEntry[]> {
-  const characterIndex = await fetchJson<Record<string, RawCharacter>>(CHARACTER_INDEX_URL);
+  const characterIndex =
+    await fetchJson<Record<string, RawCharacter>>(CHARACTER_INDEX_URL);
   return Object.keys(characterIndex).map((key) => {
     const indexEntry = characterIndex[key] as RawCharacter | undefined;
     const outputName = getIndexFileName(key, indexEntry ?? {});
@@ -34,7 +43,7 @@ async function collectEntries(): Promise<CharacterEntry[]> {
       key,
       detailUrl: `${CHARACTER_DETAIL_URL}/${encodeURIComponent(key)}.json`,
       destination: join(OUTPUT_DIR, `${outputName}.json`),
-      indexEntry
+      indexEntry,
     };
   });
 }
@@ -47,7 +56,10 @@ function buildPayload(detail: RawCharacter): RawCharacter {
   return simplifyCharacter(detail);
 }
 
-async function persistJson(entry: CharacterEntry, payload: RawCharacter): Promise<void> {
+async function persistJson(
+  entry: CharacterEntry,
+  payload: RawCharacter,
+): Promise<void> {
   await saveJson(entry.destination, payload);
 }
 
@@ -59,7 +71,9 @@ function pickFirstValue(value: RawCharacter | undefined) {
   return undefined;
 }
 
-function simplifyStats(stats: RawCharacter | undefined): RawCharacter | undefined {
+function simplifyStats(
+  stats: RawCharacter | undefined,
+): RawCharacter | undefined {
   if (!stats) return undefined;
   const simplified: RawCharacter = {};
   for (const [key, entry] of Object.entries(stats)) {
@@ -89,7 +103,9 @@ function toLowerCamelCase(key: string) {
 }
 
 function stripHtmlTags(value: string) {
-  return value.replace(/<([^>]+)>/g, (_, content) => (content.startsWith("IconMap:") ? `<${content}>` : ""));
+  return value.replace(/<([^>]+)>/g, (_, content) =>
+    content.startsWith("IconMap:") ? `<${content}>` : "",
+  );
 }
 
 function normalizeKeys(value: unknown): unknown {
@@ -115,7 +131,9 @@ function shouldNormalizeAsPercent(key: string, format?: unknown) {
   if (normalizedKey === "main" && formatString.includes("%")) {
     return true;
   }
-  return normalizedKey.includes("percentage") || normalizedKey.includes("ratio");
+  return (
+    normalizedKey.includes("percentage") || normalizedKey.includes("ratio")
+  );
 }
 
 function buildLevelValues(stat: RawCharacter): RawCharacter {
@@ -128,7 +146,8 @@ function buildLevelValues(stat: RawCharacter): RawCharacter {
         continue;
       }
       const growthKey = `${key}Growth`;
-      const growthValue = typeof stat[growthKey] === "number" ? (stat[growthKey] as number) : 0;
+      const growthValue =
+        typeof stat[growthKey] === "number" ? (stat[growthKey] as number) : 0;
       const raw = entry + (level - 1) * growthValue;
       values[key] = shouldNormalizeAsPercent(key, format) ? raw / 100 : raw;
     }
@@ -163,10 +182,21 @@ function transformSkillParams(value: unknown): unknown {
   if (value && typeof value === "object") {
     const transformed: RawCharacter = {};
     for (const [key, entry] of Object.entries(value as RawCharacter)) {
-      if (key === "param" && entry && typeof entry === "object" && !Array.isArray(entry)) {
+      if (
+        key === "param" &&
+        entry &&
+        typeof entry === "object" &&
+        !Array.isArray(entry)
+      ) {
         const converted: RawCharacter = {};
-        for (const [paramKey, paramValue] of Object.entries(entry as RawCharacter)) {
-          if (paramValue && typeof paramValue === "object" && !Array.isArray(paramValue)) {
+        for (const [paramKey, paramValue] of Object.entries(
+          entry as RawCharacter,
+        )) {
+          if (
+            paramValue &&
+            typeof paramValue === "object" &&
+            !Array.isArray(paramValue)
+          ) {
             converted[paramKey] = convertParamStat(paramValue as RawCharacter);
           } else {
             converted[paramKey] = paramValue;
@@ -190,9 +220,11 @@ function simplifyCharacter(detail: RawCharacter): RawCharacter {
     Rarity: formatRarity(detail.Rarity),
     WeaponType: pickFirstValue(detail.WeaponType as RawCharacter | undefined),
     ElementType: pickFirstValue(detail.ElementType as RawCharacter | undefined),
-    SpecialElementType: getString((detail.SpecialElementType as RawCharacter | undefined)?.Name),
+    SpecialElementType: getString(
+      (detail.SpecialElementType as RawCharacter | undefined)?.Name,
+    ),
     HitType: pickFirstValue(detail.HitType as RawCharacter | undefined),
-    Camp: pickFirstValue(detail.Camp as RawCharacter | undefined)
+    Camp: pickFirstValue(detail.Camp as RawCharacter | undefined),
   };
   const stats = simplifyStats(detail.Stats as RawCharacter | undefined);
   if (stats) simplified.Stats = stats;
@@ -207,7 +239,7 @@ function simplifyCharacter(detail: RawCharacter): RawCharacter {
     "FairyRecommend",
     "Potential",
     "PotentialDetail",
-    "Live2D"
+    "Live2D",
   ] as const) {
     const entry = detail[key];
     if (entry !== undefined) {

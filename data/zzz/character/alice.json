@@ -208,65 +208,11 @@
     }
   },
   "levelEXP": [
-    50,
-    150,
-    250,
-    400,
-    600,
-    800,
-    1000,
-    1250,
-    1500,
-    1800,
-    1935,
-    2065,
-    2200,
-    2335,
-    2465,
-    2600,
-    2735,
-    2865,
-    3000,
-    4680,
-    4975,
-    5265,
-    5560,
-    5855,
-    6145,
-    6440,
-    6735,
-    7025,
-    7320,
-    10800,
-    11400,
-    12000,
-    12600,
-    13200,
-    13800,
-    14400,
-    15000,
-    15600,
-    16200,
-    17100,
-    18300,
-    19500,
-    20700,
-    21900,
-    23100,
-    24300,
-    25500,
-    26700,
-    27900,
-    34200,
-    36600,
-    39000,
-    41400,
-    43800,
-    46200,
-    48600,
-    51000,
-    53400,
-    55800,
+    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
+    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
+    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
+    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
+    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
     0
   ],
   "skill": {
@@ -295,9 +241,7 @@
                   "stunRatioGrowth": 190,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    98177
-                  ],
+                  "attackData": [98177],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -339,9 +283,7 @@
                   "stunRatioGrowth": 320,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    156912
-                  ],
+                  "attackData": [156912],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -383,9 +325,7 @@
                   "stunRatioGrowth": 280,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    117733
-                  ],
+                  "attackData": [117733],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -427,9 +367,7 @@
                   "stunRatioGrowth": 480,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    199492
-                  ],
+                  "attackData": [199492],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -471,9 +409,7 @@
                   "stunRatioGrowth": 600,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    232261
-                  ],
+                  "attackData": [232261],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -515,9 +451,7 @@
                   "stunRatioGrowth": 960,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    389238
-                  ],
+                  "attackData": [389238],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -559,9 +493,7 @@
                   "stunRatioGrowth": 190,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    98177
-                  ],
+                  "attackData": [98177],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -603,9 +535,7 @@
                   "stunRatioGrowth": 320,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    156912
-                  ],
+                  "attackData": [156912],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -647,9 +577,7 @@
                   "stunRatioGrowth": 280,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    117733
-                  ],
+                  "attackData": [117733],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -691,9 +619,7 @@
                   "stunRatioGrowth": 480,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    199492
-                  ],
+                  "attackData": [199492],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -735,9 +661,7 @@
                   "stunRatioGrowth": 600,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    232261
-                  ],
+                  "attackData": [232261],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -779,9 +703,7 @@
                   "stunRatioGrowth": 960,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    389238
-                  ],
+                  "attackData": [389238],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -829,9 +751,7 @@
                   "stunRatioGrowth": 260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -873,9 +793,7 @@
                   "stunRatioGrowth": 360,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -917,9 +835,7 @@
                   "stunRatioGrowth": 900,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -961,9 +877,7 @@
                   "stunRatioGrowth": 260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1005,9 +919,7 @@
                   "stunRatioGrowth": 360,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1049,9 +961,7 @@
                   "stunRatioGrowth": 900,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1166,9 +1076,7 @@
                   "stunRatioGrowth": 160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    57675
-                  ],
+                  "attackData": [57675],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1210,9 +1118,7 @@
                   "stunRatioGrowth": 160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    57675
-                  ],
+                  "attackData": [57675],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1260,9 +1166,7 @@
                   "stunRatioGrowth": 1000,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    238736
-                  ],
+                  "attackData": [238736],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1304,9 +1208,7 @@
                   "stunRatioGrowth": 1000,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    238736
-                  ],
+                  "attackData": [238736],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1421,9 +1323,7 @@
                   "stunRatioGrowth": 260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    95580
-                  ],
+                  "attackData": [95580],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1465,9 +1365,7 @@
                   "stunRatioGrowth": 260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    95580
-                  ],
+                  "attackData": [95580],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1515,9 +1413,7 @@
                   "stunRatioGrowth": 1570,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1003584
-                  ],
+                  "attackData": [1003584],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1559,9 +1455,7 @@
                   "stunRatioGrowth": 1570,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1003584
-                  ],
+                  "attackData": [1003584],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1614,9 +1508,7 @@
                   "stunRatioGrowth": 1850,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1064254
-                  ],
+                  "attackData": [1064254],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1658,9 +1550,7 @@
                   "stunRatioGrowth": 1850,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1064254
-                  ],
+                  "attackData": [1064254],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1775,9 +1665,7 @@
                   "stunRatioGrowth": 940,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    405590
-                  ],
+                  "attackData": [405590],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1819,9 +1707,7 @@
                   "stunRatioGrowth": 940,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    405590
-                  ],
+                  "attackData": [405590],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1869,9 +1755,7 @@
                   "stunRatioGrowth": 1110,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1913,9 +1797,7 @@
                   "stunRatioGrowth": 1110,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2030,9 +1912,7 @@
                   "stunRatioGrowth": 670,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    125163
-                  ],
+                  "attackData": [125163],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2074,9 +1954,7 @@
                   "stunRatioGrowth": 670,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    125163
-                  ],
+                  "attackData": [125163],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2124,9 +2002,7 @@
                   "stunRatioGrowth": 1110,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2168,9 +2044,7 @@
                   "stunRatioGrowth": 1410,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2212,9 +2086,7 @@
                   "stunRatioGrowth": 690,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2262,9 +2134,7 @@
                   "stunRatioGrowth": 1180,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    813164
-                  ],
+                  "attackData": [813164],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2306,9 +2176,7 @@
                   "stunRatioGrowth": 1180,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    813164
-                  ],
+                  "attackData": [813164],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2492,10 +2360,7 @@
       "1401501": {
         "level": 1,
         "id": 1401501,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+12.5%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2506,10 +2371,7 @@
       "1401502": {
         "level": 2,
         "id": 1401502,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+14.6%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2520,10 +2382,7 @@
       "1401503": {
         "level": 3,
         "id": 1401503,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+16.7%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2534,10 +2393,7 @@
       "1401504": {
         "level": 4,
         "id": 1401504,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+18.8%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2548,10 +2404,7 @@
       "1401505": {
         "level": 5,
         "id": 1401505,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+20.8%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2562,10 +2415,7 @@
       "1401506": {
         "level": 6,
         "id": 1401506,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+22.9%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"
@@ -2576,10 +2426,7 @@
       "1401507": {
         "level": 7,
         "id": 1401507,
-        "name": [
-          "コアパッシブ：双虹の剣心",
-          "追加能力：奇怪を探して"
-        ],
+        "name": ["コアパッシブ：双虹の剣心", "追加能力：奇怪を探して"],
         "desc": [
           "任意のメンバーが敵を物理属性の状態異常にした後、その状態異常が継続している間、アリスは0.95秒ごとにその物理属性の状態異常ダメージ2.5%分の追加ダメージを与える。物理属性の状態異常の敵に対して「混沌」効果を発動させた時、物理属性の状態異常の残り時間が1秒につき、「混沌」効果のダメージ倍率+18%、最大+{CAL:18*10,1,2}%。\nアリスの攻撃が敵に命中すると「剣儀」が溜まる。アリスが状態異常蓄積により「強撃」を発動した時、「剣儀」を10Pt獲得する。「剣儀」の上限は300Pt、1マスは100Pt。\n3段チャージの『通常攻撃：輝く星のワルツ』のとどめの一撃が敵に命中した時、特殊な「強撃」効果である「極性強撃」が発動する。状態異常の蓄積具合を無視して、本来の「強撃」効果{CAL:0+100,1,2}%分のダメージを与え、物理属性を含む別属性の状態異常効果と共に「混沌」を発動させることが可能。\nアリスが「強撃」を発動した時、物理属性の状態異常蓄積効率+25%、継続時間30秒。",
           "チームに他の[異常]または[支援]のメンバーがいる時に発動：\n任意のメンバーが「混沌」を発動させた時、アリスは「剣儀」を30Pt獲得する。\nアリスの異常掌握が140Ptを超えている場合、1Pt超えるごとに異常マスタリー+1.6Pt。\nフィールド入場時、アリスは「剣儀」を300Pt獲得する。「探査モード」において、この効果は180秒に1回のみ発動可能。"

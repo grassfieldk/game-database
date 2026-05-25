@@ -208,65 +208,11 @@
     }
   },
   "levelEXP": [
-    50,
-    150,
-    250,
-    400,
-    600,
-    800,
-    1000,
-    1250,
-    1500,
-    1800,
-    1935,
-    2065,
-    2200,
-    2335,
-    2465,
-    2600,
-    2735,
-    2865,
-    3000,
-    4680,
-    4975,
-    5265,
-    5560,
-    5855,
-    6145,
-    6440,
-    6735,
-    7025,
-    7320,
-    10800,
-    11400,
-    12000,
-    12600,
-    13200,
-    13800,
-    14400,
-    15000,
-    15600,
-    16200,
-    17100,
-    18300,
-    19500,
-    20700,
-    21900,
-    23100,
-    24300,
-    25500,
-    26700,
-    27900,
-    34200,
-    36600,
-    39000,
-    41400,
-    43800,
-    46200,
-    48600,
-    51000,
-    53400,
-    55800,
+    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
+    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
+    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
+    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
+    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
     0
   ],
   "skill": {
@@ -300,11 +246,7 @@
                   "stunRatioGrowth": 140,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    29334,
-                    6670,
-                    73425
-                  ],
+                  "attackData": [29334, 6670, 73425],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -346,11 +288,7 @@
                   "stunRatioGrowth": 380,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    82867,
-                    18840,
-                    207350
-                  ],
+                  "attackData": [82867, 18840, 207350],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -392,9 +330,7 @@
                   "stunRatioGrowth": 210,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    44585
-                  ],
+                  "attackData": [44585],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -436,9 +372,7 @@
                   "stunRatioGrowth": 1030,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    226419
-                  ],
+                  "attackData": [226419],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -480,11 +414,7 @@
                   "stunRatioGrowth": 140,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    29334,
-                    6670,
-                    73425
-                  ],
+                  "attackData": [29334, 6670, 73425],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -526,11 +456,7 @@
                   "stunRatioGrowth": 380,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    82867,
-                    18840,
-                    207350
-                  ],
+                  "attackData": [82867, 18840, 207350],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -572,9 +498,7 @@
                   "stunRatioGrowth": 210,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    44585
-                  ],
+                  "attackData": [44585],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -616,9 +540,7 @@
                   "stunRatioGrowth": 1030,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    226419
-                  ],
+                  "attackData": [226419],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -666,9 +588,7 @@
                   "stunRatioGrowth": 660,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -710,9 +630,7 @@
                   "stunRatioGrowth": 660,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -760,9 +678,7 @@
                   "stunRatioGrowth": 310,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -804,9 +720,7 @@
                   "stunRatioGrowth": 310,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -854,9 +768,7 @@
                   "stunRatioGrowth": 770,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -898,9 +810,7 @@
                   "stunRatioGrowth": 770,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1015,11 +925,7 @@
                   "stunRatioGrowth": 150,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    32084,
-                    7300,
-                    80300
-                  ],
+                  "attackData": [32084, 7300, 80300],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1061,11 +967,7 @@
                   "stunRatioGrowth": 150,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    32084,
-                    7300,
-                    80300
-                  ],
+                  "attackData": [32084, 7300, 80300],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1113,11 +1015,7 @@
                   "stunRatioGrowth": 1160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    244870,
-                    32930,
-                    362175
-                  ],
+                  "attackData": [244870, 32930, 362175],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1159,11 +1057,7 @@
                   "stunRatioGrowth": 1160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    244870,
-                    32930,
-                    362175
-                  ],
+                  "attackData": [244870, 32930, 362175],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1278,11 +1172,7 @@
                   "stunRatioGrowth": 220,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    47685,
-                    0,
-                    119350
-                  ],
+                  "attackData": [47685, 0, 119350],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1324,11 +1214,7 @@
                   "stunRatioGrowth": 220,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    47685,
-                    0,
-                    119350
-                  ],
+                  "attackData": [47685, 0, 119350],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1376,9 +1262,7 @@
                   "stunRatioGrowth": 2670,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    296964
-                  ],
+                  "attackData": [296964],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1420,9 +1304,7 @@
                   "stunRatioGrowth": 2670,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    296964
-                  ],
+                  "attackData": [296964],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1480,9 +1362,7 @@
                   "stunRatioGrowth": 50,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1524,9 +1404,7 @@
                   "stunRatioGrowth": 50,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1636,9 +1514,7 @@
                   "stunRatioGrowth": 1350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    295204
-                  ],
+                  "attackData": [295204],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1680,9 +1556,7 @@
                   "stunRatioGrowth": 1350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    295204
-                  ],
+                  "attackData": [295204],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1730,9 +1604,7 @@
                   "stunRatioGrowth": 2710,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1774,9 +1646,7 @@
                   "stunRatioGrowth": 2710,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1891,11 +1761,7 @@
                   "stunRatioGrowth": 350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    77000,
-                    17500,
-                    192500
-                  ],
+                  "attackData": [77000, 17500, 192500],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1937,11 +1803,7 @@
                   "stunRatioGrowth": 350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    77000,
-                    17500,
-                    192500
-                  ],
+                  "attackData": [77000, 17500, 192500],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1989,9 +1851,7 @@
                   "stunRatioGrowth": 1240,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2033,9 +1893,7 @@
                   "stunRatioGrowth": 1560,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2077,9 +1935,7 @@
                   "stunRatioGrowth": 760,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2127,11 +1983,7 @@
                   "stunRatioGrowth": 1830,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    238371,
-                    0,
-                    1276000
-                  ],
+                  "attackData": [238371, 0, 1276000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2173,11 +2025,7 @@
                   "stunRatioGrowth": 1830,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    238371,
-                    0,
-                    1276000
-                  ],
+                  "attackData": [238371, 0, 1276000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {

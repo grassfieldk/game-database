@@ -19,9 +19,15 @@ export function logStart(topic: string) {
   console.log(`[fetcher] start ${topic}`);
 }
 
-export function logResults(topic: string, saved: number, skipped?: number, skipReason = "already downloaded") {
+export function logResults(
+  topic: string,
+  saved: number,
+  skipped?: number,
+  skipReason = "already downloaded",
+) {
   const base = `[fetcher] saved ${saved} ${topic}`;
-  const suffix = skipped === undefined ? "" : `, skipped ${skipped} ${skipReason}`;
+  const suffix =
+    skipped === undefined ? "" : `, skipped ${skipped} ${skipReason}`;
   console.log(base + suffix);
 }
 

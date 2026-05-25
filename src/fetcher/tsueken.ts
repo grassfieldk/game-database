@@ -1,5 +1,5 @@
 import { load } from "cheerio";
-import { logStart, logResults, logError, saveJson } from "./common.ts";
+import { logError, logResults, logStart, saveJson } from "./common.ts";
 
 const TARGET_URL = "https://gamerch.com/sceptersword/936700";
 const OUTPUT_DIR = new URL("../../data/tsueken/", import.meta.url);
@@ -32,8 +32,8 @@ function parseNumberOrString(input: string): number | string {
 async function fetchHtml(url: string): Promise<string> {
   const response = await fetch(url, {
     headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; Bun/1.0)"
-    }
+      "User-Agent": "Mozilla/5.0 (compatible; Bun/1.0)",
+    },
   });
   if (!response.ok) {
     throw new Error(`Request failed with status ${response.status}`);
@@ -51,8 +51,7 @@ async function collectEntries(): Promise<string[]> {
     try {
       const absolute = new URL(href, TARGET_URL).toString();
       links.push(absolute);
-    } catch {
-    }
+    } catch {}
   });
   return Array.from(new Set(links));
 }
@@ -60,17 +59,20 @@ async function collectEntries(): Promise<string[]> {
 async function parseSkillPage(url: string): Promise<SkillRecord | null> {
   const html = await fetchHtml(url);
   const $ = load(html);
-  const infoCell = $("td.mu__table--col2").filter((_, element) => $(element).text().includes("クールタイム")).first();
+  const infoCell = $("td.mu__table--col2")
+    .filter((_, element) => $(element).text().includes("クールタイム"))
+    .first();
   if (!infoCell.length) {
     return null;
   }
-  const extracted = (infoCell.html() ?? "").split(/<hr[^>]*>/i).map((segment) => segment.trim()).filter(Boolean);
-  if (extracted.length < 2) {
+  const extracted = (infoCell.html() ?? "")
+    .split(/<hr[^>]*>/i)
+    .map((segment) => segment.trim())
+    .filter(Boolean);
+  const [headerSegment, detailSegment, ...descriptionSegments] = extracted;
+  if (!headerSegment || !detailSegment) {
     return null;
   }
-  const headerSegment = extracted[0]!;
-  const detailSegment = extracted[1]!;
-  const descriptionSegments = extracted.slice(2);
   const headerParts = headerSegment
     .split("／")
     .map((segment) => segment.replace(/\s+/gu, " ").trim())
@@ -106,7 +108,7 @@ async function parseSkillPage(url: string): Promise<SkillRecord | null> {
     category,
     cooldown,
     damage,
-    description
+    description,
   };
 }
 

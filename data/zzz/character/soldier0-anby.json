@@ -208,65 +208,11 @@
     }
   },
   "levelEXP": [
-    50,
-    150,
-    250,
-    400,
-    600,
-    800,
-    1000,
-    1250,
-    1500,
-    1800,
-    1935,
-    2065,
-    2200,
-    2335,
-    2465,
-    2600,
-    2735,
-    2865,
-    3000,
-    4680,
-    4975,
-    5265,
-    5560,
-    5855,
-    6145,
-    6440,
-    6735,
-    7025,
-    7320,
-    10800,
-    11400,
-    12000,
-    12600,
-    13200,
-    13800,
-    14400,
-    15000,
-    15600,
-    16200,
-    17100,
-    18300,
-    19500,
-    20700,
-    21900,
-    23100,
-    24300,
-    25500,
-    26700,
-    27900,
-    34200,
-    36600,
-    39000,
-    41400,
-    43800,
-    46200,
-    48600,
-    51000,
-    53400,
-    55800,
+    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
+    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
+    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
+    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
+    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
     0
   ],
   "skill": {
@@ -275,21 +221,12 @@
         {
           "name": "通常攻撃：絶縁破壊",
           "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大5段の斬撃を放ち、電気属性ダメージを与える。\n4段目の攻撃が敵に命中した後、 <IconMap:Icon_Normal> を連打または長押しすると、素早く前方の敵の間をくぐり抜けながら攻撃する、最大で5回重複して発動できる。",
-          "potential": [
-            0
-          ]
+          "potential": [0]
         },
         {
           "name": "通常攻撃：絶縁破壊",
           "desc": " <IconMap:Icon_Normal> を押して発動：\n前方に最大5段の斬撃を放ち、電気属性ダメージを与える。\n通常攻撃3段目は敵を持続的に引き寄せる。\n4段目の攻撃が敵に命中した後、 <IconMap:Icon_Normal> を連打または長押しすると、素早く前方の敵の間をくぐり抜けながら攻撃する、最大で5回重複して発動できる。",
-          "potential": [
-            138100,
-            138101,
-            138102,
-            138103,
-            138104,
-            138105
-          ]
+          "potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "name": "通常攻撃：絶縁破壊",
@@ -304,9 +241,7 @@
                   "stunRatioGrowth": 130,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    47029
-                  ],
+                  "attackData": [47029],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -348,9 +283,7 @@
                   "stunRatioGrowth": 250,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    74633
-                  ],
+                  "attackData": [74633],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -392,9 +325,7 @@
                   "stunRatioGrowth": 330,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    80766
-                  ],
+                  "attackData": [80766],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -424,9 +355,7 @@
                   }
                 }
               },
-              "potential": [
-                0
-              ]
+              "potential": [0]
             },
             {
               "name": "3段ダメージ倍率",
@@ -438,9 +367,7 @@
                   "stunRatioGrowth": 350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    80766
-                  ],
+                  "attackData": [80766],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -470,14 +397,7 @@
                   }
                 }
               },
-              "potential": [
-                138100,
-                138101,
-                138102,
-                138103,
-                138104,
-                138105
-              ]
+              "potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "name": "3段とどめダメージ倍率",
@@ -489,9 +409,7 @@
                   "stunRatioGrowth": 290,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    73327
-                  ],
+                  "attackData": [73327],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -533,9 +451,7 @@
                   "stunRatioGrowth": 630,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    162717
-                  ],
+                  "attackData": [162717],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -577,9 +493,7 @@
                   "stunRatioGrowth": 600,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    171818
-                  ],
+                  "attackData": [171818],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -621,9 +535,7 @@
                   "stunRatioGrowth": 130,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    47029
-                  ],
+                  "attackData": [47029],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -665,9 +577,7 @@
                   "stunRatioGrowth": 250,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    74633
-                  ],
+                  "attackData": [74633],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -709,9 +619,7 @@
                   "stunRatioGrowth": 330,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    80766
-                  ],
+                  "attackData": [80766],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -741,9 +649,7 @@
                   }
                 }
               },
-              "potential": [
-                0
-              ]
+              "potential": [0]
             },
             {
               "name": "3段ブレイク倍率",
@@ -755,9 +661,7 @@
                   "stunRatioGrowth": 350,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    80766
-                  ],
+                  "attackData": [80766],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -787,14 +691,7 @@
                   }
                 }
               },
-              "potential": [
-                138100,
-                138101,
-                138102,
-                138103,
-                138104,
-                138105
-              ]
+              "potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "name": "3段とどめブレイク倍率",
@@ -806,9 +703,7 @@
                   "stunRatioGrowth": 290,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    73327
-                  ],
+                  "attackData": [73327],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -850,9 +745,7 @@
                   "stunRatioGrowth": 630,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    162717
-                  ],
+                  "attackData": [162717],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -894,9 +787,7 @@
                   "stunRatioGrowth": 600,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    171818
-                  ],
+                  "attackData": [171818],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -996,21 +887,12 @@
         {
           "name": "回避反撃：対地放電",
           "desc": "『極限回避』後に <IconMap:Icon_Normal> を押して発動：\n前方の敵に連続斬撃を放ち、電気属性ダメージを与える。\nスキル発動中、無敵効果を得る。",
-          "potential": [
-            0
-          ]
+          "potential": [0]
         },
         {
           "name": "回避反撃：対地放電",
           "desc": "『極限回避』発動後、 <IconMap:Icon_Normal> を押して発動：\n前方の敵に連続斬撃を放ち、電気属性ダメージを与える。敵に命中すると「電荷過負荷」を獲得する、継続時間15秒、重複して獲得すると継続時間が更新される。\n「電荷過負荷」状態中、回避性能がアップする。『通常攻撃』、『ダッシュ攻撃』や『回避反撃』を発動した時、敵が「白雷」を所持している場合、 <IconMap:Icon_Special> を押すことで現在のスキルを中断して『特殊スキル：蒼光』を発動できる。\n「電荷過負荷」状態中に <IconMap:Icon_SpecialReady> を押した時、敵が「白雷」を所持していない場合、直ちに『強化特殊スキル：空を裂く極雷』を発動できる。\nスキル発動中、無敵効果を得る。",
-          "potential": [
-            138100,
-            138101,
-            138102,
-            138103,
-            138104,
-            138105
-          ]
+          "potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "name": "ダッシュ攻撃：奔流",
@@ -1025,9 +907,7 @@
                   "stunRatioGrowth": 190,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    48729
-                  ],
+                  "attackData": [48729],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1069,9 +949,7 @@
                   "stunRatioGrowth": 190,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    48729
-                  ],
+                  "attackData": [48729],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1119,9 +997,7 @@
                   "stunRatioGrowth": 1000,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    500000
-                  ],
+                  "attackData": [500000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1163,9 +1039,7 @@
                   "stunRatioGrowth": 1000,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    500000
-                  ],
+                  "attackData": [500000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1270,14 +1144,7 @@
         {
           "name": "特殊スキル：蒼光・臨界",
           "desc": "『特殊スキル：雷打』ダメージ発生時に発動：\n『強化特殊スキル：空を裂く極雷』または『特殊スキル：蒼光』発動中の場合、そのスキル終了時に自動で『特殊スキル：蒼光・臨界』を発動し、連続斬撃で敵に複数段の電気属性ダメージを与える。このスキルは『追加攻撃』とみなされる。\nスキル発動中、無敵効果を得る。",
-          "potential": [
-            138100,
-            138101,
-            138102,
-            138103,
-            138104,
-            138105
-          ]
+          "potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "name": "強化特殊スキル：空を裂く極雷",
@@ -1297,9 +1164,7 @@
                   "stunRatioGrowth": 280,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    140834
-                  ],
+                  "attackData": [140834],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1341,9 +1206,7 @@
                   "stunRatioGrowth": 280,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    140834
-                  ],
+                  "attackData": [140834],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1391,9 +1254,7 @@
                   "stunRatioGrowth": 0,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1435,9 +1296,7 @@
                   "stunRatioGrowth": 0,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1479,9 +1338,7 @@
                   "stunRatioGrowth": 160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1523,9 +1380,7 @@
                   "stunRatioGrowth": 160,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1573,9 +1428,7 @@
                   "stunRatioGrowth": 0,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1617,9 +1470,7 @@
                   "stunRatioGrowth": 0,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1667,9 +1518,7 @@
                   "stunRatioGrowth": 440,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1699,14 +1548,7 @@
                   }
                 }
               },
-              "potential": [
-                138100,
-                138101,
-                138102,
-                138103,
-                138104,
-                138105
-              ]
+              "potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "name": "ブレイク倍率",
@@ -1718,9 +1560,7 @@
                   "stunRatioGrowth": 440,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1750,24 +1590,10 @@
                   }
                 }
               },
-              "potential": [
-                138100,
-                138101,
-                138102,
-                138103,
-                138104,
-                138105
-              ]
+              "potential": [138100, 138101, 138102, 138103, 138104, 138105]
             }
           ],
-          "potential": [
-            138100,
-            138101,
-            138102,
-            138103,
-            138104,
-            138105
-          ]
+          "potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "name": "強化特殊スキル：空を裂く極雷",
@@ -1782,9 +1608,7 @@
                   "stunRatioGrowth": 2090,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1000000
-                  ],
+                  "attackData": [1000000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1826,9 +1650,7 @@
                   "stunRatioGrowth": 2090,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    1000000
-                  ],
+                  "attackData": [1000000],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1943,9 +1765,7 @@
                   "stunRatioGrowth": 910,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    234001
-                  ],
+                  "attackData": [234001],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -1987,9 +1807,7 @@
                   "stunRatioGrowth": 910,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    234001
-                  ],
+                  "attackData": [234001],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2037,9 +1855,7 @@
                   "stunRatioGrowth": 1260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2081,9 +1897,7 @@
                   "stunRatioGrowth": 1260,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2198,9 +2012,7 @@
                   "stunRatioGrowth": 500,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    63896
-                  ],
+                  "attackData": [63896],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2242,9 +2054,7 @@
                   "stunRatioGrowth": 500,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    63896
-                  ],
+                  "attackData": [63896],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2292,9 +2102,7 @@
                   "stunRatioGrowth": 1240,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2336,9 +2144,7 @@
                   "stunRatioGrowth": 1560,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2380,9 +2186,7 @@
                   "stunRatioGrowth": 760,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    0
-                  ],
+                  "attackData": [0],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2430,9 +2234,7 @@
                   "stunRatioGrowth": 1620,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    240457
-                  ],
+                  "attackData": [240457],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2474,9 +2276,7 @@
                   "stunRatioGrowth": 1620,
                   "spRecoveryGrowth": 0,
                   "feverRecoveryGrowth": 0,
-                  "attackData": [
-                    240457
-                  ],
+                  "attackData": [240457],
                   "rpRecoveryGrowth": 0,
                   "levelValues": {
                     "12": {
@@ -2653,261 +2453,156 @@
       "1381501": {
         "level": 1,
         "id": 1381501,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+12.5%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ15%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381502": {
         "level": 2,
         "id": 1381502,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+14.5%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ17.5%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381503": {
         "level": 3,
         "id": 1381503,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+16.5%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ20%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381504": {
         "level": 4,
         "id": 1381504,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+18.8%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ22.5%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381505": {
         "level": 5,
         "id": 1381505,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+20.8%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ25%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381506": {
         "level": 6,
         "id": 1381506,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+23%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ27.5%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381507": {
         "level": 7,
         "id": 1381507,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "「銀星」の印を持つ敵に対し、0号・アンビーの与ダメージ+25%。\n「銀星」の印を持つ敵に対し、『追加攻撃』による会心ダメージが、0号・アンビーの会心ダメージ30%分アップする。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。"
         ],
         "extraProperty": {},
-        "potential": [
-          0
-        ]
+        "potential": [0]
       },
       "1381508": {
         "level": 1,
         "id": 1381508,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+12.5%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ15%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381509": {
         "level": 2,
         "id": 1381509,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+14.5%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ17.5%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381510": {
         "level": 3,
         "id": 1381510,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+16.5%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ20%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381511": {
         "level": 4,
         "id": 1381511,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+18.8%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ22.5%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381512": {
         "level": 5,
         "id": 1381512,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+20.8%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ25%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381513": {
         "level": 6,
         "id": 1381513,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+23%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ27.5%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381514": {
         "level": 7,
         "id": 1381514,
-        "name": [
-          "コアパッシブ：電位差",
-          "追加能力：誘電分極"
-        ],
+        "name": ["コアパッシブ：電位差", "追加能力：誘電分極"],
         "desc": [
           "0号・アンビーが「銀星」の印を持つ敵に与えるダメージ+25%。「銀星」の印を付与された後、敵ユニットが受ける『追加攻撃』の会心ダメージは、追加で0号・アンビーの会心ダメージ30%分アップする。「銀星」の印継続中、メンバーによる『追加攻撃』ダメージを受けた時、敵ユニットの「銀星」の印はチャージされる、この効果は5秒に1回のみ発動可能。\n「銀星」の『追加攻撃』会心ダメージアップ効果は、追加で0号・アンビーの会心ダメージ5%分アップする。「白雷」を所持している敵ターゲットが撃破された時、0号・アンビーは最も近い敵ターゲットに対して『特殊スキル：雷打』を発動する。",
           "チームに[撃破]または[支援]のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、「銀星」の印を持つ敵に対し、メンバー全員の『追加攻撃』の与ダメージ+25%。\n0号・アンビーの『連携スキル』と『終結スキル』は『追加攻撃』とみなされる。"
         ],
         "extraProperty": {},
-        "potential": [
-          138100,
-          138101,
-          138102,
-          138103,
-          138104,
-          138105
-        ]
+        "potential": [138100, 138101, 138102, 138103, 138104, 138105]
       }
     },
     "materials": {
@@ -3006,14 +2701,7 @@
       "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "potential": [
-    138100,
-    138101,
-    138102,
-    138103,
-    138104,
-    138105
-  ],
+  "potential": [138100, 138101, 138102, 138103, 138104, 138105],
   "potentialDetail": {
     "138100": {
       "id": 138100,
@@ -3022,9 +2710,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 I",
       "level": 1,
-      "abilityList": [
-        13811401
-      ],
+      "abilityList": [13811401],
       "potentialMaterials": [
         {
           "itemId": 20138,
@@ -3039,10 +2725,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 II",
       "level": 2,
-      "abilityList": [
-        13811401,
-        13811501
-      ],
+      "abilityList": [13811401, 13811501],
       "potentialMaterials": [
         {
           "itemId": 20138,
@@ -3057,10 +2740,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 III",
       "level": 3,
-      "abilityList": [
-        13811401,
-        13811502
-      ],
+      "abilityList": [13811401, 13811502],
       "potentialMaterials": [
         {
           "itemId": 20138,
@@ -3075,10 +2755,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 IV",
       "level": 4,
-      "abilityList": [
-        13811401,
-        13811503
-      ],
+      "abilityList": [13811401, 13811503],
       "potentialMaterials": [
         {
           "itemId": 20138,
@@ -3093,10 +2770,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 V",
       "level": 5,
-      "abilityList": [
-        13811401,
-        13811504
-      ],
+      "abilityList": [13811401, 13811504],
       "potentialMaterials": [
         {
           "itemId": 20138,
@@ -3111,10 +2785,7 @@
       "image": "SilverAnby",
       "levelShowName": "白銀の心 VI",
       "level": 6,
-      "abilityList": [
-        13811401,
-        13811505
-      ],
+      "abilityList": [13811401, 13811505],
       "potentialMaterials": [
         {
           "itemId": 20138,
